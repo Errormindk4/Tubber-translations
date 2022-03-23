@@ -1,8 +1,0 @@
-{
-    "ok": "Ok",
-    "cancel": "Cancelar",
-    "error_alert_title": "UPS…",
-    "error_alert_text": "¡Algo salió mal! Inténtalo de nuevo.",
-    "token_expired_alert_title": "¡Sesión expirada!",
-    "token_expired_alert_text": "Vuelva a iniciar sesión para continuar."
-}
