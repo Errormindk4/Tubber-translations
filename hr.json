@@ -752,7 +752,7 @@
     "you-haven-t-added-any-boa": "Niste dodali nijedno plovilo u vaše favorite",
     "add-your-first-boat": "Dodajte vaše prvo plovilo",
     "manage": "Upravljaj",
-    "options": "Options",
+    "options": "Mogućnosti",
     "hidden": "sakriven",
     "step-s-left": "predstojeći korak(ci)",
     "visible": "Vidljiv ",
@@ -903,7 +903,7 @@
     "total-price-of-equipments": "Ukupna cijena opreme",
     "total-price-to-be-paid-on": "Ukupna cijena koja se plaća putem interneta",
     "total-price-to-be-paid-at": "Ukupna cijena koja se plaća u bazi",
-    "base-information": "Base information",
+    "base-information": "Osnovne informacije",
     "do-you-have-questions-abo": "Imate li pitanja o svojoj rezervaciji?",
     "before-leaving": "Prije odlaska",
     "before-leaving-you-can-co": "Prije odlaska možete nas kontaktirati u vezi s rezervacijom putem e-maila, telefona i chata.",
@@ -930,7 +930,7 @@
     "information-about-the-bas": "Podaci o bazi, skiperu i vođi flotile pojavit će se nakon izvršene prve uplate",
     "there-is-no-base-informat": "Još nema osnovnih podataka o ovoj rezervaciji, kontaktirajte nas ako trebate bilo kakve informacije",
     "base-manager": "Base manager",
-    "download-voucher-as-pdf": "Download voucher as PDF",
+    "download-voucher-as-pdf": "Preuzmite vaučer kao PDF",
     "credits": "Zasluge",
     "you-don-t-have-any-trips": "Trenutno nemate rezervacija, ali kada budu obavljene biće postavljene ovdje. Tada ćete moći vidjeti sve detalje, provjeriti plaćanje i postaviti popis posade.",
     "your-upcoming-boat-trips": "Vasi nadolazeci najmovi",
@@ -1202,5 +1202,7 @@
     "discounts": "Popusti",
     "to-top": "Na vrh",
     "go-to-login": "Idite na prijavu",
-    "your-season-has-been-copied": "Vaša sezona je kopirana"
+    "your-season-has-been-copied": "Vaša sezona je kopirana",
+    "maximum-size": "Maksimalna veličina",
+    "upper_number": "Broj"
 }
