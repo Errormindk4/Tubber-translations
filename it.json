@@ -1196,5 +1196,11 @@
     "hello": "Ciao",
     "is-being-processed-we-wi": "is being processed, we will send an email when it has been received",
     "this-proposal-is-missing": "A questa proposta manca una posizione. Non puoi cercare barche senza una posizione.",
-    "upper_bookings": "Prenotazioni"
+    "upper_bookings": "Prenotazioni",
+    "an-error-has-occurred": "C'è stato un errore",
+    "to-top": "In cima",
+    "go-to-login": "Vai al login",
+    "your-season-has-been-copied": "La tua stagione è stata copiata",
+    "boats": "Barche",
+    "discounts": "Sconti"
 }
