@@ -842,7 +842,7 @@
     "you-haven-t-added-any-boa": "Je hebt geen favoriete boten toegevoegd",
     "add-your-first-boat": "Voeg jouw eerste boot toe",
     "manage": "Beheer",
-    "options": "Options",
+    "options": "Opties",
     "hidden": "Verborgen",
     "step-s-left": "stap(pen) te gaan",
     "visible": "Zichtbaar",
@@ -990,7 +990,7 @@
     "total-price-of-equipments": "Totaal prijs van extra's",
     "total-price-to-be-paid-on": "Kosten die online moeten worden voldaan",
     "total-price-to-be-paid-at": "Kosten die lokaal moeten worden voldaan",
-    "base-information": "Base informatie",
+    "base-information": "Basisinformatie",
     "do-you-have-questions-abo": "Nog vragen over de boeking?",
     "before-leaving": "Voor vertrek",
     "before-leaving-you-can-co": "Voor vertrek zijn wij altijd bereikbaar via email, telefoon en social media.",
@@ -1279,5 +1279,7 @@
     "go-to-login": "Ga naar inloggen",
     "your-season-has-been-copied": "Je seizoen is gekopieerd",
     "boats": "Boten",
-    "discounts": "Kortingen"
+    "discounts": "Kortingen",
+    "upper_number": "Nummer",
+    "maximum-size": "Maximumgrootte"
 }
