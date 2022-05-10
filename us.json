@@ -1196,5 +1196,9 @@
     "hello": "Hello",
     "is-being-processed-we-wi": "is being processed, we will send an email when it has been received",
     "this-proposal-is-missing": "This proposal is missing a location. You can't search for boats without a location.",
-    "upper_bookings": "Bookings"
+    "upper_bookings": "Bookings",
+    "an-error-has-occurred": "An error has occurred",
+    "to-top": "To top",
+    "go-to-login": "Go to login",
+    "your-season-has-been-copied": "Your season has been copied"
 }
