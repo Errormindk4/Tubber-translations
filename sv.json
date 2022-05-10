@@ -1196,5 +1196,11 @@
     "hello": "Hej",
     "is-being-processed-we-wi": "is being processed, we will send an email when it has been received",
     "this-proposal-is-missing": "Det här förslaget saknar en plats. Du kan inte söka efter båtar utan plats.",
-    "upper_bookings": "Bookings"
+    "upper_bookings": "Bookings",
+    "an-error-has-occurred": "Ett fel har uppstått",
+    "your-season-has-been-copied": "Din säsong har kopierats",
+    "boats": "Båtar",
+    "discounts": "Rabatter",
+    "to-top": "Till toppen",
+    "go-to-login": "Gå till inloggning"
 }
