@@ -568,7 +568,7 @@
     "total-price-of-equipments": "Total price of equipments",
     "total-price-to-be-paid-on": "Total price to be paid online",
     "total-price-to-be-paid-at": "Total price to be paid at the base",
-    "base-information": "Base information",
+    "base-information": "Basisinformationen",
     "do-you-have-questions-abo": "Do you have questions about your booking?",
     "before-leaving": "Before leaving",
     "before-leaving-you-can-co": "Bevor Sie abreisen, können Sie uns bezüglich Ihrer Buchung per E-Mail, Telefon und Chat kontaktieren.",
@@ -1261,5 +1261,8 @@
     "to-top": "Nach oben",
     "your-season-has-been-copied": "Ihre Saison wurde kopiert",
     "boats": "Boote",
-    "discounts": "Rabatte"
+    "discounts": "Rabatte",
+    "please-complete-th-field": "Anzahl",
+    "upper_number": "Anzahl",
+    "maximum-size": "Maximale Größe"
 }
