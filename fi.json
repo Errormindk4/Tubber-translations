@@ -1196,5 +1196,10 @@
     "hello": "Hei",
     "is-being-processed-we-wi": "is being processed, we will send an email when it has been received",
     "this-proposal-is-missing": "Tästä ehdotuksesta puuttuu sijainti. Et voi etsiä veneitä ilman sijaintia.",
-    "upper_bookings": "Reservaciones"
+    "upper_bookings": "Reservaciones",
+    "to-top": "Huipulle",
+    "discounts": "Alennukset",
+    "boats": "Veneitä",
+    "go-to-login": "Siirry kirjautumiseen",
+    "your-season-has-been-copied": "Kausi on kopioitu"
 }
