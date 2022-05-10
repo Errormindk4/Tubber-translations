@@ -1196,5 +1196,11 @@
     "hello": "Witaj",
     "is-being-processed-we-wi": "is being processed, we will send an email when it has been received",
     "this-proposal-is-missing": "W tej propozycji brakuje lokalizacji. Nie możesz wyszukiwać łodzi bez lokalizacji.",
-    "upper_bookings": "Rezerwacje"
+    "upper_bookings": "Rezerwacje",
+    "an-error-has-occurred": "Wystąpił błąd",
+    "boats": "Łodzie",
+    "discounts": "Rabaty",
+    "to-top": "Do góry",
+    "go-to-login": "Przejdź do logowania",
+    "your-season-has-been-copied": "Twój sezon został skopiowany"
 }
