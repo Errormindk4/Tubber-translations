@@ -1274,5 +1274,10 @@
     "no-transaction-fees-": "Geen transactiekosten!",
     "transaction-fee": "transactiekosten",
     "invite-your-friends": "Nodig je vrienden uit",
-    "upper_bookings": "Boekingen"
+    "upper_bookings": "Boekingen",
+    "to-top": "Naar boven",
+    "go-to-login": "Ga naar inloggen",
+    "your-season-has-been-copied": "Je seizoen is gekopieerd",
+    "boats": "Boten",
+    "discounts": "Kortingen"
 }
