@@ -769,7 +769,7 @@
     "welcome": "Bem vinda",
     "trips": "Viagens",
     "view-all-bookings": "View all bookings",
-    "profile": "Profile",
+    "profile": "Perfil",
     "your-boats": "Os seus barcos",
     "cancelled": "Cancelado",
     "you-have-no-upcoming-trip": "You have no upcoming trips",
@@ -1210,5 +1210,7 @@
     "all-countries-and-regions": "Todos os países e regiões",
     "saved": "Salvou",
     "cap_privacy-policy": "Política de Privacidade",
-    "safe-the-planet": "Proteja o planeta"
+    "safe-the-planet": "Proteja o planeta",
+    "send-a-message": "Envie uma mensagem",
+    "back-to-top": "De volta ao topo"
 }
