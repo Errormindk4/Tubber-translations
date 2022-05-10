@@ -769,7 +769,7 @@
     "welcome": "καλως ΗΡΘΑΤΕ",
     "trips": "Ταξίδια",
     "view-all-bookings": "Δείτε όλες τις κρατήσεις",
-    "profile": "Profile",
+    "profile": "Προφίλ",
     "your-boats": "Τα σκάφη σας",
     "cancelled": "Ακυρώθηκε",
     "you-have-no-upcoming-trip": "Δεν έχετε επερχόμενα ταξίδια",
@@ -1210,5 +1210,7 @@
     "all-countries-and-regions": "Όλες οι χώρες και οι περιοχές",
     "saved": "Αποθηκεύτηκε",
     "cap_privacy-policy": "Πολιτική απορρήτου",
-    "safe-the-planet": "Ασφαλίστε τον πλανήτη"
+    "safe-the-planet": "Ασφαλίστε τον πλανήτη",
+    "send-a-message": "Στέλνω ένα μήνυμα",
+    "back-to-top": "Επιστροφή στην κορυφή"
 }
