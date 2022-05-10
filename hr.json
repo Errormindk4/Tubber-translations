@@ -1196,5 +1196,11 @@
     "hello": "Ciao",
     "is-being-processed-we-wi": "se obrađuje, poslat ćemo e-poštu kad bude primljena",
     "this-proposal-is-missing": "Ovom prijedlogu nedostaje mjesto. Ne možete tražiti čamce bez lokacije.",
-    "upper_bookings": "Rezervacije"
+    "upper_bookings": "Rezervacije",
+    "an-error-has-occurred": "Došlo je do pogreške",
+    "boats": "Čamci",
+    "discounts": "Popusti",
+    "to-top": "Na vrh",
+    "go-to-login": "Idite na prijavu",
+    "your-season-has-been-copied": "Vaša sezona je kopirana"
 }
