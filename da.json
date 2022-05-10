@@ -1196,5 +1196,11 @@
     "hello": "Hej",
     "is-being-processed-we-wi": "is being processed, we will send an email when it has been received",
     "this-proposal-is-missing": "Dette forslag mangler en placering. Du kan ikke søge efter både uden placering.",
-    "upper_bookings": "Reservationer"
+    "upper_bookings": "Reservationer",
+    "an-error-has-occurred": "Der opstod en fejl",
+    "go-to-login": "Gå til login",
+    "to-top": "Til top",
+    "your-season-has-been-copied": "Din sæson er blevet kopieret",
+    "boats": "Både",
+    "discounts": "Rabatter"
 }
