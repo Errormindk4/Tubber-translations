@@ -1195,5 +1195,6 @@
     "view-this-location": "Ver esta ubicación",
     "hello": "Hola",
     "is-being-processed-we-wi": "is being processed, we will send an email when it has been received",
-    "this-proposal-is-missing": "A esta propuesta le falta una ubicación. No puede buscar barcos sin una ubicación."
+    "this-proposal-is-missing": "A esta propuesta le falta una ubicación. No puede buscar barcos sin una ubicación.",
+    "upper_bookings": "Reservaciones"
 }
