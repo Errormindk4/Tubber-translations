@@ -1255,5 +1255,11 @@
     "this-is-fully-insured-s": "This <x id=\"CLOSE_TAG_SPAN\" ctype=\"x-span\" equiv-text=\"</li>\n        </ul>\n      </div>\n     \"/> is fully insured, Security Deposit is ",
     "the-cancelation-policy-f": " The cancelation policy for this boat is <x id=\"START_TAG_SPAN_1\" ctype=\"x-span_1\" equiv-text=\"icy\">\n              <span *ngFor=\"le\"/><x id=\"INTERPOLATION\" equiv-text=\"an>\n            <\"/>",
     "hello": "Hallo",
-    "upper_bookings": "Buchungen"
+    "upper_bookings": "Buchungen",
+    "an-error-has-occurred": "Ein Fehler ist aufgetreten",
+    "go-to-login": "Gehen Sie zum Anmelden",
+    "to-top": "Nach oben",
+    "your-season-has-been-copied": "Ihre Saison wurde kopiert",
+    "boats": "Boote",
+    "discounts": "Rabatte"
 }
