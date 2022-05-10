@@ -1196,5 +1196,11 @@
     "hello": "γεια σας",
     "is-being-processed-we-wi": "is being processed, we will send an email when it has been received",
     "this-proposal-is-missing": "Από αυτήν την πρόταση λείπει μια τοποθεσία. Δεν μπορείτε να αναζητήσετε σκάφη χωρίς τοποθεσία",
-    "upper_bookings": "Κρατήσεις"
+    "upper_bookings": "Κρατήσεις",
+    "an-error-has-occurred": "Der opstod en fejl",
+    "your-season-has-been-copied": "Η σεζόν σας αντιγράφηκε",
+    "to-top": "Στην κορυφή",
+    "go-to-login": "Μεταβείτε στη σύνδεση",
+    "boats": "Βάρκες",
+    "discounts": "Εκπτώσεις"
 }
