@@ -769,7 +769,7 @@
     "welcome": "Välkommen",
     "trips": "Turer",
     "view-all-bookings": "Visa alla bokningar",
-    "profile": "Profile",
+    "profile": "Profil",
     "your-boats": "Dina båtar",
     "cancelled": "Avbokad",
     "you-have-no-upcoming-trip": "You have no upcoming trips",
@@ -1210,5 +1210,7 @@
     "all-countries-and-regions": "Alla länder och regioner",
     "cap_terms-of-use": "Villkor",
     "saved": "Sparad",
-    "safe-the-planet": "Säkra planeten"
+    "safe-the-planet": "Säkra planeten",
+    "send-a-message": "Skicka ett meddelande",
+    "back-to-top": "Tillbaka till toppen"
 }
