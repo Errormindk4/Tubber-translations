@@ -1336,5 +1336,6 @@
     "start-hour": "Start hour",
     "end-hour": "End hour",
     "benefits": "Benefits",
-    "flotilla-locations": "Flotilla locations"
+    "flotilla-locations": "Flotilla locations",
+    "discount_low": "discount"
 }
