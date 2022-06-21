@@ -1220,5 +1220,10 @@
     "we-use-contact-details": "Utilizziamo i tuoi dati di contatto per comunicare con te. Per capire cosa è rilevante per te, utilizziamo strumenti automatici per analizzare i tuoi dati. A tal fine, possiamo utilizzare i livelli di dati personali sopra descritti, inclusi i dati della prenotazione della vacanza in barca a vela (come data di inizio, data di check-out, destinazione, dati dell'equipaggio), extra a pagamento (fuoribordo, trasferimento), informazioni su di te e sugli interessi e le preferenze che hai condiviso con noi (come elenco dei preferiti, yacht preferiti e destinazioni preferite). Combiniamo questi dati con i dati che raccogliamo con cookie e tecnologie simili quando visiti il nostro sito Web o utilizzi la nostra app. Lo uniamo ai dati ottenuti da fornitori di terze parti utilizzando cookie analitici o di marketing o tecnologie correlate. Senza la tua autorizzazione, non utilizzeremo i tuoi dati sensibili.",
     "you-also-data-erased": "Hai anche il diritto alla cancellazione dei tuoi dati, il che significa la cancellazione dei tuoi dati da parte nostra e, ove possibile, di qualsiasi altro titolare del trattamento a cui i tuoi dati sono stati precedentemente resi pubblici da noi. La cancellazione dei tuoi dati trova luogo solo in alcuni casi, prescritti dalla legge ed elencati nell'articolo 17 del Regolamento generale sulla protezione dei dati (GDPR). Ciò include le situazioni in cui i tuoi dati non sono più necessari rispetto alle finalità iniziali per le quali sono stati trattati, nonché le circostanze in cui sono stati trattati illegalmente.",
     "reviews": "recensioni",
-    "upper_reviews": "recensioni"
+    "upper_reviews": "recensioni",
+    "review": "revisione",
+    "boats_low": "barche",
+    "bathroom": "bagno",
+    "bathrooms": "bagni",
+    "toilet": "gabinetto"
 }
