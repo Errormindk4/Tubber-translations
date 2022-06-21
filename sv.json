@@ -1221,5 +1221,9 @@
     "you-also-data-erased": "Du har också rätt att radera dina uppgifter, vilket innebär att vi raderar dina uppgifter och, om möjligt, någon annan personuppgiftsansvarig för vilken dina uppgifter tidigare har offentliggjorts av oss. Radering av dina uppgifter hittar bara plats i vissa fall, föreskrivna i lag och listade under artikel 17 i den allmänna dataskyddsförordningen (GDPR). Detta inkluderar situationer där dina uppgifter inte längre är nödvändiga angående de ursprungliga ändamålen för vilka de behandlades samt omständigheter där de behandlades olagligt.",
     "reviews": "recensioner",
     "upper_reviews": "Recensioner",
-    "discount_low": "rabatt"
+    "discount_low": "rabatt",
+    "review": "review",
+    "boats_low": "båtar",
+    "bathroom": "badrum",
+    "bathrooms": "badrum"
 }
