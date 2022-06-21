@@ -1220,5 +1220,10 @@
     "we-use-contact-details": "Usamos sus datos de contacto para comunicarnos con usted. Para comprender lo que es relevante para usted, utilizamos herramientas automáticas para analizar sus datos. Para este propósito, podemos utilizar los niveles de datos personales descritos anteriormente, incluidos los datos de su reserva de vacaciones en velero (como la fecha de inicio, la fecha de salida, el destino, los datos de la lista de la tripulación), los extras pagados (fuera de borda, transferencia), información sobre usted y los intereses y preferencias que compartió con nosotros (como lista de favoritos, yates preferidos y destinos favoritos). Combinamos estos datos con los datos que recopilamos con cookies y tecnologías similares cuando visita nuestro sitio web o utiliza nuestra aplicación. Lo fusionamos con datos obtenidos por proveedores externos que utilizan cookies analíticas o de marketing o tecnologías relacionadas. Sin su permiso, no usaremos sus datos sensibles.",
     "you-also-data-erased": "También tiene derecho a que se eliminen sus datos, lo que significa la eliminación de sus datos por nuestra parte y, cuando sea posible, cualquier otro controlador al que previamente hayamos hecho públicos sus datos. La eliminación de sus datos solo encuentra un lugar en algunos casos, prescritos por la ley y enumerados en el artículo 17 del Reglamento general de protección de datos (GDPR). Esto incluye situaciones en las que sus datos ya no son necesarios con respecto a los fines iniciales para los que fueron procesados, así como las circunstancias en las que se procesaron ilegalmente.",
     "reviews": "opiniones",
-    "upper_reviews": "opiniones"
+    "upper_reviews": "opiniones",
+    "review": "opinion",
+    "boats_low": "barcos",
+    "bathroom": "baño",
+    "bathrooms": "baños",
+    "toilet": "baño"
 }
