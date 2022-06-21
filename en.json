@@ -1359,5 +1359,9 @@
     "share": "Share",
     "select-type-of-boat": "Select type of boat",
     "select-date": "Select date",
-    "choose-where-you-want-to-go": "Choose where you want to go"
+    "choose-where-you-want-to-go": "Choose where you want to go",
+    "this-bt-from-a-verified-partner": "This  {boatType} from our verified partner:",
+    "bathroom": "bathroom",
+    "bathrooms": "bathrooms",
+    "premium-company": "Premium company"
 }
