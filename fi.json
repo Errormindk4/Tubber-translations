@@ -1219,5 +1219,10 @@
     "you-also-data-erased": "Sinulla on myös oikeus tietojen poistamiseen, mikä tarkoittaa sitä, että me poistamme tietosi ja mahdollisuuksien mukaan kaikki muut rekisterinpitäjät, joille olemme aiemmin julkistaneet tietosi. Tietojesi poistaminen tapahtuu vain joissakin tapauksissa, jotka on säädetty laissa ja lueteltu yleisen tietosuoja-asetuksen (GDPR) 17 artiklassa. Tämä sisältää tilanteita, joissa tietojasi ei enää tarvita alkuperäisiin tarkoituksiin, joita varten niitä on käsitelty, samoin kuin tilanteisiin, joissa niitä on käsitelty laittomasti.",
     "reviews": "arvostelut",
     "discount_low": "alennus",
-    "upper_reviews": "arvostelut"
+    "upper_reviews": "arvostelut",
+    "review": "arvostelu",
+    "boats_low": "Veneitä",
+    "bathroom": "kylpyhuone",
+    "bathrooms": "kylpyhuoneet",
+    "toilet": "WC"
 }
