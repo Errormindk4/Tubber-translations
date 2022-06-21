@@ -1279,5 +1279,11 @@
     "to-handle-your-reservation": "Um Ihre Reservierung zu bearbeiten und Ihre Segelurlaubsarrangements und -käufe zu erfüllen, müssen wir die meisten der oben beschriebenen Informationen verarbeiten. Zum Beispiel benötigen wir Ihren Namen, Ihre Passnummer und andere identifizierende Informationen, um Ihren Gutschein und die lokalen Papiere für das Chartern einer Yacht auszustellen. Um Ihren Segelurlaub zu bestätigen und Sie über Änderungen zu informieren, benötigen wir Ihre Kontaktdaten. Um sicherzustellen, dass Sie die erforderliche Pflege erhalten, benötigen wir bei Bedarf Ihre spezifischen medizinischen Bedürfnisse.",
     "we-use-contact-details": "Wir verwenden Ihre Kontaktdaten, um mit Ihnen zu kommunizieren. Um zu verstehen, was für Sie relevant ist, verwenden wir automatische Tools zur Analyse Ihrer Daten. Zu diesem Zweck können wir die oben beschriebenen personenbezogenen Daten verwenden, einschließlich Ihrer Segelurlaubsbuchungsdaten (wie Startdatum, Check-out-Datum, Ziel, Crew-Listendaten), bezahlter Extras (Außenborder, Transfer), Informationen über Sie und die Interessen und Vorlieben, die Sie uns mitgeteilt haben (z. B. Favoritenliste, bevorzugte Yachten und bevorzugte Ziele). Wir kombinieren diese Daten mit Daten, die wir mit Cookies und ähnlichen Technologien sammeln, wenn Sie unsere Website besuchen oder unsere App verwenden. Wir führen es mit Daten zusammen, die von Drittanbietern mithilfe von Analyse- oder Marketing-Cookies oder verwandten Technologien erhalten wurden. Ohne Ihre Erlaubnis werden wir Ihre sensiblen Daten nicht verwenden.",
     "you-also-data-erased": "Sie haben auch das Recht, Ihre Daten löschen zu lassen, dh die Löschung Ihrer Daten durch uns und, soweit möglich, durch jeden anderen Verantwortlichen, dem Ihre Daten zuvor von uns veröffentlicht wurden. Die Löschung Ihrer Daten findet nur in einigen Fällen statt, die gesetzlich vorgeschrieben und in Artikel 17 der Allgemeinen Datenschutzverordnung (GDPR) aufgeführt sind. Dies schließt Situationen ein, in denen Ihre Daten für die ursprünglichen Zwecke, für die sie verarbeitet wurden, nicht mehr erforderlich sind, sowie Umstände, in denen sie rechtswidrig verarbeitet wurden.",
-    "upper_reviews": "Bewertungen"
+    "upper_reviews": "Bewertungen",
+    "review": "Bewertung",
+    "boats_low": "boote",
+    "this-bt-from-a-verified-partner": "Dies ist ein   {boatType} unser verifizierter",
+    "bathroom": "Badezimmer",
+    "bathrooms": "Badezimmer",
+    "toilet": "Toilette"
 }
