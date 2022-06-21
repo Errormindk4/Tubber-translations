@@ -1221,5 +1221,10 @@
     "you-also-data-erased": "Você também tem o direito de que seus dados sejam apagados, o que significa a exclusão de seus dados por nós e, quando possível, por qualquer outro controlador para o qual seus dados tenham sido previamente divulgados por nós. O apagamento de seus dados só encontra lugar em alguns casos, conforme previsto por lei e listado no artigo 17 do Regulamento Geral de Proteção de Dados (GDPR). Isso inclui situações em que os seus dados não são mais necessários para os fins iniciais para os quais foram processados, bem como as circunstâncias em que foram processados ilegalmente.",
     "reviews": "avaliações",
     "upper_reviews": "avaliações",
-    "discount_low": "desconto"
+    "discount_low": "desconto",
+    "review": "avaliação",
+    "boats_low": "barcos",
+    "bathroom": "casa de banho",
+    "bathrooms": "casas de banho",
+    "toilet": "casa de banho"
 }
