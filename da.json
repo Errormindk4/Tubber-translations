@@ -1221,5 +1221,10 @@
     "you-also-data-erased": "Du har også ret til at slette dine data, hvilket betyder sletning af dine data af os og, hvor det er muligt, enhver anden registeransvarlig, som dine data tidligere er blevet offentliggjort af os. Sletning af dine data finder kun sted i nogle tilfælde, foreskrevet ved lov og opført under artikel 17 i den generelle databeskyttelsesforordning (GDPR). Dette inkluderer situationer, hvor dine data ikke længere er nødvendige for de oprindelige formål, hvortil de blev behandlet, samt omstændigheder, hvor de blev behandlet ulovligt.",
     "reviews": "anmeldelser",
     "upper_reviews": "anmeldelser",
-    "discount_low": "discount"
+    "discount_low": "discount",
+    "review": "anmeldelse",
+    "boats_low": "både",
+    "bathroom": "badeværelse",
+    "bathrooms": "badeværelser",
+    "toilet": "toilette"
 }
