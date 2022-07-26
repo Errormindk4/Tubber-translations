@@ -1224,5 +1224,7 @@
     "boats_low": "Veneitä",
     "bathroom": "kylpyhuone",
     "bathrooms": "kylpyhuoneet",
-    "toilet": "WC"
+    "toilet": "WC",
+    "message": "Viesti",
+    "tubber-scores-a-": "Tubber saa"
 }
