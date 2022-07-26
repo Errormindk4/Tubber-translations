@@ -1226,5 +1226,7 @@
     "boats_low": "barcos",
     "bathroom": "casa de banho",
     "bathrooms": "casas de banho",
-    "toilet": "casa de banho"
+    "toilet": "casa de banho",
+    "message": "Mensagem",
+    "tubber-scores-a-": "Tubber pontua"
 }
