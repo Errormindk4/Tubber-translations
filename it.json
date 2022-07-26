@@ -1225,5 +1225,7 @@
     "boats_low": "barche",
     "bathroom": "bagno",
     "bathrooms": "bagni",
-    "toilet": "gabinetto"
+    "toilet": "gabinetto",
+    "tubber-scores-a-": "Tubber ha ottenuto un punteggio di",
+    "message": "Messaggio"
 }
