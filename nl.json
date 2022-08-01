@@ -211,7 +211,7 @@
     "search": "Zoek",
     "please-select-a-location": "Kies a.u.b. een locatie uit de lijst",
     "loading": "Laden",
-    "choose-a-destination": "Waar en wanneer wil je graag genieten?",
+    "choose-a-destination": "",
     "there-are-no-boats-on-thi": "Er zijn geen boten op deze locatie",
     "address": "Adres",
     "coordinates": "Coördinaten",
@@ -1319,5 +1319,6 @@
     "bathroom": "Natte cel",
     "bathrooms": "Natte cellen",
     "not-feeling-no-problem": "Advies nodig van een expert in plaats van zelf zoeken? Geen probleem!",
-    "tubber-scores-a-": "Tubber scoort een"
+    "tubber-scores-a-": "Tubber scoort een",
+    "not-feeling-like-searching-no-problem": "Advies nodig van een expert in plaats van zelf zoeken? Geen probleem!"
 }
