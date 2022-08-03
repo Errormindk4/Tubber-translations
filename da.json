@@ -379,7 +379,7 @@
     "proposal": "Forslag",
     "delete": "Nedgang",
     "back-to-proposal": "Tilbage til forslag",
-    "discount": "Discount",
+    "discount": "Rabat",
     "private": "Private",
     "name": "Navn",
     "bookingsystem": "Reservationssystem",
@@ -1230,5 +1230,7 @@
     "not-feeling-no-problem": "Vi er her for at hjælpe dig med at planlægge den perfekte ferie",
     "message": "Besked",
     "tubber-scores-a-": "Tubber scorer et",
-    "not-feeling-like-searching-no-problem": "Vi er her for at hjælpe dig med at planlægge den perfekte ferie"
+    "not-feeling-like-searching-no-problem": "Vi er her for at hjælpe dig med at planlægge den perfekte ferie",
+    "bareboat-card-desc": "Sejlads er en livsstil. Du behøver ikke længere at sidde fast med overfyldte resorts, strande og travle byer. Med en sejleferie har du friheden til at finde ro og ro. Hvis du har erfaring med at sejle, kan du leje en bareboat efter eget valg: en sejlbåd, katamaran eller motoryacht. Hvis du ikke kan sejle selv, men gerne vil tilbringe en ferie på en yacht, tilbyder Tubber dig muligheden for at leje en bareboat med en skipper. Skipperen sejler din yacht rundt, og i mellemtiden kan du nyde alle de smukke steder, som du ellers aldrig ville have set. Vi tilbyder også flotillaen til grupper og familier. I en flotilla sejler du med en gruppe på 10 både og en guide til en smuk rute. En ideel og uforglemmelig (sejls) ferie for grupper, par eller familier med børn. Oplev lande som Grækenland, Kroatien, Italien og Spanien i løbet af din sejlsferie på en anden måde.",
+    "skippered-card-desc": "Hvis du ikke kan sejle selv, men gerne vil tilbringe en ferie på en yacht, tilbyder Tubber dig muligheden for at leje en bareboat med en skipper. Skipperen sejler din yacht rundt, og i mellemtiden kan du nyde alle de smukke steder, som du ellers aldrig ville have set. Vi tilbyder også flotillaen til grupper og familier. I en flotilla sejler du med en gruppe på 10 både og en guide til en smuk rute. En ideel og uforglemmelig (sejls) ferie for grupper, par eller familier med børn. Oplev lande som Grækenland, Kroatien, Italien og Spanien i løbet af din sejlsferie på en anden måde. "
 }
