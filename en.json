@@ -1325,7 +1325,7 @@
     "this-is-fully-insured-s": "This {boatType} is fully insured, Security Deposit is",
     "if-you-unable-your-departure": "If you are unable to get to your departure destination due to COVID-19 disruption, you can <b>reschedule without a fee</b> for alternative dates within 12 months following your original departure date. Your deposit will be transferred to your new booking.",
     "always-free-cancellation-7-days": "Always <strong>free cancellation</strong> within seven days of booking, except last-minute bookings.",
-    "because-corona-book-yacht-later": "Because of the Corona crisis, you can book this yacht, pay later",
+    "because-corona-book-yacht-later": "Because of the Corona crisis, you can book this yacht, pay later and ask for a <a :to='{name: \"cancellation-policy-renter\"}'>custom cancellation policy</a>. <a :to='{name: \"contact\"}'>Please contact us</a> our Yacht Charter experts will help you with this.",
     "select-dates-number-people-book": "Select dates and number of people to book",
     "conf-email-sent-you": "Confirmation email has been sent to you",
     "the-boat-not-available": "The boat is not available",
