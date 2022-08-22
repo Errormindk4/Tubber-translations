@@ -208,7 +208,7 @@
     "cabins": "Cabins",
     "length": "Length",
     "per-day": "per day",
-    "-incl-equipments-": "Including mandatory costs",
+    "-incl-equipments-": "(Including mandatory costs)",
     "agent-create-proposal": "Agent: Create proposal",
     "trip-dates": "Trip dates",
     "search-existing-client": "Search existing client",
