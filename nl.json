@@ -230,7 +230,7 @@
     "please-complete-this-fiel": "Gelieve dit veld in te vullen.",
     "charter-type": "Type verhuur",
     "cabins": "Hutten",
-    "length": "Lengte",
+    "length": "Lengte (ft)",
     "feet": "voet",
     "per-day": "per dag",
     "-incl-equipments-": "(incl. verplichte kosten)",
@@ -1386,5 +1386,8 @@
     "checkin-checkout-adequate": "Inchecken en uitchecken zijn voldoende, aanwezig, snel en met een glimlach",
     "the-perfect-preparation-guide": "De perfecte voorbereidingsgids voor zeilvakanties,",
     "yacht-checked-regularly-ambassador": "Jacht wordt regelmatig gecontroleerd door ons team of Tubber-ambassadeur",
-    "yachts-delivered-clean-equipped": "Jachten worden schoon opgeleverd, zijn goed uitgerust en goed onderhouden"
+    "yachts-delivered-clean-equipped": "Jachten worden schoon opgeleverd, zijn goed uitgerust en goed onderhouden",
+    "checkin-and-checkout-adequate": "Inchecken en uitchecken is goed",
+    "health-and-safety": "Gezondheid & Veiligheid",
+    "protective-health-measures-checkin": "Beschermende gezondheidsmaatregelen tijdens het inchecken"
 }
