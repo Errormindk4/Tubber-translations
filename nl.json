@@ -123,7 +123,7 @@
     "view-our-yachts-with-the": "Bekijk onze jachten met de beste reviews",
     "what-our-guests-say-about": "Wat gasten zeggen over Tubber",
     "share-your-adventure-or-r": "Deel jouw ervaring of lees verhalen van mensen over hun Tubber vakantie",
-    "the-tubber-team-consists": "Tubber is een team van fanatieke watersporters die houden van zon, zee en zeilen. Dit team helpt iedereen met zeilwensen aan hun perfecte zeilvakantie. Al vanaf 2010 helpt het Tubber team mensen aan hun ideale zeiljacht, catamaran of motorjacht. Wij kennen de lokale verhuurders persoonlijk en bieden enkel jachten aan van bonafide partners. Wij helpen jaarlijks tienduizenden vakantiegangers aan hun ideale zeilvakantie en staan 24/7 klaar om zo alle zorgen uit handen te nemen.",
+    "the-tubber-team-consists": "Tubber is een team van fanatieke watersporters die houden van zon, zee en zeilen. Dit team helpt iedereen met zeilwensen aan hun perfecte zeilvakantie. . </p> <p>Al vanaf 2010 helpt het Tubber team mensen aan hun ideale zeiljacht, catamaran of motorjacht. Wij kennen de lokale verhuurders persoonlijk en bieden enkel jachten aan van bonafide partners. Wij helpen jaarlijks tienduizenden vakantiegangers aan hun ideale zeilvakantie en staan 24/7 klaar om zo alle zorgen uit handen te nemen.</p>",
     "sailing-holidays-at-tubbe": "Zeilvakanties bij Tubber",
     "sailing-is-a-way-of-life-": "Zeilen is een manier van leven. Je hoeft niet meer vast te zitten aan overvolle badplaatsen, stranden en drukke steden. Met een zeilvakantie heb jij zelf de vrijheid om rust en stilte op te zoeken. Heb je ervaring om zelf te zeilen, dan huur je bij ons een bareboat naar keuze: een zeiljacht, catamaran of motorjacht. Wanneer je zelf niet kunt zeilen maar wel graag een vakantie op een jacht zou willen doorbrengen dan biedt Tubber jou de mogelijkheid om een boot met of zonder schipper te huren. De schipper zeilt jouw jacht rond en ondertussen kun jij genieten van alle mooie plekken waar je anders nooit zou komen. Daarnaast bieden wij voor groepen en gezinnen flottieljes aan. In een flottielje zeil je met een groep van 10 boten en een begeleider langs een mooie route. Een ideale en onvergetelijke (zeil)vakantie voor groepen, stellen en/of gezinnen met kinderen. Ontdek, tijdens jouw zeilvakantie landen als Griekenland, Kroatie, Italië en Spanje, op een andere manier.",
     "how-does-tubber-work-": "Hoe werkt Tubber?",
@@ -1239,7 +1239,7 @@
     "recommended": "Aanbevolen",
     "more-like-this": "Meer zoals dit",
     "copied-": "Gekopieerd!",
-    "share-this-boat-": "Deel deze boot:",
+    "share-this-boat-": "Deel deze boot",
     "the-request-has-been-subm": "Bedankt voor je aanvraag bij Tubber",
     "save-as-favorite": "Opslaan als favoriet",
     "saved-as-favorite": "Opgeslagen als favoriet",
@@ -1323,5 +1323,11 @@
     "not-feeling-like-searching-no-problem": "Advies nodig van een expert in plaats van zelf zoeken? Geen probleem!",
     "bareboat-card-desc": "Zeilen is een manier van leven. Je hoeft niet meer vast te zitten aan overvolle badplaatsen, stranden en drukke steden. Met een zeilvakantie heb jij zelf de vrijheid om rust en stilte op te zoeken. Heb je ervaring om zelf te zeilen, dan huur je bij ons een bareboat naar keuze: een zeiljacht, catamaran of motorjacht. Wanneer je zelf niet kunt zeilen maar wel graag een vakantie op een jacht zou willen doorbrengen dan biedt Tubber jou de mogelijkheid om een boot met of zonder schipper te huren. De schipper zeilt jouw jacht rond en ondertussen kun jij genieten van alle mooie plekken waar je anders nooit zou komen. Daarnaast bieden wij voor groepen en gezinnen flottieljes aan. In een flottielje zeil je met een groep van 10 boten en een begeleider langs een mooie route. Een ideale en onvergetelijke (zeil)vakantie voor groepen, stellen en/of gezinnen met kinderen. Ontdek, tijdens jouw zeilvakantie landen als Griekenland, Kroatie, Italië en Spanje, op een andere manier.",
     "skippered-card-desc": "Wanneer je zelf niet kunt zeilen maar wel graag een vakantie op een jacht zou willen doorbrengen dan biedt Tubber jou de mogelijkheid om een boot met of zonder schipper te huren. De schipper zeilt jouw jacht rond en ondertussen kun jij genieten van alle mooie plekken waar je anders nooit zou komen. Daarnaast bieden wij voor groepen en gezinnen flottieljes aan. In een flottielje zeil je met een groep van 10 boten en een begeleider langs een mooie route. Een ideale en onvergetelijke (zeil)vakantie voor groepen, stellen en/of gezinnen met kinderen. Ontdek, tijdens jouw zeilvakantie landen als Griekenland, Kroatie, Italië en Spanje, op een andere manier. ",
-    "upper_reviews": "Beoordelingen"
+    "upper_reviews": "Beoordelingen",
+    "next-payment-is-due-on": "De volgende betaling is verschuldigd op:",
+    "extra": "Extra",
+    "benefits-of-insurance-with-tubber": "Voordelen van een verzekering bij Tubber",
+    "insurance-conditions": "Verzekeringsvoorwaarden",
+    "the-ultimate-sailing-holiday-with-tubber": "De ultieme zeilvakantie met Tubber",
+    "how-can-go-sailing-holiday": "Hoe kan ik op zeilvakantie gaan?"
 }
