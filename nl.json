@@ -1425,7 +1425,7 @@
     "map": "Kaart",
     "dont-have-an-account-yet-": "Heb je nog geen account?",
     "already-have-an-accout-": "Heb je al een account?",
-    "rent-best-rated-boats-in": "Huur best beoordeelde boten in",
+    "rent-best-rated-boats-in": "Huur de best beoordeelde boten in",
     "learn-more": "Leer meer",
     "search-among-popular-destinations-in": "Zoek tussen de meest populaire zeilbestemmingen in",
     "because-corona-book-yacht-later": "Vanwege de Corona-crisis kun je dit jacht boeken, later betalen en om een <a :to='{name: \"cancellation-policy-renter\"}'>aangepast annuleringsbeleid</a> vragen. <a :to='{name: \"contact\"}'>Neem contact met ons op</a> onze Yacht Charter experts helpen je hierbij.",
