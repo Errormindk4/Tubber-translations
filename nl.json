@@ -233,7 +233,7 @@
     "length": "Lengte (ft)",
     "feet": "voet",
     "per-day": "per dag",
-    "-incl-equipments-": "(incl. verplichte kosten)",
+    "-incl-equipments-": "(inclusief verplichte kosten)",
     "agent-create-proposal": "Agent: Maak voorstel",
     "trip-dates": "Reisdata",
     "search-existing-client": "Zoek in bestaande gast",
@@ -1436,5 +1436,7 @@
     "for-many-people-sailing-holiday": "Een zeilvakantie betekent voor veel mensen een veel te luxe, uitdagende en avontuurlijke vorm van recreatie die niet voor\n\n……hen geschikt is. Niet waar! Zeilen is voor iedereen en kan worden gevormd naar elke (aspirant) watersport wensen van de liefhebber.\n…… Ga met vrienden, je familie, als stel of zeil alleen op een zeiljacht in een exotische bestemming. Ook al kun je zelf niet schipperen, \n……dat betekent niet dat het daar eindigt. Enthousiast en professionele schippers staan klaar om je de kneepjes van het vak te leren\n…… of je gewoon de mooiste te laten zien plaatsen in de omgeving. Maar waar begin je, en hoe werkt het allemaal precies? \n……Goede voorbereiding op je toekomstige zeilvakantie begint hier.",
     "do-you-know-where-start-when-looking": "Weet je waar je moet beginnen als je op zeilvakantie gaat? In deze gids vind je alles wat je moet weten als je op zeilvakantie gaat. \nVind hieronder de belangrijkste onderwerpen!",
     "our-customer-reviews": "Reviews van onze gasten",
-    "rubber-boat-r-i-b": "RIB"
+    "rubber-boat-r-i-b": "RIB",
+    "tubber-is-member-of": "Tubber is Platinum member van",
+    "e-i-s-insurance": "EIS Insurance"
 }
