@@ -1184,7 +1184,7 @@
     "popular-boat": "Suosittu vene",
     "people-are-interested-in": "ihmiset ovat kiinnostuneita tästä veneestä",
     "copied-": "Copied!",
-    "share-this-boat-": "Jaa tämä vene:",
+    "share-this-boat-": "Jaa tämä vene",
     "optional-extras": "Lisävarusteet",
     "view-all-available-extras": "Katso kaikki saatavilla olevat extrat",
     "our-agents-will-send-you": "Toimihenkilömme lähettää sinulle henkilökohtaisen tarjouksen 24 tunnin kuluessa!",
@@ -1229,5 +1229,6 @@
     "tubber-scores-a-": "Tubber saa",
     "skippered-card-desc": "Jos et voi purjehtia itse, mutta haluat viettää lomaa jahdilla, Tubber tarjoaa sinulle mahdollisuuden vuokrata bareboat kipparin kanssa. Kapteeni purjehtii jahtisi ympäri, ja sillä välin voit nauttia kaikista kauniista paikoista, joita et muuten olisi koskaan nähnyt. Tarjoamme myös flotillin ryhmille ja perheille. Flottilla purjehdit 10 veneen kanssa ja opastat kaunista reittiä. Ihanteellinen ja unohtumaton (purjehdus) loma ryhmille, pariskunnille tai lapsiperheille. Löydä maat kuten Kreikka, Kroatia, Italia ja Espanja purjehduslomasi aikana eri tavalla. ",
     "bareboat-card-desc": "Purjehdus on elämäntapa. Sinun ei enää tarvitse olla juuttunut tungosta lomakohteisiin, rantoihin ja vilkkaisiin kaupunkeihin. Purjehtolomalla sinulla on vapaus löytää rauhaa ja hiljaisuutta. Jos sinulla on kokemusta purjehduksesta, voit vuokrata valitsemasi bareboat: purjevene, katamaraani tai moottorijahti. Jos et voi purjehtia itse, mutta haluat viettää lomaa jahdilla, Tubber tarjoaa sinulle mahdollisuuden vuokrata bareboat kipparin kanssa. Kapteeni purjehtii jahtisi ympäri, ja sillä välin voit nauttia kaikista kauniista paikoista, joita et muuten olisi koskaan nähnyt. Tarjoamme myös flotillin ryhmille ja perheille. Flottilla purjehdit 10 veneen kanssa ja opastat kaunista reittiä. Ihanteellinen ja unohtumaton (purjehdus) loma ryhmille, pariskunnille tai lapsiperheille. Löydä maat kuten Kreikka, Kroatia, Italia ja Espanja purjehduslomasi aikana eri tavalla.",
-    "guest-must-claim-contact-form-or-tel": "Asiakkaan on tehtävä vaatimus yhteydenottolomakkeella tai 24 tunnin puhelintuki +31 (0) 58 8200 200."
+    "guest-must-claim-contact-form-or-tel": "Asiakkaan on tehtävä vaatimus yhteydenottolomakkeella tai 24 tunnin puhelintuki +31 (0) 58 8200 200.",
+    "cap_privacy-policy": "Tietosuojakäytäntö"
 }
