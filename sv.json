@@ -246,7 +246,7 @@
     "read-more": "Läs mer",
     "please-fill-in-all-fields": "Fyll i alla fält innan du begär en bokning",
     "rent-the-whole-day": "Hyr hela dagen",
-    "this-boat-is-not-availabl": "Denna båt är inte tillgängliga för dessa datum.",
+    "this-boat-is-not-availabl": "Ingen tillgänglighet i realtid, begär offert.",
     "equipments": "Utrustning",
     "full-equipment-list": "Full utrustning lista",
     "duration": "Varaktighet",
@@ -1210,7 +1210,7 @@
     "all-countries-and-regions": "Alla länder och regioner",
     "cap_terms-of-use": "Villkor",
     "saved": "Sparad",
-    "safe-the-planet": "Säkra planeten",
+    "safe-the-planet": "Rädda planeten",
     "send-a-message": "Skicka ett meddelande",
     "back-to-top": "Tillbaka till toppen",
     "whether-skipper-accompany": "Oavsett om du är en erfaren seglare, eller om du föredrar en skeppare att följa med dig: Tubber finns där för att möta dina krav.",
@@ -1333,7 +1333,7 @@
     "always-free-cancellation-7-days": "Alltid gratis avbokning inom sju dagar efter bokning, förutom sista minuten-bokningar.",
     "select-dates-number-people-book": "Välj datum och antal personer att boka",
     "conf-email-sent-you": "Bekräftelsemail har skickats till dig",
-    "the-boat-not-available": "Båten är inte tillgänglig",
+    "the-boat-not-available": "Ingen tillgänglighet i realtid, begär offert.",
     "this-bt-from-a-premium-parent": "Denna {boatType} är från en Premium-partner. Tubber har kunnat utfärda denna märkning till flera partners eftersom: ",
     "our-agents-wl-send-personal-offer": "Våra agenter skickar dig ett personligt erbjudande inom 24 timmar!",
     "all-reviews": "Alla recensioner",
@@ -1418,5 +1418,9 @@
     "site-info_address-locality": "Groningen",
     "site-info_address-region": "Groningen",
     "site-info_postal-code": "9743 AD",
-    "ibar-link": "-"
+    "ibar-link": "-",
+    "bnr-link": "https://blog.tubber.com/en/",
+    "thanks-for-your-review": "Tack för din recension!",
+    "thanks-telling-sailing-holiday": "Tack för att du berättade om din seglingssemester. Dina recensioner hjälper till att göra oss bättre för alla.",
+    "done": "Gjort"
 }
