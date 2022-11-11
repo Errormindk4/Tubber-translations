@@ -246,7 +246,7 @@
     "read-more": "Διαβάστε περισσότερα",
     "please-fill-in-all-fields": "Παρακαλώ συμπληρώστε όλα τα πεδία πριν ζητήσετε μία κράτηση!",
     "rent-the-whole-day": "Ενοικίαση για όλη την ημέρα",
-    "this-boat-is-not-availabl": "Το σκάφος δεν είναι διαθέσιμο γι' αυτές τις ημερομηνίες.",
+    "this-boat-is-not-availabl": "Δεν υπάρχει διαθεσιμότητα σε πραγματικό χρόνο, ζητήστε μια προσφορά.",
     "equipments": "Εξοπλισμοί",
     "full-equipment-list": "Πλήρης λίστα εξοπλισμού",
     "duration": "Διάρκεια",
@@ -1210,7 +1210,7 @@
     "all-countries-and-regions": "Όλες οι χώρες και οι περιοχές",
     "saved": "Αποθηκεύτηκε",
     "cap_privacy-policy": "Πολιτική απορρήτου",
-    "safe-the-planet": "Ασφαλίστε τον πλανήτη",
+    "safe-the-planet": "Σώσε τον πλανήτη",
     "send-a-message": "Στέλνω ένα μήνυμα",
     "back-to-top": "Επιστροφή στην κορυφή",
     "whether-skipper-accompany": "Είτε είστε έμπειρος ναυτικός, είτε προτιμάτε να σας συνοδεύσει ένας κυβερνήτης: ο Tubber είναι εκεί για να ικανοποιήσει τις απαιτήσεις σας.",
@@ -1271,7 +1271,7 @@
     "always-free-cancellation-7-days": "Πάντα δωρεάν ακύρωση εντός επτά ημερών από την κράτηση, εκτός από τις κρατήσεις της τελευταίας στιγμής.",
     "select-dates-number-people-book": "Επιλέξτε ημερομηνίες και αριθμό ατόμων για κράτηση",
     "conf-email-sent-you": "Σας έχει σταλεί email επιβεβαίωσης",
-    "the-boat-not-available": "Το σκάφος δεν είναι διαθέσιμο",
+    "the-boat-not-available": "Δεν υπάρχει διαθεσιμότητα σε πραγματικό χρόνο, ζητήστε μια προσφορά.",
     "our-agents-wl-send-personal-offer": "Οι αντιπρόσωποί μας θα σας στείλουν μια προσωπική προσφορά εντός 24 ωρών!",
     "all-reviews": "Όλες οι κριτικές",
     "choose--way-to-share": "Επιλέξτε έναν τρόπο κοινής χρήσης",
@@ -1418,5 +1418,9 @@
     "site-info_address-locality": "Groningen",
     "site-info_address-region": "Groningen",
     "site-info_postal-code": "9743 AD",
-    "ibar-link": "-"
+    "ibar-link": "-",
+    "bnr-link": "https://blog.tubber.com/en/",
+    "thanks-for-your-review": "Ευχαριστούμε για την κριτική σας!",
+    "thanks-telling-sailing-holiday": "Ευχαριστούμε που μας είπατε για τις διακοπές σας με ιστιοπλοΐα. Οι κριτικές σας μας βοηθούν να κάνουμε καλύτερους για όλους.",
+    "done": "Ολοκληρώθηκε"
 }
