@@ -246,7 +246,7 @@
     "read-more": "Czytaj więcej",
     "please-fill-in-all-fields": "Przed wysłaniem prośby o rezerwacje, należy wypełnić wszystkie pola!",
     "rent-the-whole-day": "Wynajmij na cały dzień",
-    "this-boat-is-not-availabl": "Dana łódź jest niedostępna w wybranym przedziale dat.",
+    "this-boat-is-not-availabl": "Brak dostępności w czasie rzeczywistym, poproś o wycenę.",
     "equipments": "Wyposażenie",
     "full-equipment-list": "Pełna lista wyposażenia",
     "duration": "Czas trwania",
@@ -1211,7 +1211,7 @@
     "saved": "Zapisane",
     "upper_terms": "Polityka prywatności",
     "cap_privacy-policy": "Polityka prywatności",
-    "safe-the-planet": "Bezpieczna planeta",
+    "safe-the-planet": "Ocal planetę",
     "back-to-top": "Powrót do góry",
     "send-a-message": "Wysłać wiadomość",
     "whether-skipper-accompany": "Niezależnie od tego czy jesteś doświadczonym żeglarzem, czy wolisz korzystać z pomocy sternika, Tubber spełni Twoje wszelkie wymagania.",
@@ -1265,7 +1265,7 @@
     "always-free-cancellation-7-days": "Zawsze bezpłatne anulowanie w ciągu siedmiu dni od dokonania rezerwacji, z wyjątkiem rezerwacji w ostatniej chwili.",
     "select-dates-number-people-book": "Wybierz daty i liczbę osób do rezerwacji",
     "conf-email-sent-you": "E-mail z potwierdzeniem został wysłany do Ciebie",
-    "the-boat-not-available": "Łódź nie jest dostępna",
+    "the-boat-not-available": "Brak dostępności w czasie rzeczywistym, poproś o wycenę.",
     "this-bt-from-a-premium-parent": "Ten {boatType} pochodzi od Partnera Premium. Firma Tubber mogła nadać tę etykietę kilku partnerom, ponieważ: ",
     "our-agents-wl-send-personal-offer": "Nasi agenci prześlą Ci osobistą ofertę w ciągu 24 godzin!",
     "all-reviews": "Wszystkie recenzje",
@@ -1418,5 +1418,9 @@
     "site-info_address-locality": "Groningen",
     "site-info_address-region": "Groningen",
     "site-info_postal-code": "9743 AD",
-    "ibar-link": "-"
+    "ibar-link": "-",
+    "bnr-link": "https://blog.tubber.com/en/",
+    "thanks-for-your-review": "Dziękujemy za recenzję!",
+    "thanks-telling-sailing-holiday": "Dziękujemy za opowiedzenie nam o wakacjach pod żaglami. Twoje opinie pomogą nam ulepszyć nas dla wszystkich.",
+    "done": "Gotowe"
 }
