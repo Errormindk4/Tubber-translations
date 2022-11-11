@@ -246,7 +246,7 @@
     "read-more": "Leggi di più",
     "please-fill-in-all-fields": "Compilate tutti i campi prima di richiedere la  prenotazione!",
     "rent-the-whole-day": "Affitta l'intera giornata",
-    "this-boat-is-not-availabl": "Questa barca non è disponibile in queste date.",
+    "this-boat-is-not-availabl": "Nessuna disponibilità in tempo reale, richiedi un preventivo.",
     "equipments": "Attrezzature",
     "full-equipment-list": "Elenco completo delle attrezzature",
     "duration": "Durata",
@@ -1210,7 +1210,7 @@
     "all-countries-and-regions": "Tutti i paesi e le regioni",
     "saved": "Salvato",
     "cap_terms-of-use": "Condizioni d'uso",
-    "safe-the-planet": "Condizioni d'uso",
+    "safe-the-planet": "Salva il pianeta",
     "send-a-message": "Mandare un messaggio",
     "back-to-top": "Torna in cima",
     "whether-skipper-accompany": "Che tu sia un esperto velista o se preferisci uno skipper che ti accompagni: Tubber è qui per soddisfare le tue richieste.",
@@ -1265,7 +1265,7 @@
     "always-free-cancellation-7-days": "Sempre cancellazione gratuita entro sette giorni dalla prenotazione, eccetto per le prenotazioni last minute.",
     "select-dates-number-people-book": "Seleziona le date e il numero di persone da prenotare",
     "conf-email-sent-you": "L'email di conferma ti è stata inviata",
-    "the-boat-not-available": "La barca non è disponibile",
+    "the-boat-not-available": "Nessuna disponibilità in tempo reale, richiedi un preventivo.",
     "this-bt-from-a-premium-parent": "Questo {boatType} proviene da un Premium Partner. Tubber ha potuto rilasciare questa etichetta a diversi partner perché: ",
     "our-agents-wl-send-personal-offer": "I nostri agenti ti invieranno un'offerta personale entro 24 ore!",
     "all-reviews": "Tutte le recensioni",
@@ -1418,5 +1418,9 @@
     "site-info_address-region": "Groningen",
     "meta_title": "Noleggia barche direttamente dal proprietario locale sicuro e con facilità | Tubber",
     "site-info_postal-code": "9743 AD",
-    "ibar-link": "-"
+    "ibar-link": "-",
+    "bnr-link": "https://blog.tubber.com/en/",
+    "thanks-for-your-review": "Grazie per la tua recensione!",
+    "thanks-telling-sailing-holiday": "Grazie per averci parlato della tua vacanza in barca a vela. Le tue recensioni ci aiutano a renderci migliori per tutti.",
+    "done": "Fatto"
 }
