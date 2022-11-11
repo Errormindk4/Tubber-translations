@@ -246,7 +246,7 @@
     "read-more": "Lue lisää",
     "please-fill-in-all-fields": "Ole hyvä ja täytä kentät ennen kuin teet varauspyynnön!",
     "rent-the-whole-day": "Vuokraa koko päivä",
-    "this-boat-is-not-availabl": "Tämä vene ei ole saatavana näinä päivinä",
+    "this-boat-is-not-availabl": "Ei reaaliaikaista saatavuutta, pyydä tarjous.",
     "equipments": "Varusteet",
     "full-equipment-list": "Koko laitteiden luettelo",
     "duration": "Kesto",
@@ -1208,7 +1208,7 @@
     "cap_terms-of-use": "Käyttöehdot",
     "all-countries-and-regions": "Kaikki maat ja alueet",
     "saved": "Tallennettu",
-    "safe-the-planet": "Turvaa planeetta",
+    "safe-the-planet": "Pelasta planeetta",
     "send-a-message": "Lähetä viesti",
     "back-to-top": "Takaisin alkuun",
     "whether-skipper-accompany": "Olitpa kokenut merimies, tai jos haluat päällikön seurata sinua: Tubber on siellä vastaamaan vaatimuksiinne.",
@@ -1267,7 +1267,7 @@
     "always-free-cancellation-7-days": "Aina ilmainen peruutus seitsemän päivän sisällä varauksesta, paitsi viime hetken varauksia.",
     "select-dates-number-people-book": "Valitse päivämäärät ja varattavien henkilöiden lukumäärä",
     "conf-email-sent-you": "Vahvistussähköposti on lähetetty sinulle",
-    "the-boat-not-available": "Vene ei ole käytettävissä",
+    "the-boat-not-available": "Ei reaaliaikaista saatavuutta, pyydä tarjous.",
     "this-bt-from-a-premium-parent": "Tämä {boatType} on Premium-kumppanilta. Tubber on pystynyt myöntämään tämän etiketin useille kumppaneille, koska: ",
     "our-agents-wl-send-personal-offer": "Agenttimme lähettävät sinulle henkilökohtaisen tarjouksen 24 tunnin sisällä!",
     "all-reviews": "Kaikki arvostelut",
@@ -1418,5 +1418,9 @@
     "site-info_address-locality": "Groningen",
     "site-info_address-region": "Groningen",
     "site-info_postal-code": "9743 AD",
-    "ibar-link": "-"
+    "ibar-link": "-",
+    "bnr-link": "https://blog.tubber.com/en/",
+    "thanks-for-your-review": "Kiitos arvostelustasi!",
+    "thanks-telling-sailing-holiday": "Kiitos, että kerroit meille purjehduslomasi. Arvostelusi auttavat tekemään meistä parempia kaikille.",
+    "done": "Tehty"
 }
