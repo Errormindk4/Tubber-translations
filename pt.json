@@ -246,7 +246,7 @@
     "read-more": "Consulte Mais informação",
     "please-fill-in-all-fields": "Preencha todos os campos antes de solicitar uma reserva!",
     "rent-the-whole-day": "Alugue o dia inteiro",
-    "this-boat-is-not-availabl": "Este barco não se encontra disponível nestas datas.",
+    "this-boat-is-not-availabl": "Sem disponibilidade em tempo real, solicite um orçamento.",
     "equipments": "Equipamentos",
     "full-equipment-list": "Lista completa de equipamentos",
     "duration": "Duração",
@@ -1210,7 +1210,7 @@
     "all-countries-and-regions": "Todos os países e regiões",
     "saved": "Salvou",
     "cap_privacy-policy": "Política de Privacidade",
-    "safe-the-planet": "Proteja o planeta",
+    "safe-the-planet": "Salve o planeta",
     "send-a-message": "Envie uma mensagem",
     "back-to-top": "De volta ao topo",
     "whether-skipper-accompany": "Se você é um marinheiro experiente, ou se prefere um capitão para acompanhá-lo: Tubber está lá para atender às suas demandas.",
@@ -1269,7 +1269,7 @@
     "always-free-cancellation-7-days": "Sempre cancelamento gratuito até sete dias após a reserva, exceto reservas de última hora.",
     "select-dates-number-people-book": "Selecione as datas e o número de pessoas para reservar",
     "conf-email-sent-you": "O e-mail de confirmação foi enviado para você",
-    "the-boat-not-available": "O barco não está disponível",
+    "the-boat-not-available": "Sem disponibilidade em tempo real, solicite um orçamento.",
     "this-bt-from-a-premium-parent": "Este {boatType} é de um Parceiro Premium. A Tubber conseguiu emitir este rótulo para vários parceiros porque: ",
     "our-agents-wl-send-personal-offer": "Nossos agentes enviarão uma oferta pessoal dentro de 24 horas!",
     "all-reviews": "Todas as avaliações",
@@ -1418,5 +1418,9 @@
     "site-info_address-locality": "Groningen",
     "site-info_address-region": "Groningen",
     "site-info_postal-code": "9743 AD",
-    "ibar-link": "-"
+    "ibar-link": "-",
+    "bnr-link": "https://blog.tubber.com/en/",
+    "thanks-telling-sailing-holiday": "Obrigado por nos contar sobre suas férias de navegação. Suas avaliações nos ajudam a ser melhores para todos.",
+    "done": "Feita",
+    "thanks-for-your-review": "Obrigado pela sua avaliação!"
 }
