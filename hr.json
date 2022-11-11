@@ -246,7 +246,7 @@
     "read-more": "Čitaj više",
     "please-fill-in-all-fields": "Popunite sva polja prije zahtjeva za rezervaciju",
     "rent-the-whole-day": "Najam cijelog dana",
-    "this-boat-is-not-availabl": "Plovilo nije dostupno u tom periodu",
+    "this-boat-is-not-availabl": "Nema raspoloživosti u stvarnom vremenu, zatražite ponudu.",
     "equipments": "Opreme",
     "full-equipment-list": "Cijeli popis opreme",
     "duration": "Trajanje",
@@ -1206,7 +1206,7 @@
     "maximum-size": "Maksimalna veličina",
     "upper_number": "Broj",
     "cap_terms": "Pojmovi",
-    "safe-the-planet": "Sigurno planet",
+    "safe-the-planet": "Spasite Planet",
     "all-countries-and-regions": "Sve zemlje i regije",
     "saved": "Spremljeno",
     "cap_privacy-policy": "Politika privatnosti",
@@ -1298,7 +1298,7 @@
     "always-free-cancellation-7-days": "Uvijek <strong>besplatno otkazivanje</strong> unutar sedam dana od rezervacije, osim rezervacija u zadnji tren.",
     "select-dates-number-people-book": "Odaberite datume i broj osoba koje želite rezervirati",
     "conf-email-sent-you": "Poslana vam je potvrdna e-pošta",
-    "the-boat-not-available": "Brod nije dostupan",
+    "the-boat-not-available": "Nema raspoloživosti u stvarnom vremenu, zatražite ponudu.",
     "this-bt-from-a-premium-parent": "Ovaj {boatType} je od Premium partnera. Tubber je uspio izdati ovu oznaku nekoliko partnera jer: ",
     "our-agents-wl-send-personal-offer": "Naši agenti će vam poslati osobnu ponudu u roku od 24 sata!",
     "all-reviews": "Sve recenzije",
@@ -1418,5 +1418,9 @@
     "site-info_address-locality": "Groningen",
     "site-info_address-region": "Groningen",
     "site-info_postal-code": "9743 AD",
-    "ibar-link": "-"
+    "ibar-link": "-",
+    "bnr-link": "https://blog.tubber.com/en/",
+    "thanks-for-your-review": "Hvala na recenziji!",
+    "thanks-telling-sailing-holiday": "Hvala što ste nam rekli o svom odmoru na jedrenju. Vaše recenzije nam pomažu da budemo bolji za sve.",
+    "done": "Gotovo"
 }
