@@ -246,7 +246,7 @@
     "read-more": "Lee mas",
     "please-fill-in-all-fields": "Por favor, ¡llena todos los campos antes de solicitar una reserva!",
     "rent-the-whole-day": "Rentar por todo el día",
-    "this-boat-is-not-availabl": "Este barco no está disponible para estas fechas.",
+    "this-boat-is-not-availabl": "No hay disponibilidad en tiempo real, solicite una cotización.",
     "equipments": "Equipamientos",
     "full-equipment-list": "Lista completa de equipos",
     "duration": "Duración",
@@ -1210,7 +1210,7 @@
     "saved": "Salvado",
     "cap_privacy-policy": "Política de privacidad",
     "cap_terms-of-use": "Términos de Uso",
-    "safe-the-planet": "Segura el planeta",
+    "safe-the-planet": "Salve el planeta",
     "back-to-top": "Volver arriba",
     "send-a-message": "Enviar un mensaje",
     "whether-skipper-accompany": "Si usted es un marinero experimentado, o si prefiere un patrón que lo acompañe: Tubber está ahí para satisfacer sus demandas.",
@@ -1266,7 +1266,7 @@
     "always-free-cancellation-7-days": "Siempre cancelación gratuita dentro de los siete días siguientes a la reserva, excepto reservas de última hora.",
     "select-dates-number-people-book": "Selecciona fechas y número de personas a reservar",
     "conf-email-sent-you": "Se le ha enviado un correo electrónico de confirmación",
-    "the-boat-not-available": "El barco no está disponible",
+    "the-boat-not-available": "No hay disponibilidad en tiempo real, solicite una cotización.",
     "this-bt-from-a-premium-parent": "Este {boatType} es de un Socio Premium. Tubber ha podido emitir esta etiqueta a varios socios porque: ",
     "our-agents-wl-send-personal-offer": "¡Nuestros agentes le enviarán una oferta personalizada en 24 horas!",
     "all-reviews": "Todas las reseñas",
@@ -1418,5 +1418,9 @@
     "meta_description": "Reserve sus vacaciones de navegación sin preocupaciones. Elija entre más de 16 000 veleros y catamaranes, desde Croacia hasta el Caribe. Flotilla o a casco desnudo.",
     "meta_twitter-title": "Vacaciones en velero, alquiler de barcos y excelente servicio | Tubber",
     "see-prices-for-other-dates": "Ver precios para otras fechas",
-    "ibar-link": "-"
+    "ibar-link": "-",
+    "bnr-link": "https://blog.tubber.com/en/",
+    "thanks-for-your-review": "¡Gracias por tu reseña!",
+    "thanks-telling-sailing-holiday": "Gracias por contarnos sobre sus vacaciones en velero. Sus comentarios nos ayudan a ser mejores para todos.",
+    "done": "Hecho"
 }
