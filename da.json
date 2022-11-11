@@ -1210,7 +1210,7 @@
     "all-countries-and-regions": "Alle lande og regioner",
     "saved": "Gemt",
     "cap_terms-of-use": "Vilkår for brug",
-    "safe-the-planet": "Safe the Planet",
+    "safe-the-planet": "Red planeten",
     "back-to-top": "Tilbage til toppen",
     "send-a-message": "Send en besked",
     "whether-skipper-accompany": "Uanset om du er en erfaren sømand, eller hvis du foretrækker en skipper at ledsage dig: Tubber er der for at imødekomme dine krav.",
@@ -1418,5 +1418,9 @@
     "site-info_address-locality": "Groningen",
     "site-info_address-region": "Groningen",
     "site-info_postal-code": "9743 AD",
-    "ibar-link": "-"
+    "ibar-link": "-",
+    "bnr-link": "https://blog.tubber.com/en/",
+    "thanks-for-your-review": "Tak for din anmeldelse!",
+    "thanks-telling-sailing-holiday": "Tak fordi du fortalte os om din sejlerferie. Dine anmeldelser hjælper med at gøre os bedre for alle.",
+    "done": "Færdig"
 }
