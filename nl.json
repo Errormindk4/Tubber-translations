@@ -1475,5 +1475,11 @@
     "bnr-link": "https://www.tubber.com/nl/flotillas/",
     "thanks-for-your-review": "Bedankt voor je recensie!",
     "thanks-telling-sailing-holiday": "Bedankt voor geven van je feedback over je zeilvakantie. Beoordelingen helpen ons bij het verbeteren van onze service voor iedereen.",
-    "done": "Gedaan"
+    "done": "Gedaan",
+    "other-boat-types": "Andere boottypes",
+    "other-locations-for": "Andere locaties voor",
+    "the-popular-dest-for": "De populairste bestemmingen voor",
+    "for-your-carefree-sailing-holiday": "voor je zorgeloze vaarvakantie",
+    "rent-best-rated": "Huur de best beoordeelde",
+    "search-%{boatType}-in-popular-dest": "Zoek %{boatType} in de meest populaire bestemmingen"
 }
