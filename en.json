@@ -1431,5 +1431,7 @@
     "the-popular-dest-for": "The most popular destinations for",
     "for-your-carefree-sailing-holiday": "for your carefree sailing holiday",
     "rent-best-rated": "Rent best rated",
-    "search-%{boatType}-in-popular-dest": "Search %{boatType} in the most popular destinations"
+    "search-%{boatType}-in-popular-dest": "Search %{boatType} in the most popular destinations",
+    "search-%{brand}-boats-popular-dest": "Search %{brand} boats in the most popular destinations",
+    "other-pop-brands": "Other popular brands"
 }
