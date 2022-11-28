@@ -1177,7 +1177,7 @@
     "pick-your-currency": "Select your currency",
     "language-picker": "Language picker",
     "currency-picker": "Currency picker",
-    "due-to-the-corona-virus-w": "Black Friday Deals in the period 21-27 November",
+    "due-to-the-corona-virus-w": "Check out the brand new Beneteau yachts in Greece for next summer.",
     "the-request-has-been-subm": "The request has been submitted",
     "save-as-favorite": "Save as favorite",
     "saved-as-favorite": "Saved as favorite",
@@ -1422,8 +1422,16 @@
     "bnr-info-1": "USA, City Dock, Annapolis, MD",
     "bnr-info-2": "13/10/2022 - 17/10/2022",
     "bnr-link": "https://blog.tubber.com/en-us/news/black-friday-deals-at-tubber/",
-    "ibar-link": "https://blog.tubber.com/en-us/news/black-friday-deals-at-tubber/",
+    "ibar-link": "https://www.tubber.com/us/search/greece/?brand=Beneteau&year=2022,2023",
     "thanks-for-your-review": "Thanks for your review!",
     "thanks-telling-sailing-holiday": "Thanks for telling us about your sailing holiday. Your reviews help make us better for everyone.",
-    "done": "Done"
+    "done": "Done",
+    "other-boat-types": "Other boat types",
+    "other-locations-for": "Other locations for",
+    "the-popular-dest-for": "Explore the most popular destinations for",
+    "for-your-carefree-sailing-holiday": "for your carefree sailing holiday",
+    "rent-best-rated": "Rent best rated",
+    "search-%{boatType}-in-popular-dest": "Search %{boatType} in the most popular destinations",
+    "search-%{brand}-boats-popular-dest": "Search %{brand} boats in the most popular destinations",
+    "other-pop-brands": "Other popular brands"
 }
