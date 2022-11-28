@@ -1418,9 +1418,17 @@
     "site-info_address-locality": "Groningen",
     "site-info_address-region": "Groningen",
     "site-info_postal-code": "9743 AD",
-    "ibar-link": "-",
+    "ibar-link": "https://www.tubber.com/da/search/kroatien/?start_date=2023-06-24&duration=7&sortBy=-rating",
     "bnr-link": "https://blog.tubber.com/en/",
     "thanks-for-your-review": "Tak for din anmeldelse!",
     "thanks-telling-sailing-holiday": "Tak fordi du fortalte os om din sejlerferie. Dine anmeldelser hjælper med at gøre os bedre for alle.",
-    "done": "Færdig"
+    "done": "Færdig",
+    "other-boat-types": "Andre bådtyper",
+    "other-locations-for": "Andre steder for",
+    "the-popular-dest-for": "Udforsk de mest populære destinationer for",
+    "for-your-carefree-sailing-holiday": "til din ubekymrede sejlerferie",
+    "rent-best-rated": "Leje bedst vurderet",
+    "search-%{boatType}-in-popular-dest": "Søg %{boatType} på de mest populære destinationer",
+    "search-%{brand}-boats-popular-dest": "Søg %{brand} yachter på de mest populære destinationer",
+    "other-pop-brands": "Andre populære mærker"
 }
