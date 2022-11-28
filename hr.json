@@ -1418,9 +1418,17 @@
     "site-info_address-locality": "Groningen",
     "site-info_address-region": "Groningen",
     "site-info_postal-code": "9743 AD",
-    "ibar-link": "-",
+    "ibar-link": "https://www.tubber.com/hr/search/hrvatska/?start_date=2023-06-24&duration=7&sortBy=-rating",
     "bnr-link": "https://blog.tubber.com/en/",
     "thanks-for-your-review": "Hvala na recenziji!",
     "thanks-telling-sailing-holiday": "Hvala što ste nam rekli o svom odmoru na jedrenju. Vaše recenzije nam pomažu da budemo bolji za sve.",
-    "done": "Gotovo"
+    "done": "Gotovo",
+    "other-boat-types": "Ostale vrste brodova",
+    "other-locations-for": "Ostala mjesta za",
+    "the-popular-dest-for": "Istražite najpopularnija odredišta za",
+    "for-your-carefree-sailing-holiday": "za vaš bezbrižan odmor na jedrenju",
+    "rent-best-rated": "Najam najbolje ocijenjen",
+    "search-%{boatType}-in-popular-dest": "Pretražite %{boatType} u najpopularnijim odredištima",
+    "search-%{brand}-boats-popular-dest": "Pretražite %{brand} brodove na najpopularnijim odredištima",
+    "other-pop-brands": "Ostali popularni brendovi"
 }
