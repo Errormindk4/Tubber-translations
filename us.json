@@ -1433,5 +1433,6 @@
     "rent-best-rated": "Rent best rated",
     "search-%{boatType}-in-popular-dest": "Search %{boatType} in the most popular destinations",
     "search-%{brand}-boats-popular-dest": "Search %{brand} boats in the most popular destinations",
-    "other-pop-brands": "Other popular brands"
+    "other-pop-brands": "Other popular brands",
+    "boat-rental": "boat rental"
 }
