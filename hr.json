@@ -1430,5 +1430,6 @@
     "rent-best-rated": "Najam najbolje ocijenjen",
     "search-%{boatType}-in-popular-dest": "Pretražite %{boatType} u najpopularnijim odredištima",
     "search-%{brand}-boats-popular-dest": "Pretražite %{brand} brodove na najpopularnijim odredištima",
-    "other-pop-brands": "Ostali popularni brendovi"
+    "other-pop-brands": "Ostali popularni brendovi",
+    "boat-rental": "iznajmljivanje čamaca"
 }
