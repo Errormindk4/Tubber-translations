@@ -1484,5 +1484,6 @@
     "search-%{boatType}-in-popular-dest": "Zoek %{boatType} in de meest populaire bestemmingen",
     "search-%{brand}-boats-popular-dest": "Zoek %{brand} jachten in de populairste bestemmingen",
     "other-pop-brands": "Andere populaire merken",
-    "boat-rental": "boot verhuur"
+    "boat-rental": "boot verhuur",
+    "rental": "verhuur"
 }
