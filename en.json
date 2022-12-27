@@ -1435,5 +1435,6 @@
     "search-%{brand}-boats-popular-dest": "Search %{brand} boats in the most popular destinations",
     "other-pop-brands": "Other popular brands",
     "boat-rental": "boat rental",
-    "rental": "rental"
+    "rental": "rental",
+    "states": "States"
 }
