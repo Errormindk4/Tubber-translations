@@ -311,7 +311,7 @@
     "transaction-fee": "transaction fee",
     "check-in": "Check in",
     "check-out": "Check out",
-    "ahoy-pirate-to-process-y": "Ahoy pirate! To process your booking we need some information. Please provide us with your name and e-mail address and we'll take care of the rest! We'll create an account for you, so you can track your payment and booking.",
+    "ahoy-pirate-to-process-y": "Ahoy pirate! To process your booking, we need some information. Please provide us with your name and e-mail address and we'll take care of the rest! We'll create an account for you, so you can track your payment and booking.",
     "this-e-mail-is-already-as": "This e-mail is already associated with an account",
     "by-filling-in-your-detail": "By filling in your details you accept the",
     "continue": "Continue",
@@ -1446,8 +1446,8 @@
     "that-s-possible-next-to-cabin-charter": "That's possible! Next to the cabin charters  we are offering on this page, we are offering a lot more cabin charters on other locations. ",
     "view-this-cabin-charter": "View this cabin charter",
     "cabincharter-card-desc": "Als je meevaart op een Tubber-jacht, hoef je je geen zorgen te maken over de details. De schipper regelt alles voor je. Je kunt je tijd aan boord zo actief of ontspannen doorbrengen als je wilt. Het is jouw welverdiende vakantie en jij bepaalt wat je doet.",
-    "register-get-credits": "Register and get a credit of 100 EUR/GBP on your balance!",
-    "create-acc-with-social": "Create account on Tubber with your email, Facebook or Google account and start renting boats.",
+    "register-get-credits": "Sign up now and receive 100 EUR/GBP credit towards your sailing holiday!",
+    "create-acc-with-social": "Join Tubber for free using your email, Facebook, or Google account, and begin renting a yacht with or without a skipper to create unforgettable memories.",
     "register-now": "Register now",
     "bar-campaign-utm-query": "?utm_source=ZohoCampaigns&utm_medium=email&utm_campaign=trogirmail"
 }
