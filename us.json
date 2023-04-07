@@ -383,7 +383,7 @@
     "private": "Private",
     "name": "Name",
     "bookingsystem": "Bookingsystem",
-    "view": "View",
+    "view": "View yacht",
     "add-to-proposal": "Add to proposal",
     "boat-has-already-been-add": "Boat has already been added.",
     "show": "Show",
@@ -1436,5 +1436,18 @@
     "other-pop-brands": "Other popular brands",
     "boat-rental": "boat rental",
     "optional": "optional",
-    "--is-banner--spring": "-"
+    "--is-banner--spring": "-",
+    "rental": "rental",
+    "states": "States",
+    "faq_boat-name": "boat",
+    "cabin-charter-locations": "Cabin charter locations",
+    "want-to-join-a-cabin-charter-o": "Want to join a cabin charter on another location?",
+    "that-s-possible-next-to-cabin-charter": "That's possible! Next to the cabin charters  we are offering on this page, we are offering a lot more cabin charters on other locations. ",
+    "view-this-cabin-charter": "View this cabin charter",
+    "spring-deals": "Spring Deals",
+    "get-board-with-new-trend-saving": "Get on board with the new trend of saving.",
+    "save-up-to-{percentage}%": "save up to {percentage}%",
+    "--bnr-link--spring": "-",
+    "countries-and-cities": "Countries and cities",
+    "discover-our-world-cabin-charter": "Discover our world-wide cabin charter offers. Don't see your favorite cabin charter in this overview? Request an offer and get a tailor-made quotation for your needs. We offer more cabin charters next to the cabin charters on this page!"
 }
