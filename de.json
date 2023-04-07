@@ -1472,5 +1472,6 @@
     "search-%{boatType}-in-popular-dest": "Suchen Sie %{boatType} in den beliebtesten Reisezielen",
     "search-%{brand}-boats-popular-dest": "Suchen Sie %{brand}-Boote an den beliebtesten Reisezielen",
     "other-pop-brands": "Andere beliebte Marken",
-    "boat-rental": "Yachtcharter"
+    "boat-rental": "Yachtcharter",
+    "--is-banner--spring": "+"
 }
