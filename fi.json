@@ -1431,5 +1431,6 @@
     "search-%{brand}-boats-popular-dest": "Hae %{brand} veneitä suosituimmista kohteista",
     "other-pop-brands": "Muita suosittuja merkkejä",
     "boat-rental": "veneen vuokraus",
-    "search-%{boatType}-in-popular-dest": "Hae %{boatType} suosituimmista kohteista"
+    "search-%{boatType}-in-popular-dest": "Hae %{boatType} suosituimmista kohteista",
+    "--is-banner--spring": "-"
 }
