@@ -1473,5 +1473,6 @@
     "search-%{brand}-boats-popular-dest": "Suchen Sie %{brand}-Boote an den beliebtesten Reisezielen",
     "other-pop-brands": "Andere beliebte Marken",
     "boat-rental": "Yachtcharter",
-    "--is-banner--spring": "+"
+    "--is-banner--spring": "+",
+    "--bnr-link--spring": "https://www.tubber.com/de/contact/"
 }
