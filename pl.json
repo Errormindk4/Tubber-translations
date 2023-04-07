@@ -1431,5 +1431,6 @@
     "search-%{boatType}-in-popular-dest": "Wyszukaj %{boatType} w najpopularniejszych miejscach docelowych",
     "search-%{brand}-boats-popular-dest": "Wyszukaj łodzie %{brand} w najpopularniejszych miejscach",
     "other-pop-brands": "Inne popularne marki",
-    "boat-rental": "wynajem łodzi"
+    "boat-rental": "wynajem łodzi",
+    "--is-banner--spring": "-"
 }
