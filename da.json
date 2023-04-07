@@ -1431,5 +1431,6 @@
     "search-%{boatType}-in-popular-dest": "Søg %{boatType} på de mest populære destinationer",
     "search-%{brand}-boats-popular-dest": "Søg %{brand} yachter på de mest populære destinationer",
     "other-pop-brands": "Andre populære mærker",
-    "boat-rental": "bådudlejning"
+    "boat-rental": "bådudlejning",
+    "--is-banner--spring": "-"
 }
