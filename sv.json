@@ -1431,5 +1431,6 @@
     "search-%{boatType}-in-popular-dest": "Sök %{boatType} på de mest populära destinationerna",
     "search-%{brand}-boats-popular-dest": "Sök %{brand} båtar på de mest populära destinationerna",
     "other-pop-brands": "Andra populära märken",
-    "boat-rental": "båtuthyrning"
+    "boat-rental": "båtuthyrning",
+    "--is-banner--spring": "-"
 }
