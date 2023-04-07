@@ -1431,5 +1431,6 @@
     "search-%{boatType}-in-popular-dest": "Αναζήτηση %{boatType} στους πιο δημοφιλείς προορισμούς",
     "search-%{brand}-boats-popular-dest": "Αναζητήστε %{brand} σκάφη στους πιο δημοφιλείς προορισμούς",
     "boat-rental": "ενοικίαση σκαφών",
-    "other-pop-brands": "Άλλες δημοφιλείς μάρκες"
+    "other-pop-brands": "Άλλες δημοφιλείς μάρκες",
+    "--is-banner--spring": "-"
 }
