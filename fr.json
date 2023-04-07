@@ -1431,5 +1431,6 @@
     "search-%{boatType}-in-popular-dest": "Recherchez %{boatType} dans les destinations les plus populaires",
     "search-%{brand}-boats-popular-dest": "Recherchez les bateaux %{brand} dans les destinations les plus populaires",
     "other-pop-brands": "Autres marques populaires",
-    "boat-rental": "location de bateau"
+    "boat-rental": "location de bateau",
+    "--is-banner--spring": "-"
 }
