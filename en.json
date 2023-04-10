@@ -1455,5 +1455,6 @@
     "spring-deals": "Spring Deals",
     "save-up-to-{percentage}%": "save up to {percentage}%",
     "--is-banner--spring": "+",
-    "--bnr-link--spring": "-"
+    "--bnr-link--spring": "-",
+    "save-up-to-percentage": "SAVE UP TO 35%"
 }
