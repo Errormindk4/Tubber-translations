@@ -190,7 +190,7 @@
     "charter-type": "Chartertyp",
     "cabins": "Kabinen",
     "toilets": "Toiletten",
-    "length": "Länge",
+    "length": "Länge (ft)",
     "per-day": "pro Tag ",
     "-incl-equipments-": "(einschließlich obligatorischer Kosten)",
     "agent-create-proposal": "Angebot erstellen",
@@ -219,7 +219,7 @@
     "add-to-favorite": "Zu den Favoriten hinzufügen",
     "remove-from-favorite": "Von Favoriten entfernen",
     "share": "Teilen",
-    "length-of-the-yacht": "Länge der Yacht",
+    "length-of-the-yacht": "Länge der Yacht (ft)",
     "cabins-and-berths": "Kabinen und Kojen",
     "description": "Beschreibung",
     "guests": "Gäste",
@@ -1479,5 +1479,13 @@
     "spring-deals": "Frühlingsangebote",
     "see-deals": "Angebote ansehen",
     "save-up-to-{percentage}%": "Sparen Sie bis zu {percentage}%",
-    "save-up-to-percentage": "SPAREN SIE BIS ZU 35%"
+    "save-up-to-percentage": "SPAREN SIE BIS ZU 35%",
+    "countries-and-cities": "Länder und Städte",
+    "optional": "Optional",
+    "faq_boat-name": "Boot",
+    "cabin-charter-locations": "Standorte für Kabinencharter",
+    "want-to-join-a-cabin-charter-o": "Möchten Sie an einer Kabinencharter an einem anderen Ort teilnehmen?",
+    "that-s-possible-next-to-cabin-charter": "Das ist möglich! Neben den Kabinencharter, die wir auf dieser Seite anbieten, bieten wir noch viel mehr Kabinencharter an anderen Orten an. ",
+    "discover-our-world-cabin-charter": "Entdecken Sie unsere weltweiten Kabinencharter-Angebote. Sehen Sie Ihren bevorzugten Kabinencharter nicht in dieser Übersicht? Fordern Sie ein Angebot an und erhalten Sie ein maßgeschneidertes Angebot für Ihre Bedürfnisse. Neben den Kabinencharter auf dieser Seite bieten wir weitere Kabinencharter an!",
+    "view-this-cabin-charter": "Sehen Sie sich diese Kabinencharter an"
 }
