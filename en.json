@@ -1450,11 +1450,11 @@
     "create-acc-with-social": "Join Tubber for free using your email, Facebook, or Google account, and begin renting a yacht with or without a skipper to create unforgettable memories.",
     "register-now": "Register now",
     "bar-campaign-utm-query": "?utm_source=ZohoCampaigns&utm_medium=email&utm_campaign=trogirmail",
-    "get-board-with-new-trend-saving": "Get on board with the new trend of saving.",
+    "get-board-with-new-trend-saving": "Create big adventures with small prices, valid on all yachts until May 1",
     "see-deals": "See deals",
     "spring-deals": "Spring Deals",
     "save-up-to-{percentage}%": "save up to {percentage}%",
     "--is-banner--spring": "+",
-    "--bnr-link--spring": "-",
-    "save-up-to-percentage": "SAVE UP TO 35%"
+    "--bnr-link--spring": "https://www.tubber.com/en/search/croatia/?start_date=2023-05-27&duration=7&sortBy=-rating",
+    "save-up-to-percentage": "SAVE UP TO 50%"
 }
