@@ -1464,5 +1464,6 @@
     "time-start-planning-your-next-sailing-holidays": "Time to start planning your next sailing holidays and search a boat for rental.",
     "view-all-messages": "View all messages",
     "you-dont-have-conversations-this-time": "You don’t have any conversations at this time.",
-    "review-your-recent-trips": "Review your recent trips"
+    "review-your-recent-trips": "Review your recent trips",
+    "{user_name}-your-upcoming-boat-trips": "%{user_name}-your-upcoming-boat-trips"
 }
