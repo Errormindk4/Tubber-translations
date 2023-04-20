@@ -1466,5 +1466,6 @@
     "you-dont-have-conversations-this-time": "You don’t have any conversations at this time.",
     "review-your-recent-trips": "Review your recent trips",
     "{user_name}-your-upcoming-boat-trips": "%{user_name}, your upcoming boat trips",
-    "region": "Region"
+    "region": "Region",
+    "most-popular-destinations": "Most popular destinations"
 }
