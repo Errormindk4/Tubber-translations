@@ -1467,5 +1467,6 @@
     "review-your-recent-trips": "Review your recent trips",
     "{user_name}-your-upcoming-boat-trips": "%{user_name}, your upcoming boat trips",
     "region": "Region",
-    "most-popular-destinations": "Most popular destinations"
+    "most-popular-destinations": "Most popular destinations",
+    "no-matches-were-found": "No matches were found."
 }
