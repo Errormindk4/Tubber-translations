@@ -1468,5 +1468,6 @@
     "{user_name}-your-upcoming-boat-trips": "%{user_name}, your upcoming boat trips",
     "region": "Region",
     "most-popular-destinations": "Most popular destinations",
-    "no-matches-were-found": "No matches were found."
+    "no-matches-were-found": "No matches were found.",
+    "discount-high-to-low": "Discount high to low"
 }
