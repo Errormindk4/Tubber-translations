@@ -1432,5 +1432,19 @@
     "search-%{brand}-boats-popular-dest": "Sök %{brand} båtar på de mest populära destinationerna",
     "other-pop-brands": "Andra populära märken",
     "boat-rental": "båtuthyrning",
-    "--is-banner--spring": "-"
+    "--is-banner--spring": "-",
+    "bnr-title": "Tubber deltar i United States Sailboat Show",
+    "bnr-info-1": "USA, City Dock, Annapolis, MD",
+    "bnr-info-2": "2022-10-13 - 2022-10-17",
+    "rental": "uthyrning",
+    "states": "stater",
+    "countries-and-cities": "Länder och städer",
+    "optional": "valfri",
+    "faq_boat-name": "båt",
+    "cabin-charter-locations": "hyttcharterplatser",
+    "register-now": "Registrera nu",
+    "spring-deals": "sista minuten",
+    "see-deals": "se erbjudanden",
+    "upcoming": "kommande",
+    "region": "område"
 }
