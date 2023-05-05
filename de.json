@@ -840,7 +840,7 @@
     "this-password-is-incorrec": "Das Passwort ist falsch",
     "go-back-to-requests": "Zurück zu den Anfragen",
     "sort-by": "Sortiere nach",
-    "price-high-to-low": "Preis hoch zu niedrig",
+    "price-high-to-low": "Preis hoch bis niedrig",
     "price-low-to-high": "Preis niedrig bis hoch",
     "length-long-to-short": "Länge lang bis kurz",
     "length-short-to-long": "Länge kurz bis lang",
@@ -1406,7 +1406,7 @@
     "subscribe-to-our-newsletter": "Abonnieren Sie unseren Newsletter",
     "be-the-first-to-know": "Erfahre als Erster!",
     "show-all": "Zeige alles",
-    "saturdays-offer-best-prices": "Samstag - Samstag sind vorherrschend, fragen Sie ein Angebot an, wenn sie einen anderen Zeitraum bevorzugen.",
+    "saturdays-offer-best-prices": "Samstag - Samstag dominiert, fragen Sie ein Angebot an, wenn sie einen anderen Zeitraum bevorzugen.",
     "choose-your-date-book-sailing-holidays": "Wählen Sie Ihr Datum und buchen Sie Ihren frei von Sorgen Segelurlaub",
     "clear": "Klare",
     "contacts": "Kontakte",
@@ -1512,5 +1512,6 @@
     "create-acc-with-social": "Melden Sie sich kostenlos mit Ihrer E-Mailadresse, Ihrem Google- oder Facebookaccount an und mieten Sie eine Yacht mit oder ohne Skipper, um unvergessliche Erinnerungen zu schaffen.",
     "3rd-payment-by-{date}": "Dritte Zahlung am {date}",
     "1st-payment-due-now": "Erste Zahlung jetzt fällig",
-    "2nd-payment-by-{date}": "Zweite Zahlung am {date}"
+    "2nd-payment-by-{date}": "Zweite Zahlung am {date}",
+    "any-date": "Jedes Datum"
 }
