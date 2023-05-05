@@ -1472,5 +1472,6 @@
     "discount-high-to-low": "Discount high to low",
     "3rd-payment-by-{date}": "3rd payment by {date}",
     "1st-payment-due-now": "1st payment due now",
-    "2nd-payment-by-{date}": "2nd payment by {date}"
+    "2nd-payment-by-{date}": "2nd payment by {date}",
+    "any-date": "Any date"
 }
