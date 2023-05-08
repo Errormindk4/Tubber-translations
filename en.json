@@ -1474,5 +1474,10 @@
     "1st-payment-due-now": "1st payment due now",
     "2nd-payment-by-{date}": "2nd payment by {date}",
     "any-date": "Any date",
-    "clear-dates": "Clear dates"
+    "clear-dates": "Clear dates",
+    "the-boat-has-been-pre-booked": "The boat has been pre-booked",
+    "prebook-text": "Someone else reserved the boat before you, but there's no need to fret! You can still request a booking, and we'll inform you within 24 hours if availability changes. If you're open to alternatives, you can also select another date or boat that is currently available.",
+    "boat-has-been-pre-booked-these-dates": "This boat has been pre-booked for these dates.",
+    "however-you-can-request-booking": "However you can request booking",
+    "pre-booked": "Pre-booked"
 }
