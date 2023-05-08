@@ -1480,5 +1480,6 @@
     "boat-has-been-pre-booked-these-dates": "This boat has been pre-booked for these dates.",
     "however-you-can-request-booking": "However you can request booking",
     "pre-booked": "Pre-booked",
-    "option-until": "Option until"
+    "option-until": "Option until",
+    "request-booking-text": "The boat has been already reserved, however you can still request a booking. We’ll inform you within 24 hours if it becomes available."
 }
