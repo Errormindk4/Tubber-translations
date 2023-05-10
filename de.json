@@ -1520,5 +1520,8 @@
     "option-until": "Option bis",
     "request-booking-text": "Das Boot ist bereits reserviert; Sie können jedoch weiterhin eine Buchung anfordern. Wir informieren Sie innerhalb von 24 Stunden, wenn es verfügbar ist.",
     "prebook-text": "Jemand anderes hat das Boot vor Ihnen reserviert, aber machen Sie sich keine Sorgen! Sie können immer noch eine Buchung anfragen und wir informieren Sie innerhalb von 24 Stunden, wenn sich die Verfügbarkeit ändert. Wenn Sie für Alternativen offen sind, können Sie auch ein anderes Datum oder Boot auswählen, das derzeit verfügbar ist.",
-    "however-you-can-request-booking": "Sie können jedoch eine Buchung anfordern"
+    "however-you-can-request-booking": "Sie können jedoch eine Buchung anfordern",
+    "clear-dates": "Daten löschen",
+    "see-availability": "Verfügbarkeit ansehen",
+    "price-from": "Preis ab"
 }
