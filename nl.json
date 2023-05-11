@@ -1516,5 +1516,16 @@
     "3rd-payment-by-{date}": "3e betaling vóór {date}",
     "2nd-payment-by-{date}": "2e betaling vóór {date}",
     "time-start-planning-your-next-sailing-holidays": "Tijd om uw volgende zeilvakantie te plannen en een jacht te zoeken om te genieten op het blauwe water.",
-    "1st-payment-due-now": "1e betaling nu verschuldigd"
+    "1st-payment-due-now": "1e betaling nu verschuldigd",
+    "any-date": "Elke datum",
+    "clear-dates": "Datums wissen",
+    "the-boat-has-been-pre-booked": "Dit jacht staat tijdelijk onder optie",
+    "boat-has-been-pre-booked-these-dates": "Het jacht staat voor deze data in optie.",
+    "pre-booked": "Onder optie",
+    "however-you-can-request-booking": "Wel kun je een reservering aanvragen",
+    "option-until": "Optie geldig tot",
+    "request-booking-text": "Het jacht staat onder optie, je kunt echter nog steeds een reservering aanvragen. Je personal shipmate bericht je binnen 24h of het jacht weer beschikbaar is.",
+    "see-availability": "Bekijk beschikbaarheid",
+    "price-from": "Prijs vanaf",
+    "prebook-text": "Iemand anders was net iets sneller met het vinden van dit jacht! Je kunt het jacht nog steeds reserveren, je personal shipmate neemt dan contact met je op als het jacht weer beschikbaar is. Natuurlijk mailen we je dan enkele alternatieve jachten op maat."
 }
