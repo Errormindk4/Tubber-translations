@@ -1484,5 +1484,6 @@
     "request-booking-text": "The boat has been already reserved, however, you can still request a booking. We’ll inform you within 24 hours if it becomes available.",
     "price-from": "Price from",
     "see-availability": "See availability",
-    "poland": "Poland"
+    "poland": "Poland",
+    "select-country": "Select country"
 }
