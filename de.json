@@ -1523,5 +1523,6 @@
     "however-you-can-request-booking": "Sie können jedoch eine Buchung anfordern",
     "clear-dates": "Daten löschen",
     "see-availability": "Verfügbarkeit ansehen",
-    "price-from": "Preis ab"
+    "price-from": "Preis ab",
+    "bar-campaign-utm-query": "?utm_source=ZohoCampaigns&utm_medium=email&utm_campaign=trogirmail"
 }
