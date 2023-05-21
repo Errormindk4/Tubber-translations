@@ -1432,7 +1432,7 @@
     "search-%{brand}-boats-popular-dest": "Recherchez les bateaux %{brand} dans les destinations les plus populaires",
     "other-pop-brands": "Autres marques populaires",
     "boat-rental": "location de bateau",
-    "--is-banner--spring": "-",
+    "--is-banner--spring": "+",
     "optional": "optionnel",
     "faq_boat-name": "bateau",
     "want-to-join-a-cabin-charter-o": "Vous souhaitez rejoindre une location de cabine sur un autre site ?",
@@ -1479,5 +1479,6 @@
     "select-country": "Choisissez le pays",
     "select-your-country": "Sélectionnez votre pays",
     "discover-our-world-cabin-charter": "Découvrez nos offres de location de cabine dans le monde entier. Vous ne voyez pas votre location de cabine préférée dans cet aperçu ? Demandez une offre et obtenez un devis sur mesure pour vos besoins. Nous proposons plus de charters de cabine à côté des charters de cabine sur cette page !",
-    "create-acc-with-social": "Rejoignez Tubber gratuitement en utilisant votre e-mail, Facebook ou votre compte Google, et commencez à louer un yacht avec ou sans skipper pour créer des souvenirs inoubliables."
+    "create-acc-with-social": "Rejoignez Tubber gratuitement en utilisant votre e-mail, Facebook ou votre compte Google, et commencez à louer un yacht avec ou sans skipper pour créer des souvenirs inoubliables.",
+    "--bnr-link--spring": "-"
 }
