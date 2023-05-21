@@ -1432,7 +1432,7 @@
     "search-%{brand}-boats-popular-dest": "Søg %{brand} yachter på de mest populære destinationer",
     "other-pop-brands": "Andre populære mærker",
     "boat-rental": "bådudlejning",
-    "--is-banner--spring": "-",
+    "--is-banner--spring": "+",
     "rental": "leje",
     "countries-and-cities": "Lande og byer",
     "optional": "valgfri",
@@ -1478,5 +1478,6 @@
     "price-from": "Pris fra",
     "poland": "Polen",
     "select-country": "Vælg land",
-    "select-your-country": "Vælg dit land"
+    "select-your-country": "Vælg dit land",
+    "--bnr-link--spring": "-"
 }
