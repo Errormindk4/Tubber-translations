@@ -1486,5 +1486,7 @@
     "see-availability": "See availability",
     "poland": "Poland",
     "select-country": "Select country",
-    "select-your-country": "Select your country"
+    "select-your-country": "Select your country",
+    "rating-text-more-than-4": "Very Good",
+    "rating-text-more-than-5": "Best"
 }
