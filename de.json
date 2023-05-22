@@ -1527,5 +1527,9 @@
     "bar-campaign-utm-query": "?utm_source=ZohoCampaigns&utm_medium=email&utm_campaign=trogirmail",
     "poland": "Polen",
     "select-country": "Land auswählen",
-    "select-your-country": "Wähle dein Land"
+    "select-your-country": "Wähle dein Land",
+    "booking-expert": "Buchungsexperte",
+    "rating-text-more-than-4": "Sehr gut",
+    "always-the-best-price": "Immer der beste Preis",
+    "rating-text-more-than-3": "Gut"
 }
