@@ -108,7 +108,7 @@
     "search-among-our-most-pop": "Erkunden Sie die schönsten Segelziele der Welt und erleben Sie jeden Tag etwas Neues, einschließlich charmanter Dörfer und malerischer Buchten.",
     "our-charter-experts-are-r": "Ihr persönlicher Buchungsexperte ist bereit, Ihnen zu helfen",
     "not-sure-where-to-sail-or": "Ihr engagierter persönlicher Buchungsexperte steht Ihnen rund um die Uhr zur Verfügung und dient Ihnen während Ihrer gesamten Segelreise als sachkundiger und zuverlässiger Ansprechpartner. Ab dem Moment der Buchung hilft Ihnen Ihr Buchungsexperte bei der Zusammenstellung eines maßgeschneiderten Urlaubs, der Ihren speziellen Vorstellungen entspricht. Sollten während Ihres Urlaubs Probleme oder Unsicherheiten bestehen, oder Sie benötigen weitere Hilfe, dann können Sie sich auf Ihren persönlichen Buchungsexperten verlassen. Dieser hilft Ihnen sofort.",
-    "make-a-request": "Anfrage stellen",
+    "make-a-request": "KOSTENLOSES ANGEBOT",
     "regions": "Regionen",
     "countries": "Länder",
     "cities": "Häfen",
@@ -1531,5 +1531,12 @@
     "booking-expert": "Buchungsexperte",
     "rating-text-more-than-4": "Sehr gut",
     "always-the-best-price": "Immer der beste Preis",
-    "rating-text-more-than-3": "Gut"
+    "rating-text-more-than-3": "Gut",
+    "local-payment-and-security-deposit": "Lokale Zahlung und Kaution",
+    "guaranteed-best-price": "Garantiert der beste Preis",
+    "rating-text-more-than-1": "Bewertungsergebnis",
+    "rating-text-more-than-2": "Bewertungsergebnis",
+    "rating-text-more-than-5": "Perfekt",
+    "best-price-guarantee-text": "Unser Ziel ist es, Ihnen die Bestpreisgarantie für jede verfügbare Yacht zu bieten.",
+    "local-payment-and-security-deposit-text": "Bei der Übernahme der Yacht ist eine rückzahlbare Kaution zu hinterlegen, die Ihnen zurückerstattet wird, wenn das Boot unbeschädigt zurückgegeben wird."
 }
