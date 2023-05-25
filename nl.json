@@ -290,7 +290,7 @@
     "location": "Locatie",
     "share-this-boat": "Deel deze boot",
     "choose-a-way-to-share": "Kies een manier om te delen",
-    "book-now": "Boek nu",
+    "book-now": "Reserveren",
     "select-dates-and-number-o": "Selecteer data en aantal personen",
     "request-has-been-submitte": "Je aanvraag is verstuurd",
     "confirmation-email-has-be": "Een bevestigingsmail is naar u verzonden",
@@ -1541,5 +1541,6 @@
     "rating-text-more-than-4": "Erg goed",
     "best-price-guarantee-text": "Wij garanderen de beste prijs voor dit jacht",
     "local-payment-and-security-deposit-text": "Bij het ophalen van het jacht is een restitueerbare borg verplicht, dit gaat via je creditcard. Geen schade dan wordt er ook niets ingehouden.",
-    "booking-expert": "Tubber Shipmate"
+    "booking-expert": "Tubber Shipmate",
+    "cabincharter-card-desc": "Als je meevaart op een Tubber-jacht, hoef je je geen zorgen te maken over de details. De schipper regelt alles voor je. Je kunt je tijd aan boord zo actief of ontspannen doorbrengen als je wilt. Het is jouw welverdiende vakantie en jij bepaalt wat je doet."
 }
