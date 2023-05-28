@@ -104,7 +104,7 @@
     "search-among-our-most-pop": "Explore the world's most beautiful sailing destinations and discover new experiences every day, including charming villages and picturesque bays.",
     "our-charter-experts-are-r": "Your personal shipmate is ready to assist you",
     "not-sure-where-to-sail-or": "Your dedicated personal shipmate is available round-the-clock, serving as your knowledgeable and dependable point of contact throughout your sailing holiday. From the moment you book, your shipmate will assist in curating a bespoke holiday to suit your specific preferences. If you need any further assistance, for any issues, or uncertainties during your holiday, you can count on your personal shipmate to provide prompt and attentive assistance.",
-    "make-a-request": "Make a request",
+    "make-a-request": "FREE QUOTE",
     "regions": "Regions",
     "countries": "Countries",
     "cities": "Cities",
@@ -1485,5 +1485,17 @@
     "price-from": "Price from",
     "poland": "Poland",
     "select-country": "Select country",
-    "select-your-country": "Select your country"
+    "select-your-country": "Select your country",
+    "cabincharter-card-desc": "When you sail on a Tubber yacht, you don't have to worry about the details. The skipper will arrange everything for you. You can spend your time on board as active or relaxed as you like. It's your well-deserved vacation and you decide what you do.",
+    "rating-text-more-than-3": "Good",
+    "always-the-best-price": "Always the best price",
+    "guaranteed-best-price": "Guaranteed the best price",
+    "rating-text-more-than-1": "Terrible",
+    "best-price-guarantee-text": "Our commitment is to provide you with the best price guarantee on any yacht that is available.",
+    "rating-text-more-than-4": "Very Good",
+    "booking-expert": "Personal Shipmate",
+    "rating-text-more-than-5": "Excellent",
+    "local-payment-and-security-deposit": "Local payment and Security Deposit",
+    "local-payment-and-security-deposit-text": "Upon yacht pick-up, a refundable deposit is mandatory, which will be refunded to you when the boat is returned without any damage.",
+    "rating-text-more-than-2": "Poor"
 }
