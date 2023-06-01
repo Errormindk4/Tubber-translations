@@ -1500,5 +1500,5 @@
     "booking-expert": "Personal Shipmate",
     "eis-dont-worry": "Don’t worry about your money with EIS-guarantee",
     "eis-safely-with": "Book safely with EIS",
-    "deal-day-${percentage}-off": "Deal of the day - ${percentage}% off"
+    "deal-day-${percentage}-off": "Deal of the day - {percentage}% off"
 }
