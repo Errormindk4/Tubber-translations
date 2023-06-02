@@ -1538,5 +1538,9 @@
     "rating-text-more-than-2": "Schlecht",
     "rating-text-more-than-5": "Ausgezeichnet",
     "best-price-guarantee-text": "Unser Ziel ist es, Ihnen die Bestpreisgarantie für jede verfügbare Yacht zu bieten.",
-    "local-payment-and-security-deposit-text": "Bei der Übernahme der Yacht ist eine rückzahlbare Kaution zu hinterlegen, die Ihnen zurückerstattet wird, wenn das Boot unbeschädigt zurückgegeben wird."
+    "local-payment-and-security-deposit-text": "Bei der Übernahme der Yacht ist eine rückzahlbare Kaution zu hinterlegen, die Ihnen zurückerstattet wird, wenn das Boot unbeschädigt zurückgegeben wird.",
+    "eis-dont-worry": "Machen Sie sich mit der EIS-Garantie keine Sorgen um Ihr Geld",
+    "eis-safely-with": "Buchen Sie sicher mit EIS",
+    "deal-day-${percentage}-off": "Angebot des Tages - {percentage}% Rabatt",
+    "FREE": "Gratis"
 }
