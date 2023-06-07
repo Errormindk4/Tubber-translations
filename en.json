@@ -1502,5 +1502,7 @@
     "eis-safely-with": "Book safely with EIS",
     "deal-day-${percentage}-off": "Deal of the day - {percentage}% off",
     "FREE": "Free",
-    "belgium": "Belgium"
+    "belgium": "Belgium",
+    "your-choice": "Your choice",
+    "unavailable": "Unavailable"
 }
