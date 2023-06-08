@@ -1354,7 +1354,7 @@
     "comments": "Kommentare",
     "are-you-sure-to-cancel-booking": "Möchten Sie diese Buchung wirklich stornieren?",
     "things-to-know": "Wichtige Informationen",
-    "checkin-checkout-adequate": "Der Check-in und Check-out verlaufen unkompliziert, professionell, schnell und stets mit einem Lächeln im Gesicht",
+    "checkin-checkout-adequate": "Der Check-in und Check-out verlaufen unkompliziert, professionell, schnell und stets mit einem Lächeln im Gesicht.",
     "no-local-costs-accept": "Keine lokalen Kosten, allein die Kaution von",
     "yacht-checked-regularly-ambassador": "Das Tubber-Team oder unsere Member überprüfen die Yacht regelmäßig.",
     "destinations-worldwide": "Segelurlaubsziele weltweit",
@@ -1374,7 +1374,7 @@
     "terms-of-use-link": "<a :to='{name: \"terms\"}'>Terms of use</a>",
     "privacy-policy-link": "<a :to='{name: \"privacy\"}'>privacy policy</a>",
     "yachts-delivered-clean-equipped": "Die Yachten werden sauber abgegeben, sind gut ausgestattet und werden gut in Stand gehalten.",
-    "checkin-and-checkout-adequate": "Der Check-in und Check-out verlaufen unkompliziert, professionell, schnell und stets mit einem Lächeln im Gesicht",
+    "checkin-and-checkout-adequate": "Der Check-in und Check-out verlaufen unkompliziert, professionell, schnell und stets mit einem Lächeln im Gesicht.",
     "health-and-safety": "Gesundheit & Sicherheit",
     "protective-health-measures-checkin": "Gesundheitsschutzmaßnahmen beim Check-in",
     "hand-sanitizer-available-checkin": "Händedesinfektionsmittel ist auf der Yacht und im Check-in-Büro verfügbar",
@@ -1416,7 +1416,7 @@
     "map": "Karte",
     "if-you-unable-your-departure": "Wenn Sie die Reise zu Ihrer Yacht aufgrund von Einschränkungen durch COVID-19 nicht antreten können, können Sie innerhalb von 12 Monaten nach Ihrem ursprünglichen Abflugdatum <b>kostenlos auf alternative Daten umbuchen</b> . Ihre Anzahlung wird auf Ihre neue Buchung übertragen.",
     "dont-have-an-account-yet-": "Sie haben noch kein Konto?",
-    "always-free-cancellation-7-days": "Eine <strong>kostenlose Stornierung</strong> ist immer innerhalb von sieben Tagen nach der Buchung, außer bei Last-Minute-Buchungen.",
+    "always-free-cancellation-7-days": "Eine <strong>kostenlose Stornierung</strong> ist immer innerhalb von sieben Tagen nach der Buchung möglich, außer bei Last-Minute-Buchungen.",
     "flotilla-locations": "Flottillenstandorte",
     "already-have-an-accout-": "Sie haben bereits ein Konto?",
     "rent-best-rated-boats-in": "Mieten Sie am besten bewertete Boote in",
@@ -1543,5 +1543,7 @@
     "eis-safely-with": "Buchen Sie sicher mit EIS",
     "deal-day-${percentage}-off": "Angebot des Tages - {percentage}% Rabatt",
     "FREE": "Gratis",
-    "belgium": "Belgien"
+    "belgium": "Belgien",
+    "your-choice": "Ihre Wahl",
+    "unavailable": "Nicht verfügbar"
 }
