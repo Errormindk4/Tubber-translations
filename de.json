@@ -595,7 +595,7 @@
     "there-is-no-base-informat": "Es gibt noch keine Basisinformationen zu dieser Buchung. Bitte kontaktieren Sie uns, wenn Sie Informationen benötigen",
     "base-manager": "Basismanager",
     "download-voucher-as-pdf": "Bordkarte als PDF herunterladen",
-    "credits": "Punkte",
+    "credits": "Credits",
     "you-don-t-have-any-trips": "Derzeit haben Sie keine bevorstehende(n) Segelreise(n), aber sobald dies der Fall ist, erscheinen sie auf dieser Seite. Dann können Sie alle Details einsehen, die Zahlung überprüfen sowie eine Crewliste hinterlegen.",
     "your-upcoming-boat-trips": "Ihre bevorstehenden Segelreisen",
     "your-cancelled-boat-trips": "Ihre stornierten Segelreisen",
@@ -1545,5 +1545,15 @@
     "FREE": "Gratis",
     "belgium": "Belgien",
     "your-choice": "Ihre Wahl",
-    "unavailable": "Nicht verfügbar"
+    "unavailable": "Nicht verfügbar",
+    "manage-personal-information": "Persönliche Informationen verwalten",
+    "first-and-last-name": "Vor- und Nachname",
+    "change": "Ändern",
+    "current-balance": "Aktueller Kontostand",
+    "change-your-currency-timezone-and-language": "Ändern Sie Ihre Währung, Zeitzone und Sprache",
+    "provide-details-how-we-can-reach": "Geben Sie Ihre persönlichen Daten an und wie wir Sie erreichen können",
+    "login-and-security": "Login & Sicherheit",
+    "manage-login-and-security": "Login & Sicherheit verwalten",
+    "credits-available": "Credits verfügbar",
+    "change-password-and-secure-account": "Ändern Sie Ihr Passwort und sichern Sie Ihren Account"
 }
