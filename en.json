@@ -1522,5 +1522,10 @@
     "email-and-secondary-email": "Email and secondary email",
     "enter-your-date-of-birth": "Enter your date of birth",
     "language": "Language",
-    "earn-credits": "Earn credits"
+    "earn-credits": "Earn credits",
+    "connect": "Connect",
+    "disconnect": "Disconnect",
+    "Connected": "connected",
+    "not-connected": "Not connected",
+    "Select your gender": "select-your-gender"
 }
