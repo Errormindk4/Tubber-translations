@@ -1526,5 +1526,13 @@
     "connect": "Connect",
     "disconnect": "Disconnect",
     "Connected": "connected",
-    "not-connected": "Not connected"
+    "not-connected": "Not connected",
+    "arrival-info": "Arrival info",
+    "you-will-recieve-emails-in-selected-language": "You will recieve emails in selected language.",
+    "select-your-gender": "Select your gender",
+    "amount-due": "Amount due:",
+    "manage-region-settings": "Manage region settings",
+    "view-more-trips": "View more trips",
+    "booking-paused-and-needs-re-scheduled": "Booking is paused and needs to be re-scheduled.",
+    "booking-has-overdue-payment-of": "Booking has an overdue payment of"
 }
