@@ -1536,5 +1536,7 @@
     "booking-paused-and-needs-re-scheduled": "Booking is paused and needs to be re-scheduled.",
     "booking-has-overdue-payment-of": "Booking has an overdue payment of",
     "booking-has-an-overdue-payment-of": "Booking has an overdue payment of",
-    "as-your-search-tap-heart-ico-to-favorite": "As you search, tap the heart icon to add you favorite boats for rental."
+    "as-your-search-tap-heart-ico-to-favorite": "As you search, tap the heart icon to add you favorite boats for rental.",
+    "enter-secondary-email": "Enter a secondary email",
+    "we-send-ver-second-email": "We'll send a verification link to your second email address. Please check your inbox."
 }
