@@ -1432,5 +1432,6 @@
     "other-pop-brands": "Muita suosittuja merkkejä",
     "boat-rental": "veneen vuokraus",
     "search-%{boatType}-in-popular-dest": "Hae %{boatType} suosituimmista kohteista",
-    "--is-banner--spring": "-"
+    "--is-banner--spring": "-",
+    "view-yacht": "Katsele"
 }
