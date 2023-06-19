@@ -1432,5 +1432,6 @@
     "other-pop-brands": "Altri marchi popolari",
     "boat-rental": "noleggio barche",
     "search-%{boatType}-in-popular-dest": "Cerca %{boatType} nelle destinazioni più popolari",
-    "--is-banner--spring": "-"
+    "--is-banner--spring": "-",
+    "view-yacht": "View"
 }
