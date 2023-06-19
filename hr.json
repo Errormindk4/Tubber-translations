@@ -1432,5 +1432,6 @@
     "search-%{brand}-boats-popular-dest": "Pretražite %{brand} brodove na najpopularnijim odredištima",
     "other-pop-brands": "Ostali popularni brendovi",
     "boat-rental": "iznajmljivanje čamaca",
-    "--is-banner--spring": "-"
+    "--is-banner--spring": "-",
+    "view-yacht": "Prikaz"
 }
