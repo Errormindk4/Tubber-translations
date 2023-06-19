@@ -1543,5 +1543,6 @@
     "enter-ver-send-your-phone-{phone}-resend": "Please, enter the verification code that was sent to your phone number {phone_number}.\nYou can resend the code after 20 seconds.",
     "verify": "Verify",
     "enter-your-first-last-name": "Enter your first and last name",
-    "enter-your-address": "Enter your address"
+    "enter-your-address": "Enter your address",
+    "enter-your-phone-number": "Enter your phone number"
 }
