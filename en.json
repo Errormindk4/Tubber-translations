@@ -1541,5 +1541,7 @@
     "we-send-ver-second-email": "We'll send a verification link to your second email address. Please check your inbox.",
     "{user_name}-for-every-friend-you-invi": "{user_name}, for every friend you invite, you will receive credits!",
     "enter-ver-send-your-phone-{phone}-resend": "Please, enter the verification code that was sent to your phone number {phone_number}.\nYou can resend the code after 20 seconds.",
-    "verify": "Verify"
+    "verify": "Verify",
+    "enter-your-first-last-name": "Enter your first and last name",
+    "enter-your-address": "Enter your address"
 }
