@@ -1546,5 +1546,8 @@
     "enter-your-address": "Enter your address",
     "enter-your-phone-number": "Enter your phone number",
     "view-yacht": "View yacht",
-    "change-password": "Change password"
+    "change-password": "Change password",
+    "change-your-correspondence-language": "Change your correspondence language",
+    "change-your-timezone": "Change your timezone",
+    "change-your-currency": "Change your currency"
 }
