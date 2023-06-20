@@ -1549,5 +1549,7 @@
     "change-password": "Change password",
     "change-your-correspondence-language": "Change your correspondence language",
     "change-your-timezone": "Change your timezone",
-    "change-your-currency": "Change your currency"
+    "change-your-currency": "Change your currency",
+    "inviting-text": "Inviting text",
+    "add-your-skippered-boats": "Add your skippered boats"
 }
