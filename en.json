@@ -1551,5 +1551,6 @@
     "change-your-timezone": "Change your timezone",
     "change-your-currency": "Change your currency",
     "inviting-text": "Inviting text",
-    "add-your-skippered-boats": "Add your skippered boats"
+    "add-your-skippered-boats": "Add your skippered boats",
+    "data-not-updated-please-try-again": "The data has not been updated. Please try again."
 }
