@@ -1584,5 +1584,12 @@
     "enter-your-phone-number": "Geben Sie Ihre Telefonnummer ein",
     "enter-ver-send-your-phone-{phone}-resend": "Bitte geben Sie den Bestätigungscode ein, der an Ihre Telefonnummer {phone_number} gesendet wurde. \nNach 20 Sekunden können Sie sich einen neuen Code senden lassen.",
     "enter-your-address": "Geben Sie Ihre Adresse ein",
-    "view-yacht": "Yacht ansehen"
+    "view-yacht": "Yacht ansehen",
+    "change-password": "Passwort ändern",
+    "change-your-correspondence-language": "Ändern Sie Ihre Korrespondenzsprache",
+    "change-your-timezone": "Ändern Sie Ihre Zeitzone",
+    "change-your-currency": "Ändern Sie Ihre Währung",
+    "add-your-skippered-boats": "Fügen Sie Ihre Boote mit Skipper hinzu",
+    "data-not-updated-please-try-again": "Die Daten wurden nicht aktualisiert. Bitte versuchen Sie es erneut.",
+    "you-havent-invited-friends-yet-time-start": "Sie haben noch keine Freunde eingeladen. Es ist Zeit, anzufangen"
 }
