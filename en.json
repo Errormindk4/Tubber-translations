@@ -1552,5 +1552,6 @@
     "change-your-currency": "Change your currency",
     "inviting-text": "Inviting text",
     "add-your-skippered-boats": "Add your skippered boats",
-    "data-not-updated-please-try-again": "The data has not been updated. Please try again."
+    "data-not-updated-please-try-again": "The data has not been updated. Please try again.",
+    "you-havent-invited-friends-yet-time-start": "You haven't invited any friends yet. It's time to start"
 }
