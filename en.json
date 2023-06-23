@@ -1559,5 +1559,7 @@
     "view-boat-details": "View boat details",
     "youll-download-voucher-after-pay": "You will be able to download the voucher after paying all the payment terms.",
     "yacht": "Yacht",
-    "connected": "Connected"
+    "connected": "Connected",
+    "pay": "Pay",
+    "overdue": "Overdue"
 }
