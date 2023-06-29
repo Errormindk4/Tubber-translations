@@ -1604,5 +1604,22 @@
     "crew-members": "Crewmitglieder",
     "trip-at": "Reise um",
     "youll-download-voucher-after-pay": "Sie können den Voucher herunterladen, nachdem Sie alle Zahlungsbedingungen erfüllt haben.",
-    "overdue": "Überfällig"
+    "overdue": "Überfällig",
+    "add-or-change-your-sea-time-experience": "Fügen Sie Ihre Segelerfahrung (Jahre) und Ihren Skipper hinzu oder ändern Sie sie",
+    "amount-due": "Offener Betrag:",
+    "inviting-text": "Einladungstext",
+    "info-ll-appear-after-payment": "Die Informationen werden angezeigt, nachdem die erste Zahlung erfolgt ist.",
+    "info-ll-appear-after-all-payment": "Die Informationen werden angezeigt, nachdem alle Zahlungsbedingungen festgelegt wurden.",
+    "about-this-location": "Über diesen Standort",
+    "pier-number": "Piernummer",
+    "base-{name}": "Basis {name}",
+    "local-extras-payment-method": "Zahlungsmethode für lokale Extras",
+    "accepted-cards": "Akzeptierte Karten",
+    "deposit-payment-method": "Zahlungsmethode Kaution",
+    "included-equipments": "Inklusive Ausrüstung",
+    "transportation-to-base": "Transport zur Basis",
+    "luggage-instructions": "Gepäckanweisungen",
+    "nearby-restaurants": "Restaurants in der Nähe",
+    "nearby-shopping": "Einkaufsmöglichkeiten in der Nähe",
+    "provisioning": "Bereitstellung"
 }
