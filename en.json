@@ -1575,5 +1575,10 @@
     "local-extras-payment-method": "Local extras payment method",
     "accepted-cards": "Accepted cards",
     "deposit-payment-method": "Deposit payment method",
-    "included-equipments": "Included equipments"
+    "included-equipments": "Included equipments",
+    "transportation-to-base": "Transportation to base",
+    "luggage-instructions": "Luggage instructions",
+    "nearby-restaurants": "Nearby restaurants",
+    "nearby-shopping": "Nearby shopping",
+    "provisioning": "Provisioning"
 }
