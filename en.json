@@ -1571,5 +1571,9 @@
     "info-ll-appear-after-all-payment": "Information will appear after the all payment terms has been made.",
     "about-this-location": "About this location",
     "pier-number": "Pier number",
-    "base-{name}": "Base {name}"
+    "base-{name}": "Base {name}",
+    "local-extras-payment-method": "Local extras payment method",
+    "accepted-cards": "Accepted cards",
+    "deposit-payment-method": "Deposit payment method",
+    "included-equipments": "Included equipments"
 }
