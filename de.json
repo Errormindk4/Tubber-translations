@@ -1631,5 +1631,8 @@
     "max-size-value": "Max. Größe: {value}",
     "sailing-license-uploaded": "Segelschein wurde hochgeladen",
     "view-PDF": "PDF anzeigen",
-    "sailing-license-uploading": "Segelschein wird hochgeladen..."
+    "sailing-license-uploading": "Segelschein wird hochgeladen...",
+    "VHF-uploading": "VHF wird hochgeladen...",
+    "VHF-uploaded": "VHF wurde hochgeladen",
+    "click-upload-pasport-photo": "Hier klicken, um ein Passfoto hochzuladen"
 }
