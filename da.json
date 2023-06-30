@@ -1581,5 +1581,14 @@
     "change-your-currency-timezone-and-language": "Ændr din valuta, tidszone og sprog",
     "change-your-timezone": "Ændr tidszonen",
     "overdue": "Forfalden",
-    "you-will-have-option-edit-after-rebooking": "Du vil have mulighed for at redigere efter ombooking."
+    "you-will-have-option-edit-after-rebooking": "Du vil have mulighed for at redigere efter ombooking.",
+    "get-permission-your-members-before-entering": "Få venligst tilladelse fra dine medbesætningsmedlemmer, før du indtaster deres personlige oplysninger.",
+    "click-upload-sailing-license": "Klik for at uploade sejlerlicens",
+    "click-upload-VHF-number": "Klik for at uploade VHF-nummer",
+    "click-upload-passport-photo": "Klik for at uploade pasfoto",
+    "image-or-PDF": "Billede eller PDF",
+    "sailing-license-uploaded": "Sejlerlicens uploadet",
+    "view-PDF": "Se PDF",
+    "sailing-license-uploading": "Sejlerlicens uploader...",
+    "max-size-value": "Maks. størrelse: {value}"
 }
