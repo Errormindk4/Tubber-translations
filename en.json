@@ -1582,5 +1582,10 @@
     "nearby-shopping": "Nearby shopping",
     "provisioning": "Provisioning",
     "you-will-have-option-edit-after-rebooking": "You will have the option to edit after rebooking.",
-    "get-permission-your-members-before-entering": "Please get permission from your fellow crew members before entering their personal details."
+    "get-permission-your-members-before-entering": "Please get permission from your fellow crew members before entering their personal details.",
+    "click-upload-sailing-license": "Click to upload Sailing license",
+    "click-upload-VHF-number": "Click to upload VHF number",
+    "click-upload-passport-photo": "Click to upload Passport photo",
+    "image-or-PDF": "Image or PDF",
+    "max-size-value": "Max. size: {value}"
 }
