@@ -1580,5 +1580,14 @@
     "select-your-gender": "Välj ditt kön",
     "arrival-info": "Ankomst info",
     "as-your-search-tap-heart-ico-to-favorite": "När du söker, tryck på hjärtikonen för att lägga till dina favoritbåtar för uthyrning.",
-    "change-your-correspondence-language": "Ändra ditt korrespondensspråk"
+    "change-your-correspondence-language": "Ändra ditt korrespondensspråk",
+    "get-permission-your-members-before-entering": "Vänligen få tillstånd från dina besättningsmedlemmar innan du anger deras personliga uppgifter.",
+    "click-upload-sailing-license": "Klicka för att ladda upp seglingslicens",
+    "click-upload-passport-photo": "Klicka för att ladda upp passfoto",
+    "image-or-PDF": "Bild eller PDF",
+    "max-size-value": "Max. storlek: {value}",
+    "sailing-license-uploaded": "Segellicens uppladdad",
+    "view-PDF": "Visa PDF",
+    "sailing-license-uploading": "Segellicens laddar upp...",
+    "click-upload-VHF-number": "Klicka för att ladda upp VHF-nummer"
 }
