@@ -1623,5 +1623,13 @@
     "nearby-shopping": "Einkaufsmöglichkeiten in der Nähe",
     "provisioning": "Bereitstellung",
     "you-will-have-option-edit-after-rebooking": "Nach der Umbuchung haben Sie die Möglichkeit zur Bearbeitung.",
-    "get-permission-your-members-before-entering": "Bitte holen Sie die Erlaubnis Ihrer Mitbesatzungsmitglieder ein, bevor Sie deren persönliche Daten eingeben."
+    "get-permission-your-members-before-entering": "Bitte holen Sie die Erlaubnis Ihrer Mitbesatzungsmitglieder ein, bevor Sie deren persönliche Daten eingeben.",
+    "click-upload-sailing-license": "Klicken Sie hier, um den Segelschein hochzuladen",
+    "click-upload-VHF-number": "Klicken Sie hier, um die VHF-Nummer hochzuladen",
+    "click-upload-passport-photo": "Klicken Sie hier, um ein Passbild hochzuladen",
+    "image-or-PDF": "Bild oder PDF",
+    "max-size-value": "Max. Größe: {value}",
+    "sailing-license-uploaded": "Segelschein wurde hochgeladen",
+    "view-PDF": "PDF anzeigen",
+    "sailing-license-uploading": "Segelschein wird hochgeladen..."
 }
