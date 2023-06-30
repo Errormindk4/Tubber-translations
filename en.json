@@ -1587,5 +1587,7 @@
     "click-upload-VHF-number": "Click to upload VHF number",
     "click-upload-passport-photo": "Click to upload Passport photo",
     "image-or-PDF": "Image or PDF",
-    "max-size-value": "Max. size: {value}"
+    "max-size-value": "Max. size: {value}",
+    "sailing-license-uploaded": "Sailing license uploaded",
+    "view-PDF": "View PDF"
 }
