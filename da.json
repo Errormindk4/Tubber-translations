@@ -1590,5 +1590,8 @@
     "sailing-license-uploaded": "Sejlerlicens uploadet",
     "view-PDF": "Se PDF",
     "sailing-license-uploading": "Sejlerlicens uploader...",
-    "max-size-value": "Maks. størrelse: {value}"
+    "max-size-value": "Maks. størrelse: {value}",
+    "VHF-uploading": "VHF uploader...",
+    "VHF-uploaded": "VHF uploadet",
+    "click-upload-pasport-photo": "Klik for at uploade pasfoto"
 }
