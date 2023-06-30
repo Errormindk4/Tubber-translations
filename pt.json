@@ -1580,5 +1580,14 @@
     "nearby-restaurants": "Restaurantes próximos",
     "nearby-shopping": "Compras nas proximidades",
     "provisioning": "Provisionamento",
-    "you-will-have-option-edit-after-rebooking": "Você terá a opção de editar após remarcar."
+    "you-will-have-option-edit-after-rebooking": "Você terá a opção de editar após remarcar.",
+    "get-permission-your-members-before-entering": "Por favor, obtenha permissão de seus companheiros de tripulação antes de inserir seus dados pessoais.",
+    "click-upload-sailing-license": "Clique para carregar a licença de Vela",
+    "click-upload-passport-photo": "Clique para carregar a foto do passaporte",
+    "image-or-PDF": "Imagem ou PDF",
+    "max-size-value": "Máx. tamanho: {value}",
+    "sailing-license-uploaded": "Licença de navegação carregada",
+    "view-PDF": "Ver PDF",
+    "sailing-license-uploading": "Carregando licença de navegação...",
+    "click-upload-VHF-number": "Clique para carregar o número VHF"
 }
