@@ -1589,5 +1589,10 @@
     "image-or-PDF": "Image or PDF",
     "max-size-value": "Max. size: {value}",
     "sailing-license-uploaded": "Sailing license uploaded",
-    "view-PDF": "View PDF"
+    "view-PDF": "View PDF",
+    "sailing-license-uploading": "Sailing license uploading...",
+    "VHF-uploading": "VHF uploading...",
+    "password-photo-uploading": "Password photo uploading...",
+    "VHF-uploaded": "VHF uploaded",
+    "or-drop-here": "or drop here"
 }
