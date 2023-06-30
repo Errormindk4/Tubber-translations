@@ -1589,5 +1589,6 @@
     "view-PDF": "Ver PDF",
     "sailing-license-uploading": "Subiendo licencia de navegación...",
     "click-upload-sailing-license": "Haz clic para subir la licencia de navegación",
-    "click-upload-VHF-number": "Haga clic para cargar el número de VHF"
+    "click-upload-VHF-number": "Haga clic para cargar el número de VHF",
+    "VHF-uploading": "Subiendo VHF..."
 }
