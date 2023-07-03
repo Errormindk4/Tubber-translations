@@ -1593,5 +1593,8 @@
     "max-size-value": "Maks. størrelse: {value}",
     "VHF-uploading": "VHF uploader...",
     "VHF-uploaded": "VHF uploadet",
-    "click-upload-pasport-photo": "Klik for at uploade pasfoto"
+    "click-upload-pasport-photo": "Klik for at uploade pasfoto",
+    "password-photo-uploading": "Pasbillede uploader...",
+    "download": "Downloaden",
+    "or-drop-here": "eller drop her"
 }
