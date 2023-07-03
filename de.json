@@ -551,7 +551,7 @@
     "i-don-t-have-a-vhf-certif": "Ich habe kein UKW-Zertifikat",
     "save-settings": "Einstellungen speichern",
     "upload-your-passport-phot": "Laden Sie Ihr Passfoto hoch",
-    "you-haven-t-submitted-a-p": "Sie haben kein Passfoto eingereicht.",
+    "you-haven-t-submitted-a-p": "Sie haben noch kein Passbild eingereicht.",
     "photo-has-been-added-": "Das Foto wurde hinzugefügt!",
     "view-license": "Bootsführerschein ansehen",
     "your-passport-photo-has-b": "Ihr Passfoto wurde gespeichert!",
@@ -786,7 +786,7 @@
     "total-price-to-pay-at-bas": "Betrag vor Ort zu zahlen",
     "added-equipment-": "Hinzugefügtes Equipment:",
     "paid-equipments": "Bezahltes Equipment",
-    "choose-a-template": "Wählen Sie eine Vorlage",
+    "choose-a-template": "Eine Vorlage wählen",
     "loading-search": "Suche wird geladen",
     "this-proposal-is-missing": "Diesem Vorschlag fehlt ein Ort. Sie können nicht nach Booten ohne Standort suchen.",
     "does-this-boat-have-seaso": "Hat dieses Boot an diesem Datum Jahreszeiten?",
@@ -1527,7 +1527,7 @@
     "bar-campaign-utm-query": "?utm_source=ZohoCampaigns&utm_medium=email&utm_campaign=trogirmail",
     "poland": "Polen",
     "select-country": "Land auswählen",
-    "select-your-country": "Wähle dein Land",
+    "select-your-country": "Wählen Sie Ihr Land",
     "booking-expert": "Persönlicher Buchungsexperte",
     "rating-text-more-than-4": "Sehr gut",
     "always-the-best-price": "Immer der beste Preis",
@@ -1637,5 +1637,6 @@
     "click-upload-pasport-photo": "Hier klicken, um ein Passfoto hochzuladen",
     "password-photo-uploading": "Passfoto wird hochgeladen...",
     "or-drop-here": "oder hier ablegen",
-    "download": "Download"
+    "download": "Download",
+    "pay-previous-term-unlock-this": "Bezahlen Sie die vorherige Rate, um diese freischalten"
 }
