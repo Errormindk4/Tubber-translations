@@ -1590,5 +1590,10 @@
     "view-PDF": "Visa PDF",
     "sailing-license-uploading": "Segellicens laddar upp...",
     "click-upload-VHF-number": "Klicka för att ladda upp VHF-nummer",
-    "VHF-uploading": "VHF laddar upp..."
+    "VHF-uploading": "VHF laddar upp...",
+    "password-photo-uploading": "Passfoto laddas upp...",
+    "VHF-uploaded": "VHF uppladdad",
+    "or-drop-here": "eller släpp här",
+    "click-upload-pasport-photo": "Klicka för att ladda upp passfoto",
+    "download": "Ladda ner"
 }
