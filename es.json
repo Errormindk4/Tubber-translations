@@ -1299,7 +1299,7 @@
     "protective-health-measures-checkin": "Medidas sanitarias de protección durante el check-in",
     "youll-get-best-offers-subscribed": "Obtendrá las mejores ofertas nuevas de nosotros una vez que se suscriba",
     "all-inside-surfaces-disinfectant": "Todas las superficies interiores se desinfectan con desinfectante y los colchones/almohadas/mantas se desinfectan entre alquileres",
-    "if-you-unable-your-departure": "Si no puede llegar a su destino de salida debido a la interrupción del COVID-19, puede  <b>reprogramar sin cargo</b> para fechas alternativas dentro de los 12 meses posteriores a su fecha de salida original. Su depósito será transferido a su nueva reserva.",
+    "if-you-unable-your-departure": "Si no puede llegar a su destino de salida debido a la interrupción del COVID-19, puede <b>reprogramar sin cargo</b> para fechas alternativas dentro de los 12 meses posteriores a su fecha de salida original. Su depósito será transferido a su nueva reserva.",
     "our-excelent-team": "Nuestro excelente equipo",
     "lets-get-know-each-other-better": "Vamos a conocernos mejor",
     "brands": "Marcas",
@@ -1344,7 +1344,7 @@
     "upper_terms": "Términos",
     "please-complete-th-field": "Por favor complete este.",
     "upper-booking": "Reserva",
-    "are-you-sure-want-to-delete": "¿Estás seguro de que quieres eliminar?",
+    "are-you-sure-want-to-delete": "Estás seguro de que quieres eliminar",
     "invalid": "Inválida",
     "extra": "Extra",
     "insurance-conditions": "Condiciones del seguro",
@@ -1544,7 +1544,7 @@
     "enter-secondary-email": "Ingrese un correo electrónico secundario",
     "we-send-ver-second-email": "Le enviaremos un enlace de verificación a su segunda dirección de correo electrónico. Por favor revise su bandeja de entrada.",
     "{user_name}-for-every-friend-you-invi": "{user_name}, por cada amigo que invites, ¡recibirás créditos!",
-    "enter-ver-send-your-phone-{phone}-resend": "Por favor, ingrese el código de verificación que fue enviado a su número de teléfono\n{phone_number}. \nPuede reenviar el código después de 20 segundos.",
+    "enter-ver-send-your-phone-{phone}-resend": "Por favor, ingrese el código de verificación que fue enviado a su número de teléfono\n{phone_number}.\nPuede reenviar el código después de 20 segundos.",
     "verify": "Verificar",
     "enter-your-first-last-name": "Escriba su nombre y apellido",
     "enter-your-address": "Introduce tu dirección",
@@ -1590,5 +1590,10 @@
     "sailing-license-uploading": "Subiendo licencia de navegación...",
     "click-upload-sailing-license": "Haz clic para subir la licencia de navegación",
     "click-upload-VHF-number": "Haga clic para cargar el número de VHF",
-    "VHF-uploading": "Subiendo VHF..."
+    "VHF-uploading": "Subiendo VHF...",
+    "password-photo-uploading": "Subiendo foto de pasaporte...",
+    "VHF-uploaded": "VHF subido",
+    "or-drop-here": "o déjalo aquí",
+    "click-upload-pasport-photo": "Haga clic para cargar la foto del pasaporte",
+    "download": "Descarga"
 }
