@@ -503,7 +503,7 @@
     "male": "Männlich",
     "document-type": "Art des Dokuments",
     "passport": "Reisepass",
-    "id-card": "ID-Karte",
+    "id-card": "Ausweis",
     "document-number": "Dokumentnummer",
     "passport-number": "Ausweisnummer",
     "nationality": "Staatsangehörigkeit",
@@ -1634,5 +1634,8 @@
     "sailing-license-uploading": "Segelschein wird hochgeladen...",
     "VHF-uploading": "VHF wird hochgeladen...",
     "VHF-uploaded": "VHF wurde hochgeladen",
-    "click-upload-pasport-photo": "Hier klicken, um ein Passfoto hochzuladen"
+    "click-upload-pasport-photo": "Hier klicken, um ein Passfoto hochzuladen",
+    "password-photo-uploading": "Passfoto wird hochgeladen...",
+    "or-drop-here": "oder hier ablegen",
+    "download": "Download"
 }
