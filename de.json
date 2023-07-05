@@ -1536,7 +1536,7 @@
     "guaranteed-best-price": "Garantiert der beste Preis",
     "rating-text-more-than-1": "Sehr schlecht",
     "rating-text-more-than-2": "Schlecht",
-    "rating-text-more-than-5": "Ausgezeichnet",
+    "rating-text-more-than-5": "Exzellent",
     "best-price-guarantee-text": "Unser Ziel ist es, Ihnen die Bestpreisgarantie für jede verfügbare Yacht zu bieten.",
     "local-payment-and-security-deposit-text": "Bei der Übernahme der Yacht ist eine rückzahlbare Kaution zu hinterlegen, die Ihnen zurückerstattet wird, wenn das Boot unbeschädigt zurückgegeben wird.",
     "eis-dont-worry": "Machen Sie sich mit der EIS-Garantie keine Sorgen um Ihr Geld",
@@ -1609,7 +1609,7 @@
     "amount-due": "Offener Betrag:",
     "inviting-text": "Einladungstext",
     "info-ll-appear-after-payment": "Die Informationen werden angezeigt, nachdem die erste Zahlung erfolgt ist.",
-    "info-ll-appear-after-all-payment": "Die Informationen werden angezeigt, nachdem alle Zahlungsbedingungen festgelegt wurden.",
+    "info-ll-appear-after-all-payment": "Die Informationen werden angezeigt, nachdem alle Zahlungsbedingungen erfüllt wurden.",
     "about-this-location": "Über diesen Standort",
     "pier-number": "Pier",
     "base-{name}": "Basis {name}",
@@ -1640,5 +1640,6 @@
     "download": "Download",
     "pay-previous-term-unlock-this": "Bezahlen Sie die vorherige Rate, um diese freischalten",
     "agency-discount": "Tubber-Rabatt",
-    "invitation-text-{full_name}": "Melden Sie sich mit Ihrem E-Mail-, Facebook- oder Google-Konto bei Tubber an und beginnen Sie mit dem Bootschartern! \n\n\nHerzliche Grüße, \n{full_name}"
+    "invitation-text-{full_name}": "Melden Sie sich mit Ihrem E-Mail-, Facebook- oder Google-Konto bei Tubber an und beginnen Sie mit dem Bootschartern! \n\n\nHerzliche Grüße, \n{full_name}",
+    "enter-your-harbor-arrival-time": "Geben Sie Ihre Ankunftszeit im Hafen ein"
 }
