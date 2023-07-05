@@ -1597,5 +1597,6 @@
     "click-upload-pasport-photo": "Klicka för att ladda upp passfoto",
     "download": "Ladda ner",
     "pay-previous-term-unlock-this": "Betala den tidigare delbetalningen för att låsa upp den här",
-    "agency-discount": "Tubber rabatt"
+    "agency-discount": "Tubber rabatt",
+    "invitation-text-{full_name}": "Logga in på Tubber med din e-post, Facebook eller Google-konto och börja hyra båtar!\n\n\n Vänliga Hälsningar,,\n {full_name}"
 }
