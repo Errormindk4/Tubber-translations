@@ -1507,7 +1507,7 @@
     "not-connected": "Nije spojen",
     "however-you-can-request-booking": "Međutim, možete zatražiti rezervaciju",
     "belgium": "Belgija",
-    "add-your-skippered-boats": "Dodajte brodove koje ste jedrili kao skiper",
+    "add-your-skippered-boats": "Dodajte brodove kojima ste plovili kao skiper",
     "see-availability": "Pogledajte dostupnost",
     "local-payment-and-security-deposit": "Lokalno plaćanje i sigurnosni polog",
     "always-the-best-price": "Uvijek najbolja cijena",
@@ -1582,7 +1582,7 @@
     "crew-members": "Članovi posade",
     "trip-at": "Putovanje u",
     "info-ll-appear-after-payment": "Podaci će se pojaviti nakon prve uplate.",
-    "info-ll-appear-after-all-payment": "Podaci će se pojaviti nakon što se izvrše svi uvjeti plaćanja.",
+    "info-ll-appear-after-all-payment": "Podaci se prikazuju nakon što su ispunjeni svi uvjeti plaćanja.",
     "about-this-location": "O ovoj lokaciji",
     "pier-number": "Pristanište",
     "base-{name}": "Bazi {name}",
@@ -1598,5 +1598,6 @@
     "cabincharter-card-desc": "Kada plovite na Tubber jahti, ne morate brinuti o detaljima. Skiper će sve organizirati za vas. Svoje vrijeme na brodu možete provoditi koliko god želite aktivno ili opušteno. To je vaš zasluženi odmor i sami odlučujete što ćete raditi.",
     "you-will-have-option-edit-after-rebooking": "Imat ćete mogućnost uređivanja nakon ponovne rezervacije.",
     "agency-discount": "Tubber popust",
-    "invitation-text-{full_name}": "Prijavite se na Tubber sa svojom e-poštom, Facebook ili Google računom i počnite iznajmljivati brodove!\n\n\n Lijepi pozdrav,\n {full_name}"
+    "invitation-text-{full_name}": "Prijavite se na Tubber sa svojom e-poštom, Facebook ili Google računom i počnite iznajmljivati brodove!\n\n\n Lijepi pozdrav,\n {full_name}",
+    "enter-your-harbor-arrival-time": "Unesite vrijeme dolaska u luku"
 }
