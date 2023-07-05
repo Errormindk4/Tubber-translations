@@ -1537,5 +1537,6 @@
     "booking-has-an-overdue-payment-of": "Varauksessa on erääntynyt maksu",
     "as-your-search-tap-heart-ico-to-favorite": "Napauta haun aikana sydänkuvaketta lisätäksesi suosikkiveneesi vuokralle.",
     "enter-secondary-email": "Anna toissijainen sähköpostiosoite",
-    "cabincharter-card-desc": "Kun purjehdit Tubber-jahdilla, sinun ei tarvitse huolehtia yksityiskohdista. Kippari järjestää kaiken puolestasi. Voit viettää aikaasi laivalla niin aktiivisesti tai rentoutuneena kuin haluat. Se on hyvin ansaittu lomasi ja sinä päätät mitä teet."
+    "cabincharter-card-desc": "Kun purjehdit Tubber-jahdilla, sinun ei tarvitse huolehtia yksityiskohdista. Kippari järjestää kaiken puolestasi. Voit viettää aikaasi laivalla niin aktiivisesti tai rentoutuneena kuin haluat. Se on hyvin ansaittu lomasi ja sinä päätät mitä teet.",
+    "invitation-text-{full_name}": "Kirjaudu Tubberiin sähköpostillasi, Facebook- tai Google-tililläsi ja aloita veneiden vuokraaminen!\n\n\n Ystävällisin terveisin,\n {full_name}"
 }
