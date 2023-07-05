@@ -1600,5 +1600,5 @@
     "pay-previous-term-unlock-this": "Pay the previous term to unlock this one",
     "agency-discount": "Tubber discount",
     "commission": "Commission",
-    "invitation-text-{full_name}": "Login to Tubber with your email, Facebook or Google account and start renting boats!\n\n\n Kind regards, {full_name}"
+    "invitation-text-{full_name}": "Login to Tubber with your email, Facebook or Google account and start renting boats!\n\n\n Kind regards,\n {full_name}"
 }
