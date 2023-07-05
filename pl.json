@@ -1597,5 +1597,6 @@
     "provisioning": "Wyżywienie",
     "you-will-have-option-edit-after-rebooking": "Będziesz mieć możliwość edycji po zmianie rezerwacji.",
     "pay-previous-term-unlock-this": "Zapłać poprzednią ratę, aby ją odblokować",
-    "agency-discount": "Tubber zniżka"
+    "agency-discount": "Tubber zniżka",
+    "invitation-text-{full_name}": "Zaloguj się do Tubber za pomocą swojego adresu e-mail, konta Facebook lub Google i zacznij wynajmować łodzie!\n\n\n Serdeczne pozdrowienia,\n {full_name}"
 }
