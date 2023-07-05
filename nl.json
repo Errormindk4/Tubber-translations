@@ -754,7 +754,7 @@
     "proposal": "Voorstel",
     "delete": "Verwijder",
     "back-to-proposal": "Terug naar voorstel",
-    "discount": "Tubber korting",
+    "discount": "Korting",
     "private": "Private",
     "bookingsystem": "Boekingssysteem",
     "view": "Bekijk",
@@ -1565,5 +1565,6 @@
     "credits-available": "Beschikbaar Tubber tegoed",
     "provide-details-how-we-can-reach": "Verstrek persoonlijke gegevens en hoe we je het beste kunnen bereiken",
     "data-not-updated-please-try-again": "De gegevens zijn niet bijgewerkt. Probeer het opnieuw.",
-    "you-havent-invited-friends-yet-time-start": "Je hebt nog geen vrienden uitgenodigd. Het is tijd om te beginnen"
+    "you-havent-invited-friends-yet-time-start": "Je hebt nog geen vrienden uitgenodigd. Het is tijd om te beginnen",
+    "agency-discount": "Tubber korting"
 }
