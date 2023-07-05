@@ -1433,5 +1433,7 @@
     "boat-rental": "ενοικίαση σκαφών",
     "other-pop-brands": "Άλλες δημοφιλείς μάρκες",
     "--is-banner--spring": "-",
-    "view-yacht": "Επισκόπηση"
+    "view-yacht": "Επισκόπηση",
+    "invitation-text-{full_name}": "Συνδεθείτε στο Tubber με το email, το λογαριασμό σας στο Facebook ή το λογαριασμό σας στο Google και αρχίστε να νοικιάζετε σκάφη!\n\n\n Με εκτίμηση,\n {full_name}",
+    "info-ll-appear-after-all-payment": "Οι πληροφορίες θα παρέχονται αφού πληρούνται όλοι οι όροι πληρωμής."
 }
