@@ -1598,5 +1598,6 @@
     "download": "Downloaden",
     "or-drop-here": "eller drop her",
     "pay-previous-term-unlock-this": "Betal den forrige rate for at låse denne op",
-    "agency-discount": "Tubber rabat"
+    "agency-discount": "Tubber rabat",
+    "invitation-text-{full_name}": "Log ind på Tubber med din e-mail, Facebook eller Google-konto og begynd at leje både!\n\n\n Med venlig hilsen,\n {full_name}"
 }
