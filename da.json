@@ -1564,7 +1564,7 @@
     "crew-members": "Besætningsmedlemmer",
     "trip-at": "Tur på",
     "info-ll-appear-after-payment": "Informationen vil vises efter den første betaling er foretaget.",
-    "info-ll-appear-after-all-payment": "Informationen vil vises efter alle betalingsbetingelser er opfyldt.",
+    "info-ll-appear-after-all-payment": "Oplysningerne vil blive givet, efter at alle betalingsbetingelser er opfyldt.",
     "about-this-location": "Om denne placering",
     "pier-number": "Bro",
     "base-{name}": "Basen {name}",
@@ -1599,5 +1599,6 @@
     "or-drop-here": "eller drop her",
     "pay-previous-term-unlock-this": "Betal den forrige rate for at låse denne op",
     "agency-discount": "Tubber rabat",
-    "invitation-text-{full_name}": "Log ind på Tubber med din e-mail, Facebook eller Google-konto og begynd at leje både!\n\n\n Med venlig hilsen,\n {full_name}"
+    "invitation-text-{full_name}": "Log ind på Tubber med din e-mail, Facebook eller Google-konto og begynd at leje både!\n\n\n Med venlig hilsen,\n {full_name}",
+    "enter-your-harbor-arrival-time": "Indtast din havns ankomsttid"
 }
