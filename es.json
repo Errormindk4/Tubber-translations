@@ -1597,5 +1597,6 @@
     "click-upload-pasport-photo": "Haga clic para cargar la foto del pasaporte",
     "download": "Descarga",
     "pay-previous-term-unlock-this": "Paga la cuota anterior para desbloquear esta",
-    "agency-discount": "Tubber Descuento"
+    "agency-discount": "Tubber Descuento",
+    "invitation-text-{full_name}": "¡Inicia sesión en Tubber con tu cuenta de correo electrónico, Facebook o Google y comienza a alquilar barcos!\n\n\n Atentamente,\n {full_name}"
 }
