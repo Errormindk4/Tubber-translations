@@ -1598,5 +1598,6 @@
     "nearby-shopping": "Commerces à proximité",
     "provisioning": "Nourriture",
     "you-will-have-option-edit-after-rebooking": "Vous aurez la possibilité de modifier après la nouvelle réservation.",
-    "agency-discount": "Remise Tubber"
+    "agency-discount": "Remise Tubber",
+    "invitation-text-{full_name}": "Connectez-vous à Tubber avec votre e-mail, votre compte Facebook ou Google et commencez à louer des bateaux !\n\n\n Kind regards,\n {full_name}"
 }
