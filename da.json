@@ -1177,7 +1177,7 @@
     "pick-your-currency": "Vælg din valuta",
     "language-picker": "Sprogvælger",
     "currency-picker": "Valutavælger",
-    "due-to-the-corona-virus-w": "Tag afsted i dag med vores last minute ferietilbud! Spar op til 65%",
+    "due-to-the-corona-virus-w": "Book nu og sejl afsted med en gratis Navily Pro-konto!",
     "the-request-has-been-subm": "Forespørgslen er indsendt",
     "save-as-favorite": "Gem som favorit",
     "saved-as-favorite": "Gemt som favorit",
@@ -1601,5 +1601,6 @@
     "agency-discount": "Tubber rabat",
     "invitation-text-{full_name}": "Log ind på Tubber med din e-mail, Facebook eller Google-konto og begynd at leje både!\n\n\n Med venlig hilsen,\n {full_name}",
     "enter-your-harbor-arrival-time": "Indtast din havns ankomsttid",
-    "commission": "Provision"
+    "commission": "Provision",
+    "verified": "Verificeret"
 }
