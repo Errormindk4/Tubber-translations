@@ -1177,7 +1177,7 @@
     "pick-your-currency": "Choisissez votre devise",
     "language-picker": "Sélecteur de langue",
     "currency-picker": "Sélecteur de devises",
-    "due-to-the-corona-virus-w": "Embarquez dès aujourd'hui avec nos offres de vacances de dernière minute ! Économisez jusqu'à 65 %",
+    "due-to-the-corona-virus-w": "Réservez maintenant et embarquez avec un compte Navily Pro gratuit !",
     "the-request-has-been-subm": "La demande a été soumise",
     "save-as-favorite": "Enregistrer comme favori",
     "saved-as-favorite": "Enregistré comme favori",
@@ -1601,5 +1601,6 @@
     "agency-discount": "Remise Tubber",
     "invitation-text-{full_name}": "Connectez-vous à Tubber avec votre e-mail, votre compte Facebook ou Google et commencez à louer des bateaux !\n\n\n Kind regards,\n {full_name}",
     "enter-your-harbor-arrival-time": "Entrez votre heure d'arrivée au port",
-    "commission": "Commission"
+    "commission": "Commission",
+    "verified": "Vérifié"
 }
