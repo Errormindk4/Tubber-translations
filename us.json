@@ -1177,7 +1177,7 @@
     "pick-your-currency": "Select your currency",
     "language-picker": "Language picker",
     "currency-picker": "Currency picker",
-    "due-to-the-corona-virus-w": "Set sail today with our last minute holiday deals! Save up to 65%",
+    "due-to-the-corona-virus-w": "Book now and sail away with a free Navily Pro account!",
     "the-request-has-been-subm": "The request has been submitted",
     "save-as-favorite": "Save as favorite",
     "saved-as-favorite": "Saved as favorite",
@@ -1601,5 +1601,6 @@
     "nearby-shopping": "Nearby shopping",
     "provisioning": "Provisioning",
     "you-will-have-option-edit-after-rebooking": "You will have the option to edit after rebooking.",
-    "enter-your-harbor-arrival-time": "Enter your harbor arrival time"
+    "enter-your-harbor-arrival-time": "Enter your harbor arrival time",
+    "verified": "Verified"
 }
