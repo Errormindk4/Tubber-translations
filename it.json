@@ -1177,7 +1177,7 @@
     "pick-your-currency": "Scegli la tua valuta",
     "language-picker": "Selettore di lingua",
     "currency-picker": "Selettore di valuta",
-    "due-to-the-corona-virus-w": "Salpa oggi con le nostre offerte vacanze last minute! Risparmia fino al 65%",
+    "due-to-the-corona-virus-w": "Prenota ora e salpa con un account Navily Pro gratuito!",
     "the-request-has-been-subm": "La richiesta è stata inviata",
     "save-as-favorite": "Salva come preferito",
     "saved-as-favorite": "Salvato come preferito",
@@ -1600,5 +1600,6 @@
     "overdue": "In ritardo",
     "agency-discount": "Sconto tubber",
     "click-upload-VHF-number": "Fare clic per caricare la licenza VHF",
-    "commission": "Commissione"
+    "commission": "Commissione",
+    "verified": "Verificato"
 }
