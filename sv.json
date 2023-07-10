@@ -1177,7 +1177,7 @@
     "pick-your-currency": "Välj din valuta",
     "language-picker": "Språkväljare",
     "currency-picker": "Valutaväljare",
-    "due-to-the-corona-virus-w": "Kasta loss idag med våra sista minuten-erbjudanden! Spara upp till 65%",
+    "due-to-the-corona-virus-w": "Boka nu och segla iväg med ett gratis Navily Pro-konto!",
     "the-request-has-been-subm": "Begäran har skickats in",
     "save-as-favorite": "Spara som favorit",
     "saved-as-favorite": "Sparat som favorit",
@@ -1600,5 +1600,6 @@
     "agency-discount": "Tubber rabatt",
     "invitation-text-{full_name}": "Logga in på Tubber med din e-post, Facebook eller Google-konto och börja hyra båtar!\n\n\n Vänliga Hälsningar,,\n {full_name}",
     "enter-your-harbor-arrival-time": "Ange din ankomsttid till hamnen",
-    "commission": "Provision"
+    "commission": "Provision",
+    "verified": "Verifierad"
 }
