@@ -1177,7 +1177,7 @@
     "pick-your-currency": "Valitse valuuttasi",
     "language-picker": "Kielenvalitsin",
     "currency-picker": "Valuutanvalitsin",
-    "due-to-the-corona-virus-w": "Lähde purjehtimaan tänään viime hetken lomatarjouksillamme! Säästä jopa 65 %",
+    "due-to-the-corona-virus-w": "Varaa nyt ja purjehdi pois ilmaisella Navily Pro -tilillä!",
     "the-request-has-been-subm": "Pyyntö on toimitettu",
     "save-as-favorite": "Tallenna suosikiksi",
     "saved-as-favorite": "Tallennettu suosikiksi",
@@ -1600,5 +1600,6 @@
     "provisioning": "Ruokahuolto",
     "you-will-have-option-edit-after-rebooking": "Uudelleenvarauksen jälkeen sinulla on mahdollisuus muokata.",
     "pay": "Maksaa",
-    "commission": "Komissio"
+    "commission": "Komissio",
+    "verified": "Vahvistettu"
 }
