@@ -1177,7 +1177,7 @@
     "pick-your-currency": "Elija su moneda",
     "language-picker": "Selector de idioma",
     "currency-picker": "Selector de moneda",
-    "due-to-the-corona-virus-w": "¡Zarpa hoy con nuestras ofertas de vacaciones de última hora! Ahorre hasta un 65%",
+    "due-to-the-corona-virus-w": "¡Reserve ahora y navegue con una cuenta Navily Pro gratuita!",
     "the-request-has-been-subm": "La solicitud ha sido presentada",
     "save-as-favorite": "Guardar como favorito",
     "saved-as-favorite": "Guardado como favorito",
@@ -1544,7 +1544,7 @@
     "enter-secondary-email": "Ingrese un correo electrónico secundario",
     "we-send-ver-second-email": "Le enviaremos un enlace de verificación a su segunda dirección de correo electrónico. Por favor revise su bandeja de entrada.",
     "{user_name}-for-every-friend-you-invi": "{user_name}, por cada amigo que invites, ¡recibirás créditos!",
-    "enter-ver-send-your-phone-{phone}-resend": "Por favor, ingrese el código de verificación que fue enviado a su número de teléfono\n{phone_number}.\nPuede reenviar el código después de 20 segundos.",
+    "enter-ver-send-your-phone-{phone}-resend": "Por favor, ingrese el código de verificación que fue enviado a su número de teléfono {phone_number}.\nPuede reenviar el código después de 20 segundos.",
     "verify": "Verificar",
     "enter-your-first-last-name": "Escriba su nombre y apellido",
     "enter-your-address": "Introduce tu dirección",
@@ -1600,5 +1600,6 @@
     "agency-discount": "Tubber Descuento",
     "invitation-text-{full_name}": "¡Inicia sesión en Tubber con tu cuenta de correo electrónico, Facebook o Google y comienza a alquilar barcos!\n\n\n Atentamente,\n {full_name}",
     "enter-your-harbor-arrival-time": "Introduzca su hora de llegada al puerto",
-    "commission": "Comisión"
+    "commission": "Comisión",
+    "verified": "Verificado"
 }
