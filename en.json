@@ -1602,5 +1602,6 @@
     "commission": "Commission",
     "invitation-text-{full_name}": "Login to Tubber with your email, Facebook or Google account and start renting boats!\n\n\n Kind regards,\n {full_name}",
     "enter-your-harbor-arrival-time": "Enter your harbor arrival time",
-    "verified": "Verified"
+    "verified": "Verified",
+    "import": "Import"
 }
