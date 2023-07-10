@@ -587,11 +587,11 @@
     "right-to-rectification": "Prawo do sprostowania",
     "you-have-the-right-to-hav": "Masz prawo do sprostowania Twoich danych w przypadku ich nieścisłości lub niekompletności. Na żądanie poprawimy niedokładne dane osobowe dotyczące Ciebie oraz, biorąc pod uwagę cele przetwarzania, kompletne, niekompletne dane osobowe, co może obejmować podanie dodatkowego oświadczenia.",
     "right-to-erasure": "Prawo do usunięcia",
-    "you-also-have-the-right-t": "Masz również prawo do wniesienia sprzeciwu wobec przetwarzania Twoich danych, co oznacza, że ​​możesz zażądać od nas zaprzestania przetwarzania Twoich danych. Ma to zastosowanie tylko w przypadku, gdy „uzasadnione interesy” podstawa prawna przetwarzania stanowi podstawa (w tym profilowanie).",
+    "you-also-have-the-right-t": "Masz również prawo do wniesienia sprzeciwu wobec przetwarzania Twoich danych, co oznacza, że możesz zażądać od nas zaprzestania przetwarzania Twoich danych. Ma to zastosowanie tylko w przypadku, gdy „uzasadnione interesy” podstawa prawna przetwarzania stanowi podstawa (w tym profilowanie).",
     "right-to-the-restriction": "Prawo do ograniczenia przetwarzania",
-    "you-have-the-right-to-obt": "Przysługuje Ci prawo żądania ograniczenia przetwarzania Twoich danych, co oznacza, że ​​zawiesimy przetwarzanie Twoich danych na czas określony. Okoliczności, które mogą spowodować powstanie tego prawa, obejmują sytuacje, w których dokładność Twoich informacji została zakwestionowana, ale potrzeba nam trochę czasu, aby zweryfikować dokładność. To prawo nie uniemożliwia nam dalszego przechowywania Twoich danych. Poinformujemy Cię przed zniesieniem ograniczenia.",
+    "you-have-the-right-to-obt": "Przysługuje Ci prawo żądania ograniczenia przetwarzania Twoich danych, co oznacza, że zawiesimy przetwarzanie Twoich danych na czas określony. Okoliczności, które mogą spowodować powstanie tego prawa, obejmują sytuacje, w których dokładność Twoich informacji została zakwestionowana, ale potrzeba nam trochę czasu, aby zweryfikować dokładność. To prawo nie uniemożliwia nam dalszego przechowywania Twoich danych. Poinformujemy Cię przed zniesieniem ograniczenia.",
     "right-to-data-portability": "Prawo do przenoszenia danych",
-    "your-right-to-data-portab": "Twoje prawo do przenoszenia danych oznacza, że ​​możesz zażądać, abyśmy przekazali Ci Twoje dane w ustrukturyzowanym, powszechnie używanym formacie nadającym się do odczytu maszynowego oraz aby dane te zostały przesłane bezpośrednio innemu administratorowi, o ile jest to technicznie wykonalne. Na żądanie i jeśli jest to technicznie wykonalne, prześlemy Twoje dane bezpośrednio do drugiego administratora.",
+    "your-right-to-data-portab": "Twoje prawo do przenoszenia danych oznacza, że możesz zażądać, abyśmy przekazali Ci Twoje dane w ustrukturyzowanym, powszechnie używanym formacie nadającym się do odczytu maszynowego oraz aby dane te zostały przesłane bezpośrednio innemu administratorowi, o ile jest to technicznie wykonalne. Na żądanie i jeśli jest to technicznie wykonalne, prześlemy Twoje dane bezpośrednio do drugiego administratora.",
     "right-to-object": "Prawo do sprzeciwu",
     "at-any-time-and-free-of-c": "W każdej chwili i bezpłatnie możesz wnieść sprzeciw wobec celów marketingu bezpośredniego w przypadku, gdy Twoje dane są przetwarzane w takich celach, w tym profilowania w zakresie, w jakim jest to związane z takim marketingiem bezpośrednim. Jeśli skorzystasz z tego prawa, nie będziemy już przetwarzać Twoich danych w takich celach.",
     "for-more-information-on-h": "Aby uzyskać więcej informacji o tym, jak możesz wycofać swoją zgodę na pliki cookie i podobne technologie, których używamy podczas odwiedzania naszej strony internetowej lub korzystania z naszej aplikacji, zapoznaj się z naszą polityką dotyczącą plików cookie.",
@@ -1177,7 +1177,7 @@
     "pick-your-currency": "Wybierz walutę",
     "language-picker": "Selektor języka",
     "currency-picker": "Selektor walut",
-    "due-to-the-corona-virus-w": "Wypłyń już dziś z naszymi ofertami wakacyjnymi last minute! Zaoszczędź do 65%",
+    "due-to-the-corona-virus-w": "Zarezerwuj teraz i odpłyń z darmowym kontem Navily Pro!",
     "the-request-has-been-subm": "Żądanie zostało złożone",
     "save-as-favorite": "Zapisz jako ulubione",
     "saved-as-favorite": "Zapisane jako ulubione",
@@ -1600,5 +1600,6 @@
     "agency-discount": "Tubber zniżka",
     "invitation-text-{full_name}": "Zaloguj się do Tubber za pomocą swojego adresu e-mail, konta Facebook lub Google i zacznij wynajmować łodzie!\n\n\n Serdeczne pozdrowienia,\n {full_name}",
     "enter-your-harbor-arrival-time": "Wprowadź czas przybycia do portu",
-    "commission": "Prowizja"
+    "commission": "Prowizja",
+    "verified": "Zweryfikowano"
 }
