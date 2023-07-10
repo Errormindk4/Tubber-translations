@@ -71,7 +71,7 @@
     "invitations-couldn-t-be-s": "Einladungen konnten nicht gesendet werden.",
     "content-has-been-shared-o": "Der Inhalt wurde auf Facebook geteilt.",
     "content-hasn-t-been-share": "Der Inhalt wurde nicht auf Facebook geteilt.",
-    "due-to-the-corona-virus-w": "Sonderangebote für Segeln in Griechenland 📣 Bis zu 2500 EURO Rabatt",
+    "due-to-the-corona-virus-w": "Buchen Sie jetzt und segeln Sie mit einem kostenlosen Navily Pro-Konto los!",
     "home": "Home",
     "request-a-quote": "Angebot anfragen",
     "contact": "Kontakt",
@@ -1642,5 +1642,6 @@
     "agency-discount": "Tubber-Rabatt",
     "invitation-text-{full_name}": "Melden Sie sich mit Ihrem E-Mail-, Facebook- oder Google-Konto bei Tubber an und beginnen Sie mit dem Bootschartern! \n\n\nHerzliche Grüße, \n{full_name}",
     "enter-your-harbor-arrival-time": "Geben Sie Ihre Ankunftszeit im Hafen ein",
-    "commission": "Provision"
+    "commission": "Provision",
+    "verified": "Verifiziert"
 }
