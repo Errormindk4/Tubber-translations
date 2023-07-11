@@ -1601,5 +1601,7 @@
     "invitation-text-{full_name}": "Zaloguj się do Tubber za pomocą swojego adresu e-mail, konta Facebook lub Google i zacznij wynajmować łodzie!\n\n\n Serdeczne pozdrowienia,\n {full_name}",
     "enter-your-harbor-arrival-time": "Wprowadź czas przybycia do portu",
     "commission": "Prowizja",
-    "verified": "Zweryfikowano"
+    "verified": "Zweryfikowano",
+    "import": "Import",
+    "confirm-your-password": "Potwierdź swoje hasło"
 }
