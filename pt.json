@@ -1601,5 +1601,7 @@
     "enter-your-harbor-arrival-time": "Insira a hora de chegada ao porto",
     "invitation-text-{full_name}": "Entre no Tubber com seu e-mail, Facebook ou conta do Google e comece a alugar barcos!\n\n\n Atenciosamente,\n {full_name}",
     "commission": "Comissão",
-    "verified": "Verificado"
+    "verified": "Verificado",
+    "confirm-your-password": "Confirme sua senha",
+    "import": "Importar"
 }
