@@ -1601,5 +1601,7 @@
     "you-will-have-option-edit-after-rebooking": "Uudelleenvarauksen jälkeen sinulla on mahdollisuus muokata.",
     "pay": "Maksaa",
     "commission": "Komissio",
-    "verified": "Vahvistettu"
+    "verified": "Vahvistettu",
+    "import": "Tuonti",
+    "confirm-your-password": "Vahvista salasana"
 }
