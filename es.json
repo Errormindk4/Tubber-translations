@@ -1601,5 +1601,7 @@
     "invitation-text-{full_name}": "¡Inicia sesión en Tubber con tu cuenta de correo electrónico, Facebook o Google y comienza a alquilar barcos!\n\n\n Atentamente,\n {full_name}",
     "enter-your-harbor-arrival-time": "Introduzca su hora de llegada al puerto",
     "commission": "Comisión",
-    "verified": "Verificado"
+    "verified": "Verificado",
+    "import": "Importar",
+    "confirm-your-password": "Confirmar la contraseña"
 }
