@@ -1602,5 +1602,7 @@
     "invitation-text-{full_name}": "Log ind på Tubber med din e-mail, Facebook eller Google-konto og begynd at leje både!\n\n\n Med venlig hilsen,\n {full_name}",
     "enter-your-harbor-arrival-time": "Indtast din havns ankomsttid",
     "commission": "Provision",
-    "verified": "Verificeret"
+    "verified": "Verificeret",
+    "import": "Importere",
+    "confirm-your-password": "Bekræft dit kodeord"
 }
