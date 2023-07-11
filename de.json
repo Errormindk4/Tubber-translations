@@ -1643,5 +1643,7 @@
     "invitation-text-{full_name}": "Melden Sie sich mit Ihrem E-Mail-, Facebook- oder Google-Konto bei Tubber an und beginnen Sie mit dem Bootschartern! \n\n\nHerzliche Grüße, \n{full_name}",
     "enter-your-harbor-arrival-time": "Geben Sie Ihre Ankunftszeit im Hafen ein",
     "commission": "Provision",
-    "verified": "Verifiziert"
+    "verified": "Verifiziert",
+    "import": "Importieren",
+    "confirm-your-password": "Bestätigen Sie Ihr Passwort"
 }
