@@ -1602,5 +1602,7 @@
     "provisioning": "Provisioning",
     "you-will-have-option-edit-after-rebooking": "You will have the option to edit after rebooking.",
     "enter-your-harbor-arrival-time": "Enter your harbor arrival time",
-    "verified": "Verified"
+    "verified": "Verified",
+    "import": "Import",
+    "confirm-your-password": "Confirm your password"
 }
