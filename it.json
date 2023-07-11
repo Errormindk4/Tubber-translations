@@ -1601,5 +1601,7 @@
     "agency-discount": "Sconto tubber",
     "click-upload-VHF-number": "Fare clic per caricare la licenza VHF",
     "commission": "Commissione",
-    "verified": "Verificato"
+    "verified": "Verificato",
+    "import": "Importare",
+    "confirm-your-password": "Conferma la tua password"
 }
