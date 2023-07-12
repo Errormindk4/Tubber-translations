@@ -1603,5 +1603,6 @@
     "commission": "Provizija",
     "verified": "Provjereno",
     "import": "Uvoz",
-    "confirm-your-password": "Potvrdi svoju lozinku"
+    "confirm-your-password": "Potvrdi svoju lozinku",
+    "please-enter-your-password": "Molimo unesite svoju lozinku"
 }
