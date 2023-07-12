@@ -1603,5 +1603,6 @@
     "commission": "Comissão",
     "verified": "Verificado",
     "confirm-your-password": "Confirme sua senha",
-    "import": "Importar"
+    "import": "Importar",
+    "please-enter-your-password": "Por favor, insira sua senha"
 }
