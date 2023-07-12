@@ -1604,5 +1604,6 @@
     "commission": "Provision",
     "verified": "Verificeret",
     "import": "Importere",
-    "confirm-your-password": "Bekræft dit kodeord"
+    "confirm-your-password": "Bekræft dit kodeord",
+    "please-enter-your-password": "Indtast venligst dit kodeord"
 }
