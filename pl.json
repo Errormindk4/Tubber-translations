@@ -1603,5 +1603,6 @@
     "commission": "Prowizja",
     "verified": "Zweryfikowano",
     "import": "Import",
-    "confirm-your-password": "Potwierdź swoje hasło"
+    "confirm-your-password": "Potwierdź swoje hasło",
+    "please-enter-your-password": "Wprowadź hasło"
 }
