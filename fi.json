@@ -1603,5 +1603,6 @@
     "commission": "Komissio",
     "verified": "Vahvistettu",
     "import": "Tuonti",
-    "confirm-your-password": "Vahvista salasana"
+    "confirm-your-password": "Vahvista salasana",
+    "please-enter-your-password": "Anna salasanasi"
 }
