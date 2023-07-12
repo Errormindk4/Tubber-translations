@@ -1604,5 +1604,6 @@
     "enter-your-harbor-arrival-time": "Enter your harbor arrival time",
     "verified": "Verified",
     "import": "Import",
-    "confirm-your-password": "Confirm your password"
+    "confirm-your-password": "Confirm your password",
+    "please-enter-your-password": "Please enter your password"
 }
