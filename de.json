@@ -1645,5 +1645,6 @@
     "commission": "Provision",
     "verified": "Verifiziert",
     "import": "Importieren",
-    "confirm-your-password": "Bestätigen Sie Ihr Passwort"
+    "confirm-your-password": "Bestätigen Sie Ihr Passwort",
+    "please-enter-your-password": "Bitte geben Sie Ihr Passwort ein"
 }
