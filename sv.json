@@ -1603,5 +1603,6 @@
     "commission": "Provision",
     "verified": "Verifierad",
     "import": "Importera",
-    "confirm-your-password": "Bekräfta ditt lösenord"
+    "confirm-your-password": "Bekräfta ditt lösenord",
+    "please-enter-your-password": "Vänligen ange ditt lösenord"
 }
