@@ -25,7 +25,7 @@
     "-var-plural-plural-1-": "{VAR_PLURAL, plural, =1 {revisione} other {recensioni}}",
     "account": "Account",
     "settings": "Impostazioni",
-    "change-your-password": "Cambia la tua parola d'ordine",
+    "change-your-password": "Cambia la tua password",
     "payout-information": "Informazioni pagamento",
     "log-out": "Esci",
     "close-dashboard": "Chiudi dashboard",
@@ -817,7 +817,7 @@
     "old-password": "La password vecchia",
     "this-is-not-your-current": "Questa non è la tua password corrente",
     "new-password": "Password nuova",
-    "confirm-password": "Conferma la parola d´ordine",
+    "confirm-password": "Conferma la password",
     "the-passwords-do-not-matc": "Le password non corrispondono",
     "add-your-bank-details": "Aggiungi i tuoi dati bancari",
     "cardholder": "Titolare della carta",
@@ -1603,5 +1603,6 @@
     "commission": "Commissione",
     "verified": "Verificato",
     "import": "Importare",
-    "confirm-your-password": "Conferma la tua password"
+    "confirm-your-password": "Conferma la tua password",
+    "please-enter-your-password": "Per favore inserisci la tua password"
 }
