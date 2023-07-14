@@ -1606,5 +1606,6 @@
     "import": "Import",
     "confirm-your-password": "Confirm your password",
     "please-enter-your-password": "Please enter your password",
-    "imported": "Imported"
+    "imported": "Imported",
+    "send-code": "Send code"
 }
