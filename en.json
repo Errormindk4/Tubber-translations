@@ -1608,7 +1608,6 @@
     "please-enter-your-password": "Please enter your password",
     "imported": "Imported",
     "send-code": "Send code",
-    "resent": "Resend",
     "we-ll-send-code-your-semail": "Pressing 'Send code' will send a code to your second email address. Please check your inbox.",
     "enter-code-sent-semail-address": "Please, enter the verification code that was sent to your second email address: {email}.",
     "you-can-resend-code-after-seconds": "You can resend the code after {seconds} seconds."
