@@ -1556,7 +1556,7 @@
     "enter-your-first-last-name": "Inserisci il tuo nome e cognome",
     "we-send-ver-second-email": "Invieremo un link di verifica al tuo secondo indirizzo email. Si prega di controllare la posta in arrivo.",
     "{user_name}-for-every-friend-you-invi": "{user_name}, per ogni amico che inviti riceverai dei crediti!",
-    "enter-ver-send-your-phone-{phone}-resend": "Inserisci il codice di verifica che è stato inviato al tuo numero di telefono {phone_number}.\nPuoi inviare nuovamente il codice dopo 20 secondi.",
+    "enter-ver-send-your-phone-{phone}-resend": "Inserisci il codice di verifica che è stato inviato al tuo numero di telefono {phone_number}.",
     "verify": "Verificare",
     "enter-your-address": "Inserisci il tuo indirizzo",
     "enter-your-phone-number": "Inserisci il tuo numero di telefono",
