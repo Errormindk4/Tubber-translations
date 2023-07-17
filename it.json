@@ -1604,5 +1604,14 @@
     "verified": "Verificato",
     "import": "Importare",
     "confirm-your-password": "Conferma la tua password",
-    "please-enter-your-password": "Per favore inserisci la tua password"
+    "please-enter-your-password": "Per favore inserisci la tua password",
+    "imported": "Importato",
+    "send-code": "Manda il codice",
+    "you-can-resend-code-after-seconds": "Puoi inviare nuovamente il codice dopo {seconds} secondi.",
+    "enter-code-sent-semail-address": "Inserisci il codice di verifica che è stato inviato al tuo secondo indirizzo email: {email}.",
+    "resend": "Invia di nuovo",
+    "are-you-sure-import-prev-list": "Sei sicuro di voler importare l'elenco dell'equipaggio di \"{trip_name}\"? I membri dell'equipaggio aggiunti in precedenza verranno eliminati definitivamente senza possibilità di recupero.",
+    "invalid-code-please-try-again": "Codice non valido, per favore riprova",
+    "we-ll-send-code-your-semail": "Premendo 'manda il codice' verrà inviato un codice al tuo secondo indirizzo email. Si prega di controllare la posta in arrivo.",
+    "press-ll-code-phone": "Premendo \"manda il codice\" verrà inviato un messaggio di testo al tuo telefono. Dovrai inserirlo nel passaggio successivo."
 }
