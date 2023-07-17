@@ -776,7 +776,7 @@
     "you-don-t-have-any-conver": "Você não tem conversas no momento.",
     "review-written-on": "Opinião escrita em",
     "review-updated-on": "Opinião atualizada em",
-    "reviews-about-you": "Opiniões sobre si",
+    "reviews-about-you": "Opiniões sobre você",
     "reviews-to-write": "Opiniões para escrever",
     "you-can-write-a-review-th": "Pode escrever uma opinião através do Tubber no fim de uma reserva. Ao submeter a opinião, tem duas semanas para a editar caso detete algum erro ou se tenha esquecido de algo.",
     "reviews-by-you": "Opiniões escritas por si",
@@ -1604,5 +1604,14 @@
     "verified": "Verificado",
     "confirm-your-password": "Confirme sua senha",
     "import": "Importar",
-    "please-enter-your-password": "Por favor, insira sua senha"
+    "please-enter-your-password": "Por favor, insira sua senha",
+    "imported": "Importado",
+    "send-code": "Enviar código",
+    "enter-code-sent-semail-address": "Por favor, digite o código de verificação que foi enviado para o seu segundo endereço de e-mail: {email}.",
+    "we-ll-send-code-your-semail": "Pressionar 'Enviar código' enviará um código para o seu segundo endereço de e-mail. Verifique sua caixa de entrada.",
+    "you-can-resend-code-after-seconds": "Você pode reenviar o código após {seconds} segundos.",
+    "resend": "Reenviar",
+    "are-you-sure-import-prev-list": "Tem certeza de que deseja importar a lista de tripulantes “{trip_name}”? Os tripulantes adicionados anteriormente serão excluídos permanentemente sem possibilidade de recuperação.",
+    "invalid-code-please-try-again": "Código inválido, tente novamente",
+    "press-ll-code-phone": "Pressionar 'Enviar código' enviará um código de texto para o seu telefone. Você precisará inserir isso na próxima etapa."
 }
