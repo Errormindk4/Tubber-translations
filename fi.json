@@ -1604,5 +1604,14 @@
     "verified": "Vahvistettu",
     "import": "Tuonti",
     "confirm-your-password": "Vahvista salasana",
-    "please-enter-your-password": "Anna salasanasi"
+    "please-enter-your-password": "Anna salasanasi",
+    "send-code": "Lähetä koodi",
+    "we-ll-send-code-your-semail": "Painamalla 'Lähetä koodi' lähettää koodin toiseen sähköpostiosoitteeseesi. Tarkista postilaatikkosi.",
+    "enter-code-sent-semail-address": "Anna vahvistuskoodi, joka lähetettiin toiseen sähköpostiosoitteeseesi: {email}.",
+    "you-can-resend-code-after-seconds": "Voit lähettää koodin uudelleen {seconds} sekunnin kuluttua.",
+    "resend": "Uudelleen lähettää",
+    "press-ll-code-phone": "Painamalla \"Lähetä koodi\" lähettää koodin tekstiviestillä puhelimeesi. Sinun on syötettävä tämä seuraavassa vaiheessa.",
+    "invalid-code-please-try-again": "Virheellinen koodi, yritä uudelleen",
+    "imported": "Tuotu",
+    "are-you-sure-import-prev-list": "Haluatko varmasti tuoda \"{trip_name}\" -miehistöluettelon? Aiemmin lisätyt miehistön jäsenet poistetaan pysyvästi ilman palautusmahdollisuutta."
 }
