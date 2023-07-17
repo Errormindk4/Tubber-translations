@@ -1544,7 +1544,7 @@
     "enter-secondary-email": "Insira um e-mail secundário",
     "we-send-ver-second-email": "Enviaremos um link de verificação para seu segundo endereço de e-mail. Verifique sua caixa de entrada.",
     "{user_name}-for-every-friend-you-invi": "{user_name}, para cada amigo que você convidar, você receberá créditos!",
-    "enter-ver-send-your-phone-{phone}-resend": "Por favor, digite o código de verificação que foi enviado para o seu número de telefone {phone_number}.\nVocê pode reenviar o código após 20 segundos.",
+    "enter-ver-send-your-phone-{phone}-resend": "Por favor, digite o código de verificação que foi enviado para o seu número de telefone {phone_number}.",
     "verify": "Verificar",
     "enter-your-first-last-name": "Digite seu nome e sobrenome",
     "enter-your-address": "Digite seu endereço",
