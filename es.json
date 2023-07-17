@@ -1604,5 +1604,14 @@
     "verified": "Verificado",
     "import": "Importar",
     "confirm-your-password": "Confirmar la contraseña",
-    "please-enter-your-password": "Por favor, introduzca su contraseña"
+    "please-enter-your-password": "Por favor, introduzca su contraseña",
+    "imported": "Importado",
+    "send-code": "Enviar código",
+    "enter-code-sent-semail-address": "Por favor, ingrese el código de verificación que fue enviado a su segunda dirección de correo electrónico: {email}.",
+    "you-can-resend-code-after-seconds": "Puede volver a enviar el código después de {segundos} segundos.",
+    "resend": "Reenviar",
+    "press-ll-code-phone": "Al presionar 'Enviar código', se enviará un código por mensaje de texto a su teléfono. Deberá ingresar esto en el siguiente paso.",
+    "invalid-code-please-try-again": "Código no válido, por favor vuelva a intentarlo",
+    "we-ll-send-code-your-semail": "Al presionar 'Enviar código' se enviará un código a su segunda dirección de correo electrónico. Por favor revise su bandeja de entrada.",
+    "are-you-sure-import-prev-list": "¿Estás seguro de que quieres importar la lista de tripulantes de \"{trip_name}\"? Los miembros de la tripulación agregados anteriormente se eliminarán de forma permanente sin posibilidad de recuperación."
 }
