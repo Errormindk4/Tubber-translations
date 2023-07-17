@@ -1605,5 +1605,14 @@
     "verified": "Verificeret",
     "import": "Importere",
     "confirm-your-password": "Bekræft dit kodeord",
-    "please-enter-your-password": "Indtast venligst dit kodeord"
+    "please-enter-your-password": "Indtast venligst dit kodeord",
+    "imported": "Importeret",
+    "send-code": "Send kode",
+    "we-ll-send-code-your-semail": "Ved at trykke på 'Send kode' sendes en kode til din anden e-mailadresse. Tjek venligst din indbakke.",
+    "enter-code-sent-semail-address": "Indtast venligst den bekræftelseskode, der blev sendt til din anden e-mailadresse: {email}.",
+    "you-can-resend-code-after-seconds": "Du kan sende koden igen efter {seconds} sekunder.",
+    "resend": "Send igen",
+    "press-ll-code-phone": "Ved at trykke på 'Send kode' sendes en kode til din telefon. Du skal indtaste dette på næste trin.",
+    "are-you-sure-import-prev-list": "Er du sikker på, at du vil importere \"{trip_name}\"-besætningsliste? Tidligere tilføjede besætningsmedlemmer vil blive slettet permanent uden mulighed for gendannelse.",
+    "invalid-code-please-try-again": "Ugyldig kode, prøv igen"
 }
