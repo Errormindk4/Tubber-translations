@@ -1604,5 +1604,14 @@
     "verified": "Provjereno",
     "import": "Uvoz",
     "confirm-your-password": "Potvrdi svoju lozinku",
-    "please-enter-your-password": "Molimo unesite svoju lozinku"
+    "please-enter-your-password": "Molimo unesite svoju lozinku",
+    "imported": "Uvozni",
+    "send-code": "Pošalji kod",
+    "we-ll-send-code-your-semail": "Pritiskom na 'Pošalji kod' poslat će se kod na vašu drugu adresu e-pošte. Provjerite svoju pristiglu poštu.",
+    "enter-code-sent-semail-address": "Unesite kod za provjeru koji je poslan na vašu drugu adresu e-pošte: {email}.",
+    "you-can-resend-code-after-seconds": "Možete ponovno poslati kôd nakon {seconds} sekundi.",
+    "resend": "Ponovno pošalji",
+    "are-you-sure-import-prev-list": "Jeste li sigurni da želite uvesti popis posade “{trip_name}”? Prethodno dodani članovi posade bit će trajno izbrisani bez mogućnosti oporavka.",
+    "invalid-code-please-try-again": "Nevažeći kôd, pokušajte ponovo",
+    "press-ll-code-phone": "Pritiskom na 'Pošalji kod' poslat ćete kod na svoj telefon. Ovo ćete morati unijeti u sljedećem koraku."
 }
