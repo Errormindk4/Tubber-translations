@@ -1541,7 +1541,7 @@
     "enter-secondary-email": "Indtast en sekundær e-mail",
     "we-send-ver-second-email": "Vi sender et verifikationslink til din sekundære e-mailadresse. Vær venlig at tjekke din indbakke.",
     "{user_name}-for-every-friend-you-invi": "{user_name}, for hver ven, du inviterer, vil du modtage credits!",
-    "enter-ver-send-your-phone-{phone}-resend": "Indtast venligst verifikationskoden, der blev sendt til dit telefonnummer {phone_number}.\nDu kan genfremsende koden efter 20 sekunder.",
+    "enter-ver-send-your-phone-{phone}-resend": "Indtast venligst verifikationskoden, der blev sendt til dit telefonnummer {phone_number}.",
     "verify": "Verificér",
     "enter-your-first-last-name": "Indtast dit fornavn og efternavn",
     "enter-your-address": "Indtast din adresse",
