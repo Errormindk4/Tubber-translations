@@ -1567,7 +1567,7 @@
     "included-equipments": "Extra ingår",
     "transportation-to-base": "Transport till basen",
     "luggage-instructions": "Instruktioner för bagage",
-    "enter-ver-send-your-phone-{phone}-resend": "Vänligen ange verifieringskoden som skickades till ditt telefonnummer {phone_number}.\nDu kan skicka om koden efter 20 sekunder.",
+    "enter-ver-send-your-phone-{phone}-resend": "Vänligen ange verifieringskoden som skickades till ditt telefonnummer {phone_number}.",
     "nearby-restaurants": "Närliggande restauranger",
     "nearby-shopping": "Närliggande shopping",
     "provisioning": "Proviantering",
