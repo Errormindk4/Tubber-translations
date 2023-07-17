@@ -1605,5 +1605,14 @@
     "verified": "Vérifié",
     "import": "Importer",
     "confirm-your-password": "Confirmer votre mot de passe",
-    "please-enter-your-password": "s'il vous plait entrez votre mot de passe"
+    "please-enter-your-password": "s'il vous plait entrez votre mot de passe",
+    "imported": "Importé",
+    "send-code": "Envoyer le code",
+    "enter-code-sent-semail-address": "Veuillez saisir le code de vérification qui a été envoyé à votre deuxième adresse e-mail : {email}.",
+    "you-can-resend-code-after-seconds": "Vous pouvez renvoyer le code après {seconds} secondes.",
+    "resend": "Renvoyer",
+    "are-you-sure-import-prev-list": "Voulez-vous vraiment importer la liste d'équipage \"{trip_name}\" ? Les membres d'équipage précédemment ajoutés seront définitivement supprimés sans possibilité de récupération.",
+    "invalid-code-please-try-again": "Code invalide. S'il vous plaît essayer à nouveau",
+    "we-ll-send-code-your-semail": "En appuyant sur \"Envoyer le code\", vous enverrez un code à votre deuxième adresse e-mail. Veuillez vérifier votre boîte de réception.",
+    "press-ll-code-phone": "Appuyez sur \"Envoyer le code\" pour envoyer un code par SMS à votre téléphone. Vous devrez le saisir à l'étape suivante."
 }
