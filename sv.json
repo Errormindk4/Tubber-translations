@@ -1604,5 +1604,14 @@
     "verified": "Verifierad",
     "import": "Importera",
     "confirm-your-password": "Bekräfta ditt lösenord",
-    "please-enter-your-password": "Vänligen ange ditt lösenord"
+    "please-enter-your-password": "Vänligen ange ditt lösenord",
+    "imported": "Importerad",
+    "send-code": "Skicka kod",
+    "we-ll-send-code-your-semail": "Om du trycker på \"Skicka kod\" skickas en kod till din andra e-postadress. Kontrollera din inkorg.",
+    "enter-code-sent-semail-address": "Vänligen ange verifieringskoden som skickades till din andra e-postadress: {email}.",
+    "resend": "Skicka igen",
+    "press-ll-code-phone": "Om du trycker på \"Skicka kod\" skickas en kod till din telefon. Du måste ange detta i nästa steg.",
+    "are-you-sure-import-prev-list": "Är du säker på att du vill importera besättningslistan \"{trip_name}\"? Tidigare tillagda besättningsmedlemmar kommer att raderas permanent utan möjlighet till återhämtning.",
+    "invalid-code-please-try-again": "Ogiltig kod, försök igen",
+    "you-can-resend-code-after-seconds": "Du kan skicka om koden efter {seconds} sekunder."
 }
