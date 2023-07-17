@@ -1612,5 +1612,6 @@
     "enter-code-sent-semail-address": "Please, enter the verification code that was sent to your second email address: {email}.",
     "you-can-resend-code-after-seconds": "You can resend the code after {seconds} seconds.",
     "resend": "Resend",
-    "press-ll-code-phone": "Pressing ‘Send code' will text a code to your phone. You'll need to enter this at the next step."
+    "press-ll-code-phone": "Pressing ‘Send code' will text a code to your phone. You'll need to enter this at the next step.",
+    "are-you-sure-import-prev-list": "Are you sure you want to import “{trip_name}” crewlist? Previously added crew members will be permanently deleted without the possibility of recovery."
 }
