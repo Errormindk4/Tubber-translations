@@ -1563,7 +1563,7 @@
     "{user_name}-for-every-friend-you-invi": "{user_name}, jokaisesta kutsumastasi ystävästä saat krediittejä!",
     "verify": "Vahvista",
     "enter-your-first-last-name": "Kirjoita etu- ja sukunimesi",
-    "enter-ver-send-your-phone-{phone}-resend": "Anna puhelinnumeroosi lähetetty vahvistuskoodi {phone_number}.\nVoit lähettää koodin uudelleen 20 sekunnin kuluttua.",
+    "enter-ver-send-your-phone-{phone}-resend": "Anna puhelinnumeroosi lähetetty vahvistuskoodi {phone_number}.",
     "enter-your-address": "Kirjoita osoitteesi",
     "enter-your-phone-number": "Anna puhelinnumerosi",
     "overdue": "Myöhässä",
