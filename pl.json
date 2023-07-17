@@ -1604,5 +1604,14 @@
     "verified": "Zweryfikowano",
     "import": "Import",
     "confirm-your-password": "Potwierdź swoje hasło",
-    "please-enter-your-password": "Wprowadź hasło"
+    "please-enter-your-password": "Wprowadź hasło",
+    "imported": "Importowany",
+    "send-code": "Wyślij kod",
+    "enter-code-sent-semail-address": "Wprowadź kod weryfikacyjny, który został wysłany na Twój drugi adres e-mail: {email}.",
+    "you-can-resend-code-after-seconds": "Możesz ponownie wysłać kod po {seconds} sekundach.",
+    "resend": "Wysłać ponownie",
+    "press-ll-code-phone": "Naciśnięcie „Wyślij kod” spowoduje wysłanie SMS-a z kodem na Twój telefon. Musisz wprowadzić to w następnym kroku.",
+    "are-you-sure-import-prev-list": "Czy na pewno chcesz zaimportować listę załogi „{trip_name}”? Wcześniej dodani członkowie załogi zostaną trwale usunięci bez możliwości przywrócenia.",
+    "invalid-code-please-try-again": "Nieprawidłowy kod, proszę spróbować ponownie",
+    "we-ll-send-code-your-semail": "Naciśnięcie przycisku „Wyślij kod” spowoduje wysłanie kodu na drugi adres e-mail. Proszę, sprawdź swoją skrzynkę odbiorczą."
 }
