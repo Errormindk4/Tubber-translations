@@ -1616,5 +1616,7 @@
     "are-you-sure-import-prev-list": "Are you sure you want to import “{trip_name}” crewlist? Previously added crew members will be permanently deleted without the possibility of recovery.",
     "invalid-code-please-try-again": "Invalid code, please try again",
     "expired-code": "This code is no longer active. Please enter a valid verification code",
-    "email-already-exists": "This email is already in use. Please remove it from the associated account or add a new email"
+    "email-already-exists": "This email is already in use. Please remove it from the associated account or add a new email",
+    "lets-verify-its-you": "Let’s verify it’s you",
+    "to-continue-please-enter-your-password": "To continue, please enter your password"
 }
