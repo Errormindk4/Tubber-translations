@@ -331,7 +331,7 @@
     "required": "Erforderlich",
     "payment-at-the-base": "Zahlung an der Basis",
     "standard": "Standard",
-    "partially-refundable": "Streng",
+    "partially-refundable": "Teilweise erstattungsfähig",
     "moderate": "Mäßig",
     "flexible": "Flexibel",
     "-advised-when-average-cha": "(Empfohlen, wenn die durchschnittliche Charterdauer eine Woche oder mehr beträgt)",
@@ -1655,5 +1655,9 @@
     "invalid-code-please-try-again": "Ungültiger Code, bitte versuchen Sie es erneut",
     "we-ll-send-code-your-semail": "Wenn Sie auf „Code senden“ klicken, wird ein Code an Ihre zweite E-Mail-Adresse gesendet. Bitte überprüfen Sie Ihren Posteingang.",
     "enter-code-sent-semail-address": "Bitte geben Sie den Bestätigungscode ein, der an Ihre zweite E-Mail-Adresse gesendet wurde: {email}.",
-    "are-you-sure-import-prev-list": "Sind Sie sicher, dass Sie die Crewliste „{trip_name}“ importieren möchten? Zuvor hinzugefügte Besatzungsmitglieder werden dauerhaft gelöscht, ohne dass eine Wiederherstellung möglich ist."
+    "are-you-sure-import-prev-list": "Sind Sie sicher, dass Sie die Crewliste „{trip_name}“ importieren möchten? Zuvor hinzugefügte Besatzungsmitglieder werden dauerhaft gelöscht, ohne dass eine Wiederherstellung möglich ist.",
+    "expired-code": "Dieser Code ist nicht mehr aktiv. Bitte geben Sie einen gültigen Bestätigungscode ein",
+    "email-already-exists": "Diese E-Mail-Adresse wird schon verwendet. Bitte entfernen Sie diese aus dem zugehörigen Konto oder fügen Sie eine neue E-Mail-Adresse hinzu",
+    "lets-verify-its-you": "Lassen Sie uns überprüfen, ob Sie es sind",
+    "to-continue-please-enter-your-password": "Um fortzufahren, geben Sie bitte Ihr Passwort ein"
 }
