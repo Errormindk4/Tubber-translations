@@ -14,8 +14,8 @@
     "owner-responsibility-and": "Charter Company Responsibility and Liability",
     "guest-refund-policy": "Guest refund policy",
     "cancellation-policy": "Cancellation Policy",
-    "privacy-policy": "privacy policy",
-    "terms-of-use": "terms of use",
+    "privacy-policy": "Privacy policy",
+    "terms-of-use": "Terms of use",
     "tubber-blog": "Tubber Blog",
     "support": "Support",
     "careers": "Careers",
@@ -226,7 +226,7 @@
     "number-of-guests": "Number of guests",
     "submit": "Submit",
     "guests": "Guests",
-    "boat-rules": "Boat rules",
+    "boat-rules": "Tubber Verified",
     "location": "Location",
     "you-found-a-new-boat-": "You found a new boat!",
     "this-boat-hasn-t-been-act": "This boat hasn't been activated, so you can't see it just yet! But hang in there, once the owner decides to activate it, you will be able to view this boat.",
@@ -1614,5 +1614,9 @@
     "press-ll-code-phone": "Pressing ‘Send code' will text a code to your phone. You'll need to enter this at the next step.",
     "are-you-sure-import-prev-list": "Are you sure you want to import “{trip_name}” crewlist? Previously added crew members will be permanently deleted without the possibility of recovery.",
     "invalid-code-please-try-again": "Invalid code, please try again",
-    "send-code": "Send code"
+    "send-code": "Send code",
+    "expired-code": "This code is no longer active. Please enter a valid verification code",
+    "lets-verify-its-you": "Let’s verify it’s you",
+    "to-continue-please-enter-your-password": "To continue, please enter your password",
+    "email-already-exists": "This email is already in use. Please remove it from the associated account or add a new email"
 }
