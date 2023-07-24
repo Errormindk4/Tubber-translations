@@ -1617,5 +1617,6 @@
     "expired-code": "Este código ya no está activo. Por favor ingrese un código de verificación válido",
     "email-already-exists": "Este correo electrónico ya está en uso. Elimínelo de la cuenta asociada o agregue un nuevo correo electrónico",
     "lets-verify-its-you": "Verifiquemos que eres tú",
-    "to-continue-please-enter-your-password": "Para continuar, por favor ingrese su contraseña"
+    "to-continue-please-enter-your-password": "Para continuar, por favor ingrese su contraseña",
+    "editing-crew-member-data-ll-not-saved": "¿Está seguro de que desea cerrar esta ventana sin guardar los datos del tripulante?"
 }
