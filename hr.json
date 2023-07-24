@@ -1617,5 +1617,6 @@
     "lets-verify-its-you": "Potvrdimo da ste to vi",
     "to-continue-please-enter-your-password": "Za nastavak molimo unesite svoju lozinku",
     "expired-code": "Ovaj kod više nije aktivan. Unesite važeći kontrolni kod",
-    "email-already-exists": "Ovaj email se već koristi. Uklonite ga s povezanog računa ili dodajte novu e-poštu"
+    "email-already-exists": "Ovaj email se već koristi. Uklonite ga s povezanog računa ili dodajte novu e-poštu",
+    "editing-crew-member-data-ll-not-saved": "Jeste li sigurni da želite zatvoriti ovaj prozor bez spremanja podataka o članu posade?"
 }
