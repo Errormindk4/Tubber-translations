@@ -1617,5 +1617,6 @@
     "email-already-exists": "Ten email jest już w użyciu. Usuń go z powiązanego konta lub dodaj nowy adres e-mail",
     "lets-verify-its-you": "Sprawdźmy, czy to Ty",
     "to-continue-please-enter-your-password": "Aby kontynuować, wprowadź hasło",
-    "expired-code": "Ten kod nie jest już aktywny. Wprowadź prawidłowy kod weryfikacyjny"
+    "expired-code": "Ten kod nie jest już aktywny. Wprowadź prawidłowy kod weryfikacyjny",
+    "editing-crew-member-data-ll-not-saved": "Czy na pewno chcesz zamknąć to okno bez zapisywania danych członka załogi?"
 }
