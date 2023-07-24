@@ -1618,5 +1618,6 @@
     "expired-code": "Ovaj kod više nije aktivan. Unesite važeći kontrolni kod",
     "email-already-exists": "Ovaj email se već koristi. Uklonite ga s povezanog računa ili dodajte novu e-poštu",
     "lets-verify-its-you": "Potvrdimo da ste to vi",
-    "to-continue-please-enter-your-password": "Za nastavak molimo unesite svoju lozinku"
+    "to-continue-please-enter-your-password": "Za nastavak molimo unesite svoju lozinku",
+    "editing-crew-member-data-ll-not-saved": "Er du sikker på, at du vil lukke dette vindue uden at gemme besætningsmedlemmets data?"
 }
