@@ -1617,5 +1617,6 @@
     "expired-code": "Questo codice non è più attivo. Inserisci un codice di verifica valido",
     "email-already-exists": "Questa e-mail è già in uso. Rimuovilo dall'account associato o aggiungi una nuova email",
     "lets-verify-its-you": "Verifichiamo che sei tu",
-    "to-continue-please-enter-your-password": "Per continuare, inserisci la tua password"
+    "to-continue-please-enter-your-password": "Per continuare, inserisci la tua password",
+    "editing-crew-member-data-ll-not-saved": "Sei sicuro di voler chiudere questa finestra senza salvare i dati del membro dell'equipaggio?"
 }
