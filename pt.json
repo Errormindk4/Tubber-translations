@@ -1618,5 +1618,7 @@
     "email-already-exists": "Esse email já está em uso. Remova-o da conta associada ou adicione um novo e-mail",
     "lets-verify-its-you": "Vamos verificar se é você",
     "to-continue-please-enter-your-password": "Para continuar, digite sua senha",
-    "editing-crew-member-data-ll-not-saved": "Tem certeza que deseja fechar esta janela sem salvar os dados do tripulante?"
+    "editing-crew-member-data-ll-not-saved": "Tem certeza que deseja fechar esta janela sem salvar os dados do tripulante?",
+    "show-boats-that-can-booked-instant": "Mostrar barcos que podem ser reservados instantaneamente",
+    "instant-sail": "Vela Instantânea"
 }
