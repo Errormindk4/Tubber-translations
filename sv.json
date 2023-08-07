@@ -1618,5 +1618,7 @@
     "email-already-exists": "Denna e-post är redan i bruk. Ta bort det från det associerade kontot eller lägg till en ny e-post",
     "lets-verify-its-you": "Låt oss verifiera att det är du",
     "to-continue-please-enter-your-password": "För att fortsätta, ange ditt lösenord",
-    "editing-crew-member-data-ll-not-saved": "Är du säker på att du vill stänga det här fönstret utan att spara besättningsmedlemmens data?"
+    "editing-crew-member-data-ll-not-saved": "Är du säker på att du vill stänga det här fönstret utan att spara besättningsmedlemmens data?",
+    "show-boats-that-can-booked-instant": "Visa båtar som kan bokas direkt",
+    "instant-sail": "Direktsegling"
 }
