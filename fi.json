@@ -1618,5 +1618,7 @@
     "to-continue-please-enter-your-password": "Jatka kirjoittamalla salasanasi",
     "expired-code": "Tämä koodi ei ole enää aktiivinen. Anna kelvollinen vahvistuskoodi",
     "lets-verify-its-you": "Varmistetaan, että olet sinä",
-    "editing-crew-member-data-ll-not-saved": "Haluatko varmasti sulkea tämän ikkunan tallentamatta miehistön jäsenen tietoja?"
+    "editing-crew-member-data-ll-not-saved": "Haluatko varmasti sulkea tämän ikkunan tallentamatta miehistön jäsenen tietoja?",
+    "instant-sail": "Pikapurje",
+    "show-boats-that-can-booked-instant": "Näytä veneitä, jotka voidaan varata välittömästi"
 }
