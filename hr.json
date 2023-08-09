@@ -1619,6 +1619,7 @@
     "expired-code": "Ovaj kod više nije aktivan. Unesite važeći kontrolni kod",
     "email-already-exists": "Ovaj email se već koristi. Uklonite ga s povezanog računa ili dodajte novu e-poštu",
     "editing-crew-member-data-ll-not-saved": "Jeste li sigurni da želite zatvoriti ovaj prozor bez spremanja podataka o članu posade?",
-    "show-boats-that-can-booked-instant": "Pokažite brodove koji se mogu odmah rezervirati",
-    "instant-sail": "Trenutna jedra"
+    "show-boats-that-can-booked-instant": "Pokažite brodove dostupne za trenutnu rezervaciju",
+    "instant-sail": "Trenutna jedra",
+    "booking-option": "Opcija rezervacije"
 }
