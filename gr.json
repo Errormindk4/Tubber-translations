@@ -1619,6 +1619,7 @@
     "lets-verify-its-you": "Ας επαληθεύσουμε ότι είστε εσείς",
     "to-continue-please-enter-your-password": "Για να συνεχίσετε, πληκτρολογήστε τον κωδικό πρόσβασής σας",
     "editing-crew-member-data-ll-not-saved": "Είστε βέβαιοι ότι θέλετε να κλείσετε αυτό το παράθυρο χωρίς να αποθηκεύσετε τα δεδομένα του μέλους του πληρώματος;",
-    "show-boats-that-can-booked-instant": "Εμφάνιση σκαφών που μπορούν να κρατηθούν άμεσα",
-    "instant-sail": "Στιγμιαίο πανί"
+    "show-boats-that-can-booked-instant": "Εμφάνιση σκαφών διαθέσιμων για άμεση κράτηση",
+    "instant-sail": "Στιγμιαίο πανί",
+    "booking-option": "Επιλογή κράτησης"
 }
