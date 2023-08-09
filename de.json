@@ -1662,5 +1662,6 @@
     "to-continue-please-enter-your-password": "Um fortzufahren, geben Sie bitte Ihr Passwort ein",
     "editing-crew-member-data-ll-not-saved": "Möchten Sie dieses Fenster wirklich schließen, ohne die Daten des Crewmitglieds zu speichern?",
     "instant-sail": "Sofortiges Segeln",
-    "show-boats-that-can-booked-instant": "Sofort buchbare Boote anzeigen"
+    "show-boats-that-can-booked-instant": "Sofort buchbare Boote anzeigen",
+    "booking-option": "Buchungsoption"
 }
