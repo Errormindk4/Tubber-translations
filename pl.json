@@ -1619,6 +1619,7 @@
     "to-continue-please-enter-your-password": "Aby kontynuować, wprowadź hasło",
     "expired-code": "Ten kod nie jest już aktywny. Wprowadź prawidłowy kod weryfikacyjny",
     "editing-crew-member-data-ll-not-saved": "Czy na pewno chcesz zamknąć to okno bez zapisywania danych członka załogi?",
-    "show-boats-that-can-booked-instant": "Pokaż łodzie, które można zarezerwować natychmiast",
-    "instant-sail": "Natychmiastowy żagiel"
+    "show-boats-that-can-booked-instant": "Pokaż dostępne łodzie do natychmiastowej rezerwacji",
+    "instant-sail": "Natychmiastowy żagiel",
+    "booking-option": "Opcja rezerwacji"
 }
