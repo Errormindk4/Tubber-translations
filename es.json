@@ -1619,6 +1619,7 @@
     "lets-verify-its-you": "Verifiquemos que eres tú",
     "to-continue-please-enter-your-password": "Para continuar, por favor ingrese su contraseña",
     "editing-crew-member-data-ll-not-saved": "¿Está seguro de que desea cerrar esta ventana sin guardar los datos del tripulante?",
-    "show-boats-that-can-booked-instant": "Mostrar barcos que se pueden reservar al instante",
-    "instant-sail": "Vela Instantánea"
+    "show-boats-that-can-booked-instant": "Mostrar barcos disponibles para reserva inmediata",
+    "instant-sail": "Vela Instantánea",
+    "booking-option": "Opción de reserva"
 }
