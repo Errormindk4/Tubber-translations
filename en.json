@@ -1623,5 +1623,7 @@
     "show-boats-that-can-booked-instant": "Show boats available for instant booking",
     "instant-sail": "Instant Sail",
     "booking-option": "Booking option",
-    "sail-type": "Main sail type"
+    "sail-type": "Main sail type",
+    "only": "Only",
+    "new-yacht": "New yacht"
 }
