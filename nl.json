@@ -1666,5 +1666,6 @@
     "expired-code": "Deze code is niet meer actief. Voer een geldige verificatiecode in",
     "email-already-exists": "Deze email is al in gebruik. Verwijder het uit het gekoppelde account of voeg een nieuw e-mailadres toe",
     "lets-verify-its-you": "Laten we verifiëren dat jij het bent",
-    "to-continue-please-enter-your-password": "Voer je wachtwoord in om door te gaan"
+    "to-continue-please-enter-your-password": "Voer je wachtwoord in om door te gaan",
+    "new-yacht": "Nieuw jacht"
 }
