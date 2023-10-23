@@ -1622,5 +1622,8 @@
     "show-boats-that-can-booked-instant": "Mostrar barcos disponibles para reserva inmediata",
     "instant-sail": "Vela Instantánea",
     "booking-option": "Opción de reserva",
-    "you-wont-be-charged-yet": "No se te cobrará nada aún"
+    "you-wont-be-charged-yet": "No se te cobrará nada aún",
+    "full-extras-list": "Mostrar lista completa de extras",
+    "optional2": "Opciones y Servicios",
+    "sail-type": "Tipo de vela mayor"
 }
