@@ -1622,5 +1622,9 @@
     "show-boats-that-can-booked-instant": "Pokaż dostępne łodzie do natychmiastowej rezerwacji",
     "instant-sail": "Natychmiastowy żagiel",
     "booking-option": "Opcja rezerwacji",
-    "you-wont-be-charged-yet": "Płatność nie zostanie jeszcze naliczona"
+    "you-wont-be-charged-yet": "Płatność nie zostanie jeszcze naliczona",
+    "sail-type": "Typ grotu",
+    "deal-day-off": "Oferta czasowa",
+    "full-extras-list": "Pokaż pełną listę dodatków",
+    "optional2": "Opcje i Usługi"
 }
