@@ -1623,5 +1623,9 @@
     "instant-sail": "Direktsegling",
     "booking-option": "Bokningsalternativ",
     "new-yacht": "Ny yacht",
-    "you-wont-be-charged-yet": "Du debiteras inte än"
+    "you-wont-be-charged-yet": "Du debiteras inte än",
+    "sail-type": "Typ av storsegel",
+    "deal-day-off": "Tidsbegränsat Erbjudande",
+    "full-extras-list": "Visa fullständig lista över extra tillval",
+    "optional2": "Alternativ & Tjänster"
 }
