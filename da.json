@@ -491,7 +491,7 @@
     "you-are-obligated-to-pay": "Du er forpligtet til at betale et afbestillingsgebyr på 10% af den samlede pris for reservationen. Afbestillingsgebyret stiger til 60% af den samlede pris, hvis du annullerer reservationen mindre end 7 dage før indtjekningen. Disse omkostninger er inddrevne omkostninger og tid til løsning af reservationsproblemer.",
     "if-the-guest-is-relocated": "Hvis Gæsten flyttes til en alternativ båd af Tubber eller dig, kan du miste en del af eller hele værtsgebyret for reservationen, og du er muligvis ansvarlig for eventuelle rimelige omkostninger foretaget af os for at finde en alternativ løsning til gæsten.",
     "dispute": "Bestride",
-    "if-you-wish-to-dispute-th": "Hvis du ønsker at bestride kravet eller give detaljer om særlige omstændigheder såsom skader på båden fra en årsag uden for din kontrol (\"formildende omstændigheder\"), skal du straks underrette os om det via e-mail med emnet \"tvist <bådens navn> , <Gæstens navn> og <Reservations-ID> (tvist@tubbber.com) eller via telefon på +31 (0) 58 8200 300. Giv alle relevante oplysninger og beviser, såsom foto, video, Skipper-certifikater og / eller kopier af korrespondance bestride værtskravet eller detaljer om de særlige omstændigheder, forudsat at du skal have brugt rimelig og god tro bestræbelser på at forsøge at løse reservationsproblemerne med Tubber og gæsten, før du bestrider kravet eller hævder særlige forhold. Alle afgørelser af Tubber vedrørende gæstetilbagebetalingspolitikken, herunder uden begrænsning gyldigheden af reservationsproblemet, gyldigheden af særlige omstændigheder og det beløb, der skal tilbagebetales til gæsten, skal være endelig og bindende for den pågældende gæst og tubber, mellem Tubber og vært.",
+    "if-you-wish-to-dispute-th": "Hvis du ønsker at bestride kravet eller give detaljer om særlige omstændigheder såsom skader på båden fra en årsag uden for din kontrol (\"formildende omstændigheder\"), skal du straks underrette os om det via e-mail med emnet \"tvist <bådens navn> , <Gæstens navn> og <Reservations-ID> (tvist@tubber.com) eller via telefon på +31 (0) 50 8200 200. Giv alle relevante oplysninger og beviser, såsom foto, video, Skipper-certifikater og / eller kopier af korrespondance bestride værtskravet eller detaljer om de særlige omstændigheder, forudsat at du skal have brugt rimelig og god tro bestræbelser på at forsøge at løse reservationsproblemerne med Tubber og gæsten, før du bestrider kravet eller hævder særlige forhold. Alle afgørelser af Tubber vedrørende gæstetilbagebetalingspolitikken, herunder uden begrænsning gyldigheden af reservationsproblemet, gyldigheden af særlige omstændigheder og det beløb, der skal tilbagebetales til gæsten, skal være endelig og bindende for den pågældende gæst og tubber, mellem Tubber og vært.",
     "solve-booking-issue-direc": "Løs reservationsproblemet direkte",
     "guests-are-free-to-solve": "Gæster kan frit løse reservationsproblemet direkte med værten under betingelse ved at informere Tubber i en skriftlig bekræftelse fra begge sider via e-mail.",
     "in-this-privacy-policy-w": "I denne fortrolighedspolitik forklarer vi, hvordan vi indsamler og bruger dine personlige oplysninger. Denne fortrolighedspolitik gælder for alle personlige oplysninger, vi behandler om dig, når du lejer en yacht hos os, køber eller bruger vores tjenester, besøger vores websted, ringer til os, e-mailer os, bruger vores app eller på anden måde interagerer med os.",
@@ -1624,5 +1624,11 @@
     "instant-sail": "Øjeblikkelig sejlads",
     "booking-option": "Bookingmulighed",
     "deal-day-off": "Særtilbud",
-    "you-wont-be-charged-yet": "Du bliver ikke opkrævet endnu"
+    "you-wont-be-charged-yet": "Du bliver ikke opkrævet endnu",
+    "sail-type": "Hovedsejlstype",
+    "only": "Kun",
+    "new-yacht": "Ny yacht",
+    "unsure-at-the-moment": "Er du stadig i tvivl?",
+    "request-your-unique-offer": "Få et personligt tilbud",
+    "view-full-plan": "Layout af yachten"
 }
