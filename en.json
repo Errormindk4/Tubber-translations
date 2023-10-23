@@ -1633,5 +1633,6 @@
     "view-full-plan": "View full plan",
     "optional2": "Optional",
     "full-extras-list": "Show full extras list",
-    "you-can-include-optional": "You can include optional extras during your reservation process"
+    "you-can-include-optional": "You can include optional extras during your reservation process",
+    "accepted-payment-methods": "Accepted payment methods"
 }
