@@ -1622,5 +1622,8 @@
     "show-boats-that-can-booked-instant": "Pokažite brodove dostupne za trenutnu rezervaciju",
     "instant-sail": "Trenutna jedra",
     "booking-option": "Opcija rezervacije",
-    "you-wont-be-charged-yet": "Još vam nećemo ništa naplatiti"
+    "you-wont-be-charged-yet": "Još vam nećemo ništa naplatiti",
+    "full-extras-list": "Prikaži puni popis dodatnih usluga",
+    "optional2": "Opcije i Usluge",
+    "sail-type": "Vrsta glavnog jedra"
 }
