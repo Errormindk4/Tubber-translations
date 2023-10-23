@@ -1621,5 +1621,6 @@
     "editing-crew-member-data-ll-not-saved": "Haluatko varmasti sulkea tämän ikkunan tallentamatta miehistön jäsenen tietoja?",
     "instant-sail": "Pikapurje",
     "show-boats-that-can-booked-instant": "Näytä veneet saatavilla välittömään varaukseen",
-    "booking-option": "Varausvaihtoehto"
+    "booking-option": "Varausvaihtoehto",
+    "you-wont-be-charged-yet": "Sinua ei vielä veloiteta"
 }
