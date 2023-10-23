@@ -1621,5 +1621,6 @@
     "editing-crew-member-data-ll-not-saved": "¿Está seguro de que desea cerrar esta ventana sin guardar los datos del tripulante?",
     "show-boats-that-can-booked-instant": "Mostrar barcos disponibles para reserva inmediata",
     "instant-sail": "Vela Instantánea",
-    "booking-option": "Opción de reserva"
+    "booking-option": "Opción de reserva",
+    "you-wont-be-charged-yet": "No se te cobrará nada aún"
 }
