@@ -1622,5 +1622,9 @@
     "show-boats-that-can-booked-instant": "Εμφάνιση σκαφών διαθέσιμων για άμεση κράτηση",
     "instant-sail": "Στιγμιαίο πανί",
     "booking-option": "Επιλογή κράτησης",
-    "you-wont-be-charged-yet": "Δεν θα χρεωθείτε ακόμα"
+    "you-wont-be-charged-yet": "Δεν θα χρεωθείτε ακόμα",
+    "sail-type": "Τύπος κεντρικού πανιού",
+    "deal-day-off": "Περιορισμένη Προσφορά.",
+    "optional2": "Επιλογές & Υπηρεσίες",
+    "full-extras-list": "Εμφάνιση πλήρους λίστας επιπλέον επιλογών"
 }
