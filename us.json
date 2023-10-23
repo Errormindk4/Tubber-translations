@@ -1624,5 +1624,15 @@
     "instant-sail": "Instant Sail",
     "booking-option": "Booking option",
     "deal-day-off": "Limited-time Deal",
-    "you-wont-be-charged-yet": "You won't be charged yet"
+    "you-wont-be-charged-yet": "You won't be charged yet",
+    "only": "Only",
+    "new-yacht": "New yacht",
+    "unsure-at-the-moment": "Unsure at the moment?",
+    "request-your-unique-offer": "Request your unique offer",
+    "view-full-plan": "View full plan",
+    "optional2": "Options & Services",
+    "full-extras-list": "Show full extras list",
+    "you-can-include-optional": "You can include optional extras during your reservation process",
+    "accepted-payment-methods": "Accepted payment methods",
+    "sail-type": "Type of mainsail"
 }
