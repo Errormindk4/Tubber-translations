@@ -1637,5 +1637,6 @@
     "accepted-payment-methods": "Accepted payment methods",
     "mandatory-extras": "Mandatory extras",
     "added-to-your-reservation": "Added to your reservation ",
-    "these-are-mandatory": "These are mandatory extras included in the price of your reservation"
+    "these-are-mandatory": "These are mandatory extras included in the price of your reservation",
+    "you-can-choose-these": "You can choose these оptional extras in addition to your reservation"
 }
