@@ -1634,5 +1634,6 @@
     "optional2": "Options & Services",
     "full-extras-list": "Show full extras list",
     "you-can-include-optional": "You can include optional extras during your reservation process",
-    "accepted-payment-methods": "Accepted payment methods"
+    "accepted-payment-methods": "Accepted payment methods",
+    "mandatory-extras": "Mandatory extras"
 }
