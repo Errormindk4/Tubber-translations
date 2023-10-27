@@ -1628,5 +1628,8 @@
     "you-wont-be-charged-yet": "Aucun montant ne vous sera débité pour le moment",
     "full-extras-list": "Afficher la liste complète des options",
     "optional2": "Options & Services",
-    "sail-type": "Type de grand-voile"
+    "sail-type": "Type de grand-voile",
+    "unsure-at-the-moment": "Vous hésitez encore ?",
+    "you-can-include-optional": "Personnalisez votre réservation avec des extras optionnels : planches de paddle, service d'hôtesse, ou un dinghy plus grand pour votre yacht.",
+    "accepted-payment-methods": "Méthodes de paiement acceptées"
 }
