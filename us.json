@@ -1634,5 +1634,11 @@
     "full-extras-list": "Show full extras list",
     "you-can-include-optional": "You can include optional extras during your reservation process",
     "accepted-payment-methods": "Accepted payment methods",
-    "sail-type": "Type of mainsail"
+    "sail-type": "Type of mainsail",
+    "mandatory-extras": "Mandatory extras",
+    "added-to-your-reservation": "Added to your reservation ",
+    "these-are-mandatory": "These are mandatory extras included in the price of your reservation",
+    "you-can-choose-these": "You can choose these оptional extras in addition to your reservation",
+    "free-cancellation": "Free cancellation",
+    "within--seven-days-of-booking": "within 7 days of booking"
 }
