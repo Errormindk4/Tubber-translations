@@ -1627,5 +1627,8 @@
     "sail-type": "Typ av storsegel",
     "deal-day-off": "Tidsbegränsat Erbjudande",
     "full-extras-list": "Visa fullständig lista över extra tillval",
-    "optional2": "Alternativ & Tjänster"
+    "optional2": "Alternativ & Tjänster",
+    "unsure-at-the-moment": "Icke säker ännu?",
+    "accepted-payment-methods": "Accepterade betalningsmetoder",
+    "you-can-include-optional": "Anpassa din bokning med valfria tillval: paddleboards, värdinneservice eller en större gummibåt för din yacht."
 }
