@@ -243,7 +243,7 @@
     "our-yacht-charter-experts": " unsere Yachtcharter Experten helfen Ihnen dabei.",
     "if-you-are-unable-to-get": "Wenn Sie aufgrund einer COVID-19-Störung nicht an Ihr Abflugziel gelangen können, können Sie Ihren Segelurlaub innerhalb von 12 Monaten nach Ihrem ursprünglichen Abflugdatumohne Gebühr für alternative Daten verschieben Ihre Anzahlung wird auf Ihre neue Buchung überwiesen.",
     "always": "Immer",
-    "free-cancellation": "kostenlose Stornierung",
+    "free-cancellation": "Kostenlose Stornierung",
     "within-seven-days-of-book": "von sieben Tagen nach der Buchung, außer bei Last-Minute-Buchungen.",
     "location": "Standort",
     "share-this-boat": "Teile dieses Boot",
@@ -1677,5 +1677,15 @@
     "request-your-unique-offer": "Erhalten Sie Ihr persönliches Angebot",
     "full-extras-list": "Vollständige Extras anzeigen",
     "black-friday": "BLACK FRIDAY",
-    "adventures": "ABENTEUER"
+    "adventures": "ABENTEUER",
+    "mandatory-extras": "Verbindliche Extras",
+    "added-to-your-reservation": "Zu Ihrer Reservierung hinzugefügt ",
+    "these-are-mandatory": "Diese sind obligatorische Extras im Preis Ihrer Reservierung enthalten",
+    "you-can-choose-these": "Sie können diese optionalen Extras zusätzlich zu Ihrer Reservierung auswählen",
+    "within--seven-days-of-booking": "innerhalb von 7 Tagen nach der Buchung",
+    "black-friday-percent": "-50%",
+    "extra-discount": "50% Rabatt",
+    "on-selected-boats": "auf ausgewählte Yachten für Ihre nächste Segelreise!",
+    "enjoy-an": "Erhalten Sie bis zu",
+    "black-friday-link": "https://www.tubber.com/de/search/kroatien/?start_date=2024-05-04&duration=7&sortBy=%2Bdiscount"
 }
