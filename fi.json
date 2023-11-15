@@ -1635,5 +1635,22 @@
     "black-friday": "BLACK FRIDAY",
     "adventures": "SEIKKAILUT",
     "black-friday-link": "https://www.tubber.com/fi/search/kroatia/?start_date=2024-05-04&duration=7&sortBy=%2Bdiscount",
-    "free": "ILMAINEN"
+    "free": "ILMAINEN",
+    "view-full-plan": "Näytä koko suunnitelma",
+    "only": "Vain",
+    "mandatory-extras": "Pakolliset lisät",
+    "added-to-your-reservation": "Lisätty varaukseesi ",
+    "these-are-mandatory": "Nämä ovat pakollisia lisäpalveluja, jotka sisältyvät varauksesi hintaan",
+    "you-can-choose-these": "Voit valita nämä valinnaiset lisäpalvelut varauksesi lisäksi",
+    "free-cancellation": "Ilmainen peruutus",
+    "within--seven-days-of-booking": "7 päivän kuluessa varauksesta",
+    "enjoy-an": "Få upp till",
+    "black-friday-percent": "-50%",
+    "extra-discount": "50% alennus",
+    "on-selected-boats": "valituilla jahteilla seuraavaa purjehdusmatkaasi varten!",
+    "additional": "Lisä",
+    "additional-extra": "Lisälisävarusteet",
+    "we-provide-special": "Tarjoamme erityisiä lisävarusteita tehdäksemme purjehduslomastasi entistä nautinnollisemman",
+    "special-offer": "Erikoistarjous",
+    "available": "saatavilla"
 }
