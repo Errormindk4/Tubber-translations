@@ -1675,5 +1675,6 @@
     "january-best-prices": "Skorzystaj z Dni Blue Deal: rabaty na 1000+ jachtów! Ważne do 1 lutego!",
     "january-subtitle": "Skorzystaj z okazji: najlepsze ceny na ponad 1000 jachtów! Dodatkowo, otrzymasz darmowy silnik zaburtowy przy każdej rezerwacji online.",
     "january-subtitle-short": "Przy każdej rezerwacji online otrzymasz darmowy silnik zaburtowy i wiele więcej.",
-    "prepayment-needed": "zaliczki"
+    "prepayment-needed": "zaliczki",
+    "reserve-for-days": "Zarezerwuj na {value} dni"
 }
