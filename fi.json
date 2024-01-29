@@ -1671,5 +1671,6 @@
     "request-to-free-hold": "Pyytäkää meitä varaamaan tämä jahti ilmaiseksi teille 2 päiväksi.",
     "hold-it-for-free": "Vaihtoehto 2 päiväksi",
     "login-or-continue-as-guest": "Kirjaudu sisään tai jatka vierailijana varauksen viimeistelyä varten",
-    "to-final-step": "Viimeiseen vaiheeseen"
+    "to-final-step": "Viimeiseen vaiheeseen",
+    "change-dates": "Muuta päivämääriä"
 }
