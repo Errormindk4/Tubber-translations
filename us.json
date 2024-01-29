@@ -1671,5 +1671,6 @@
     "reserve-for-days": "Book for {value} days",
     "request-to-free-hold": "Request to hold this boat for 2 days for free",
     "hold-it-for-free": "Hold it 2 days for free",
-    "login-or-continue-as-guest": "Sign in or continue as guest to finalize reservation"
+    "login-or-continue-as-guest": "Sign in or continue as guest to finalize reservation",
+    "to-final-step": "To the final stepw"
 }
