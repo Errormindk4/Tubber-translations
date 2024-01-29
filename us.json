@@ -1669,5 +1669,6 @@
     "january-subtitle-short": "With every online reservation, a free outboard motor, and more.",
     "prepayment-needed": "prepayment needed",
     "reserve-for-days": "Book for {value} days",
-    "request-to-free-hold": "Request to hold this boat for 2 days for free"
+    "request-to-free-hold": "Request to hold this boat for 2 days for free",
+    "hold-it-for-free": "Hold it 2 days for free"
 }
