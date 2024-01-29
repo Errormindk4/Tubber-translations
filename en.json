@@ -1676,5 +1676,6 @@
     "january-best-prices": "Take advantage of the Blue Deal Days: discounts on 1000+ yachts valid until February 1st!",
     "january-subtitle": "Take advantage: the very best prices on more than 1000 yachts! Furthermore, you'll receive a free outboard motor with every online booking.",
     "january-subtitle-short": "With every online reservation, a free outboard motor, and more.",
-    "prepayment-needed": "prepayment needed"
+    "prepayment-needed": "prepayment needed",
+    "reserve-for-days": "Reserve for {value} days"
 }
