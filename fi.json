@@ -1666,5 +1666,6 @@
     "january-best-prices": "Hyödynnä Blue Deal -päiviä: alennuksia yli 1000 veneeseen! Voimassa 1. helmikuuta asti!",
     "january-subtitle": "Hyödynnä tilaisuus: parhaat hinnat yli 1000 veneelle! Lisäksi saat ilmaisen perämoottorin jokaisesta verkkovarauksesta.",
     "january-subtitle-short": "Jokaisen verkkovarauksen yhteydessä saat ilmaisen perämoottorin ja paljon muuta.",
-    "prepayment-needed": "ennakkomaksu"
+    "prepayment-needed": "ennakkomaksu",
+    "reserve-for-days": "Varaa {value} päiväksi"
 }
