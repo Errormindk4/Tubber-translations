@@ -1667,5 +1667,6 @@
     "january-subtitle": "Hyödynnä tilaisuus: parhaat hinnat yli 1000 veneelle! Lisäksi saat ilmaisen perämoottorin jokaisesta verkkovarauksesta.",
     "january-subtitle-short": "Jokaisen verkkovarauksen yhteydessä saat ilmaisen perämoottorin ja paljon muuta.",
     "prepayment-needed": "ennakkomaksu",
-    "reserve-for-days": "Varaa {value} päiväksi"
+    "reserve-for-days": "Varaa {value} päiväksi",
+    "request-to-free-hold": "Pyytäkää meitä varaamaan tämä jahti ilmaiseksi teille 2 päiväksi."
 }
