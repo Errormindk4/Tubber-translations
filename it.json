@@ -1678,5 +1678,7 @@
     "prepayment-needed": "di acconto",
     "reserve-for-days": "Prenota per {value} giorni",
     "request-to-free-hold": "Chiedeteci di prenotare gratuitamente questa barca a vela per voi per 2 giorni.",
-    "hold-it-for-free": "Opzione per 2 giorni"
+    "hold-it-for-free": "Opzione per 2 giorni",
+    "to-final-step": "All'ultimo passo",
+    "login-or-continue-as-guest": "Accedi o registrati per prenotare"
 }
