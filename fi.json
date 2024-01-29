@@ -1668,5 +1668,6 @@
     "january-subtitle-short": "Jokaisen verkkovarauksen yhteydessä saat ilmaisen perämoottorin ja paljon muuta.",
     "prepayment-needed": "ennakkomaksu",
     "reserve-for-days": "Varaa {value} päiväksi",
-    "request-to-free-hold": "Pyytäkää meitä varaamaan tämä jahti ilmaiseksi teille 2 päiväksi."
+    "request-to-free-hold": "Pyytäkää meitä varaamaan tämä jahti ilmaiseksi teille 2 päiväksi.",
+    "hold-it-for-free": "Vaihtoehto 2 päiväksi"
 }
