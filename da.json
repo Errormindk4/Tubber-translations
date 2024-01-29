@@ -1680,5 +1680,6 @@
     "reserve-for-days": "Reservér i {value} dage",
     "request-to-free-hold": "Bed os om at reservere denne yacht gratis i 2 dage for Dem.",
     "hold-it-for-free": "Mulighed i 2 dage",
-    "login-or-continue-as-guest": "Log ind eller fortsæt som gæst for at afslutte reservationen"
+    "login-or-continue-as-guest": "Log ind eller fortsæt som gæst for at afslutte reservationen",
+    "to-final-step": "Til sidste trin"
 }
