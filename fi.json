@@ -1673,5 +1673,6 @@
     "login-or-continue-as-guest": "Kirjaudu sisään tai jatka vierailijana varauksen viimeistelyä varten",
     "to-final-step": "Viimeiseen vaiheeseen",
     "change-dates": "Muuta päivämääriä",
-    "sign-in": "Kirjaudu sisään"
+    "sign-in": "Kirjaudu sisään",
+    "budget": "Lomabudjetti"
 }
