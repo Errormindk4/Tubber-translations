@@ -1,1 +1,1 @@
-translations list for Tubber
+translations list
