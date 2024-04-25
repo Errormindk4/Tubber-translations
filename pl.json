@@ -1432,7 +1432,7 @@
     "search-%{brand}-boats-popular-dest": "Wyszukaj łodzie %{brand} w najpopularniejszych miejscach",
     "other-pop-brands": "Inne popularne marki",
     "boat-rental": "wynajem łodzi",
-    "--is-banner--spring": "-",
+    "--is-banner--spring": "+",
     "countries-and-cities": "Kraje i miasta",
     "optional": "opcjonalnie",
     "faq_boat-name": "Jacht",
