@@ -1432,7 +1432,7 @@
     "search-%{brand}-boats-popular-dest": "Pesquise %{brand} barcos nos destinos mais populares",
     "other-pop-brands": "Outras marcas populares",
     "boat-rental": "aluguel de barco",
-    "--is-banner--spring": "-",
+    "--is-banner--spring": "+",
     "bnr-title": "Tubber participa do United States Sailboat Show",
     "bnr-info-1": "USA, City Dock, Annapolis, MD",
     "bnr-info-2": "13/10/2022 - 17/10/2022",
