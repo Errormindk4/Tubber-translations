@@ -1706,5 +1706,10 @@
     "spring-deals-new": "Tubber account",
     "free-cancellation-link": "https://www.tubber.com/en/how-it-works/",
     "best-deal-link": "https://www.tubber.com/en/register/",
-    "top-flotillas-link": "https://www.tubber.com/en/flotillas/"
+    "top-flotillas-link": "https://www.tubber.com/en/flotillas/",
+    "confirmed": "confirmed",
+    "payment-received-long": "Your payment has been successfully received.",
+    "your-booking-is-confirmed": "your booking is confirmed",
+    "we-ve-sent-your-confirmation-to": "We've sent your confirmation to",
+    "view-booking-details": "View booking details"
 }
