@@ -1714,5 +1714,6 @@
     "view-booking-details": "View booking details",
     "amount-paid": "Amount Paid",
     "payed-by": "Payed by",
-    "now-you-can-tell": "Now you can start telling everybody that you will go sailing in {value} as a real pirate!"
+    "now-you-can-tell": "Now you can start telling everybody that you will go sailing in {value} as a real pirate!",
+    "off": "off"
 }
