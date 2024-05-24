@@ -1715,5 +1715,15 @@
     "amount-paid": "Amount Paid",
     "payed-by": "Payed by",
     "now-you-can-tell": "Now you can start telling everybody that you will go sailing in {value} as a real pirate!",
-    "off": ""
+    "off": "",
+    "credits-spent": "Credits spent",
+    "expiration-dates-for-credits": "Expiry date of credits:",
+    "min_years": "yrs",
+    "min_day": "day",
+    "your-credits": "Your credits",
+    "min_month": "mo",
+    "min_hour": "hrs",
+    "min_minute": "min",
+    "you-have": "you-have",
+    "credits-available-next-payment": "credits available to use for the next payment"
 }
