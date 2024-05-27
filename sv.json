@@ -1535,7 +1535,7 @@
     "booking-has-an-overdue-payment-of": "Bokning har en försenad betalning på",
     "enter-secondary-email": "Ange en sekundär e-postadress",
     "we-send-ver-second-email": "Vi skickar en verifieringslänk till din andra e-postadress. Kontrollera din inkorg.",
-    "{user_name}-for-every-friend-you-invi": "{user_name}, för varje vän du bjuder in får du krediter!",
+    "{user_name}-for-every-friend-you-invi": "{user_name}, lär dig mer om dina Tubber-krediter och hur du använder dem!",
     "verify": "Verifiera",
     "enter-your-first-last-name": "Ange ditt för- och efternamn",
     "enter-your-address": "Ange din adress",
@@ -1698,5 +1698,8 @@
     "free-cancellation-link": "https://www.tubber.com/sv/how-it-works/",
     "best-deal-link": "https://www.tubber.com/sv/register/",
     "top-flotillas-link": "https://www.tubber.com/sv/flotillas/",
-    "the-boat-not-available2": "Båten inte tillgänglig på valda datum. Välj ett annat datum."
+    "the-boat-not-available2": "Båten inte tillgänglig på valda datum. Välj ett annat datum.",
+    "credits-spent": "Använda krediter",
+    "expiration-dates-for-credits": "Utgångsdatum för krediter:",
+    "your-credits": "Mina krediter"
 }
