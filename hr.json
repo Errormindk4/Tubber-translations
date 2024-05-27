@@ -1557,7 +1557,7 @@
     "as-your-search-tap-heart-ico-to-favorite": "Dok tražite, dodirnite ikonu srca da dodate svoje omiljene brodove za iznajmljivanje.",
     "enter-secondary-email": "Unesite sekundarnu e-poštu",
     "we-send-ver-second-email": "Poslat ćemo vezu za potvrdu na vašu drugu adresu e-pošte. Provjerite svoju pristiglu poštu.",
-    "{user_name}-for-every-friend-you-invi": "{user_name}, za svakog prijatelja kojeg pozovete, dobit ćete kredite!",
+    "{user_name}-for-every-friend-you-invi": "{user_name}, saznajte više o svojim Tubber kreditima i kako ih koristiti!",
     "enter-ver-send-your-phone-{phone}-resend": "Molimo unesite kontrolni kod koji je poslan na vaš broj telefona {phone_number}.",
     "verify": "Potvrdi",
     "enter-your-first-last-name": "Unesite svoje ime i prezime",
@@ -1688,5 +1688,8 @@
     "free-cancellation-link": "https://www.tubber.com/hr/how-it-works/",
     "best-deal-link": "https://www.tubber.com/hr/register/",
     "top-flotillas-link": "https://www.tubber.com/hr/flotillas/",
-    "the-boat-not-available2": "Brod nije dostupan na odabrane datume. Odaberite drugi datum."
+    "the-boat-not-available2": "Brod nije dostupan na odabrane datume. Odaberite drugi datum.",
+    "credits-spent": "Potrošeni krediti",
+    "expiration-dates-for-credits": "Datum isteka kredita:",
+    "your-credits": "Moji krediti"
 }
