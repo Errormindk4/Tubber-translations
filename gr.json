@@ -1561,7 +1561,7 @@
     "booking-has-an-overdue-payment-of": "Η κράτηση έχει εκπρόθεσμη πληρωμή των",
     "enter-secondary-email": "Εισαγάγετε ένα δευτερεύον email",
     "we-send-ver-second-email": "Θα στείλουμε έναν σύνδεσμο επαλήθευσης στη δεύτερη διεύθυνση email σας. Ελέγξτε τα εισερχόμενά σας.",
-    "{user_name}-for-every-friend-you-invi": "{user_name}, για κάθε φίλο που προσκαλείτε, θα λαμβάνετε πιστώσεις!",
+    "{user_name}-for-every-friend-you-invi": "{user_name}, μάθετε περισσότερα για τις πιστώσεις σας Tubber και πώς να τις χρησιμοποιήσετε!",
     "enter-ver-send-your-phone-{phone}-resend": "Εισαγάγετε τον κωδικό επαλήθευσης που στάλθηκε στον αριθμό τηλεφώνου σας {phone_number}.",
     "verify": "Επαληθεύω",
     "enter-your-first-last-name": "Εισαγάγετε το όνομα και το επώνυμό σας",
@@ -1687,5 +1687,8 @@
     "free-cancellation-link": "https://www.tubber.com/gr/how-it-works/",
     "best-deal-link": "https://www.tubber.com/gr/register/",
     "top-flotillas-link": "https://www.tubber.com/gr/flotillas/",
-    "the-boat-not-available2": "Σκάφος μη διαθέσιμο στις επιλεγμένες ημερομηνίες. Επιλέξτε άλλη ημερομηνία."
+    "the-boat-not-available2": "Σκάφος μη διαθέσιμο στις επιλεγμένες ημερομηνίες. Επιλέξτε άλλη ημερομηνία.",
+    "credits-spent": "Δαπανημένες πιστώσεις",
+    "expiration-dates-for-credits": "Ημερομηνία λήξης πιστώσεων:",
+    "your-credits": "Οι πιστώσεις μου"
 }
