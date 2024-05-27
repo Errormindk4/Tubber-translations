@@ -1620,7 +1620,7 @@
     "booking-has-overdue-payment-of": "Deze reservering heeft een achterstallige betaling van",
     "enter-secondary-email": "Voer een secundair e-mailadres in",
     "booking-has-an-overdue-payment-of": "Deze reservering heeft een achterstallige betaling van",
-    "{user_name}-for-every-friend-you-invi": "{user_name}, voor elke vriend die je uitnodigt, ontvang je credits!",
+    "{user_name}-for-every-friend-you-invi": "{user_name}, leer meer over je Tubber credits en hoe je ze kunt gebruiken!",
     "enter-ver-send-your-phone-{phone}-resend": "Voer de verificatiecode in die naar je telefoonnummer {phone_number} is gestuurd.",
     "verify": "Verifiëren",
     "enter-your-first-last-name": "Voer je voornaam en achternaam in",
@@ -1747,5 +1747,8 @@
     "spring-deals-new": "Tubber account",
     "free-cancellation-link": "https://www.tubber.com/nl/how-it-works/",
     "best-deal-link": "https://www.tubber.com/nl/register/",
-    "top-flotillas-link": "https://www.tubber.com/nl/flotillas/"
+    "top-flotillas-link": "https://www.tubber.com/nl/flotillas/",
+    "credits-spent": "Credits besteed",
+    "expiration-dates-for-credits": "Vervaldatum van credits:",
+    "your-credits": "Mijn credits"
 }
