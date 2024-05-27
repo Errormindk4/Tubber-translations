@@ -1560,7 +1560,7 @@
     "add-your-skippered-boats": "Lisää kippareilla varustettuja veneitäsi",
     "minutes": "Pöytäkirja",
     "we-send-ver-second-email": "Lähetämme vahvistuslinkin toiseen sähköpostiosoitteeseesi. Tarkista postilaatikkosi.",
-    "{user_name}-for-every-friend-you-invi": "{user_name}, jokaisesta kutsumastasi ystävästä saat krediittejä!",
+    "{user_name}-for-every-friend-you-invi": "{user_name}, opi lisää Tubber-krediiteistäsi ja niiden käyttämisestä!",
     "verify": "Vahvista",
     "enter-your-first-last-name": "Kirjoita etu- ja sukunimesi",
     "enter-ver-send-your-phone-{phone}-resend": "Anna puhelinnumeroosi lähetetty vahvistuskoodi {phone_number}.",
@@ -1698,5 +1698,8 @@
     "spring-deals-new": "Tubber-tili",
     "free-cancellation-link": "https://www.tubber.com/fi/how-it-works/",
     "best-deal-link": "https://www.tubber.com/fi/register/",
-    "top-flotillas-link": "https://www.tubber.com/fi/flotillas/"
+    "top-flotillas-link": "https://www.tubber.com/fi/flotillas/",
+    "credits-spent": "Käytetyt krediitit",
+    "expiration-dates-for-credits": "Krediittien vanhentumispäivämäärä:",
+    "your-credits": "Minun krediittini"
 }
