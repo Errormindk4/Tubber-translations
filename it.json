@@ -1555,7 +1555,7 @@
     "enter-secondary-email": "Inserisci un indirizzo email secondario",
     "enter-your-first-last-name": "Inserisci il tuo nome e cognome",
     "we-send-ver-second-email": "Invieremo un link di verifica al tuo secondo indirizzo email. Si prega di controllare la posta in arrivo.",
-    "{user_name}-for-every-friend-you-invi": "{user_name}, per ogni amico che inviti riceverai dei crediti!",
+    "{user_name}-for-every-friend-you-invi": "{user_name}, scopri di più sui tuoi crediti Tubber e su come usarli!",
     "enter-ver-send-your-phone-{phone}-resend": "Inserisci il codice di verifica che è stato inviato al tuo numero di telefono {phone_number}.",
     "verify": "Verificare",
     "enter-your-address": "Inserisci il tuo indirizzo",
@@ -1698,5 +1698,8 @@
     "free-cancellation-link": "https://www.tubber.com/it/how-it-works/",
     "best-deal-link": "https://www.tubber.com/it/register/",
     "top-flotillas-link": "https://www.tubber.com/it/flotillas/",
-    "the-boat-not-available2": "Barca non disponibile nelle date scelte. Scegli un'altra data."
+    "the-boat-not-available2": "Barca non disponibile nelle date scelte. Scegli un'altra data.",
+    "credits-spent": "Crediti spesi",
+    "expiration-dates-for-credits": "Data di scadenza dei crediti:",
+    "your-credits": "I miei crediti"
 }
