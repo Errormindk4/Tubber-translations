@@ -268,7 +268,7 @@
     "payment": "Payment",
     "partial-payment": "Partial payment",
     "local-payment": "Local payment",
-    "down-payment": "Down payment",
+    "down-payment": "Due now",
     "please-select-a-location": "Please select a location from the list",
     "address": "Address",
     "coordinates": "Coordinates",
