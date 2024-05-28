@@ -1706,5 +1706,10 @@
     "expiration-dates-for-credits": "Expiry date of credits:",
     "your-credits": "My credits",
     "you-have": "You have",
-    "credits-available-next-payment": "credits available to use for your next payment"
+    "credits-available-next-payment": "credits available to use for your next payment",
+    "min_years": "yrs",
+    "min_day": "day",
+    "min_month": "mo",
+    "min_hour": "hrs",
+    "min_minute": "min"
 }
