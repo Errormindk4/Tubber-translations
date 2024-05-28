@@ -1693,5 +1693,10 @@
     "expiration-dates-for-credits": "Datum isteka kredita:",
     "your-credits": "Moji krediti",
     "you-have": "Imate",
-    "credits-available-next-payment": "krediti dostupni za korištenje pri sljedećem plaćanju"
+    "credits-available-next-payment": "krediti dostupni za korištenje pri sljedećem plaćanju",
+    "min_years": "god",
+    "min_day": "dan",
+    "min_month": "mj",
+    "min_hour": "h",
+    "min_minute": "min"
 }
