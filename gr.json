@@ -1697,5 +1697,6 @@
     "min_day": "ημ",
     "min_month": "μν",
     "min_hour": "ώ",
-    "min_minute": "λεπ"
+    "min_minute": "λεπ",
+    "min_sec": "δευτ"
 }
