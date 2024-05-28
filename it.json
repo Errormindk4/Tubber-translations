@@ -1708,5 +1708,6 @@
     "min_day": "gg",
     "min_month": "mesi",
     "min_hour": "ore",
-    "min_minute": "min"
+    "min_minute": "min",
+    "min_sec": "s"
 }
