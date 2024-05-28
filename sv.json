@@ -931,7 +931,7 @@
     "there-is-no-base-informat": "Det finns ingen basinformation om denna bokning ännu, vänligen kontakta oss om du behöver någon information",
     "base-manager": "Baschef",
     "download-voucher-as-pdf": "Ladda ner kupongen som PDF",
-    "credits": "Dina krediter",
+    "credits": "Mina krediter",
     "you-don-t-have-any-trips": "Du har inga resor just nu, men när du väl gör det kommer de att dyka upp på den här sidan. Sedan kommer du att kunna se detaljerna, granska betalningen och skicka in en besättningslista.",
     "your-upcoming-boat-trips": "Dina kommande båtturer",
     "your-cancelled-boat-trips": "Dina inställda seglingssemester",
@@ -1701,5 +1701,7 @@
     "the-boat-not-available2": "Båten inte tillgänglig på valda datum. Välj ett annat datum.",
     "credits-spent": "Använda krediter",
     "expiration-dates-for-credits": "Utgångsdatum för krediter:",
-    "your-credits": "Mina krediter"
+    "your-credits": "Mina krediter",
+    "you-have": "Du har",
+    "credits-available-next-payment": "krediter tillgängliga att använda för din nästa betalning"
 }
