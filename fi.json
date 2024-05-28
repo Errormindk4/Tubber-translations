@@ -1703,5 +1703,10 @@
     "expiration-dates-for-credits": "Krediittien vanhentumispäivämäärä:",
     "your-credits": "Minun krediittini",
     "you-have": "Sinulla on",
-    "credits-available-next-payment": "käytettävissä olevat krediitit seuraavaa maksua varten"
+    "credits-available-next-payment": "käytettävissä olevat krediitit seuraavaa maksua varten",
+    "min_years": "v",
+    "min_day": "pv",
+    "min_month": "kk",
+    "min_hour": "t",
+    "min_minute": "min"
 }
