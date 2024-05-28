@@ -1692,5 +1692,10 @@
     "expiration-dates-for-credits": "Ημερομηνία λήξης πιστώσεων:",
     "your-credits": "Οι πιστώσεις μου",
     "you-have": "Έχετε",
-    "credits-available-next-payment": "πιστώσεις διαθέσιμες για την επόμενη πληρωμή σας"
+    "credits-available-next-payment": "πιστώσεις διαθέσιμες για την επόμενη πληρωμή σας",
+    "min_years": "έτη",
+    "min_day": "ημ",
+    "min_month": "μν",
+    "min_hour": "ώ",
+    "min_minute": "λεπ"
 }
