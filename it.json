@@ -1703,5 +1703,10 @@
     "expiration-dates-for-credits": "Data di scadenza dei crediti:",
     "your-credits": "I miei crediti",
     "you-have": "Hai",
-    "credits-available-next-payment": "crediti disponibili per il tuo prossimo pagamento"
+    "credits-available-next-payment": "crediti disponibili per il tuo prossimo pagamento",
+    "min_years": "anni",
+    "min_day": "gg",
+    "min_month": "mesi",
+    "min_hour": "ore",
+    "min_minute": "min"
 }
