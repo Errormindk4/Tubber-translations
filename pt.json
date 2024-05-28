@@ -931,7 +931,7 @@
     "there-is-no-base-informat": "Ainda não existe informação base sobre esta reserva, por favor contacte-nos se necessitar de alguma informação",
     "base-manager": "Gerente de base",
     "download-voucher-as-pdf": "Baixe o comprovante em PDF",
-    "credits": "Seus créditos",
+    "credits": "Meus créditos",
     "you-don-t-have-any-trips": "Você não tem nenhuma viagem agora, mas quando fizer isso, eles aparecerão nesta página. Em seguida, você poderá ver os detalhes, revisar o pagamento e enviar uma lista de equipe.",
     "your-upcoming-boat-trips": "As suas futuras viagens de barco",
     "your-cancelled-boat-trips": "Suas férias de navegação canceladas",
@@ -1691,5 +1691,7 @@
     "the-boat-not-available2": "Barco indisponível nas datas escolhidas. Escolha outra data.",
     "credits-spent": "Créditos gastos",
     "expiration-dates-for-credits": "Data de expiração dos créditos:",
-    "your-credits": "Meus créditos"
+    "your-credits": "Meus créditos",
+    "you-have": "Você tem",
+    "credits-available-next-payment": "créditos disponíveis para usar no seu próximo pagamento"
 }
