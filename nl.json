@@ -1752,5 +1752,10 @@
     "expiration-dates-for-credits": "Vervaldatum van credits:",
     "your-credits": "Mijn credits",
     "you-have": "Je hebt",
-    "credits-available-next-payment": "credits beschikbaar voor je volgende betaling"
+    "credits-available-next-payment": "credits beschikbaar voor je volgende betaling",
+    "min_years": "jr",
+    "min_day": "dag",
+    "min_month": "mnd",
+    "min_hour": "uur",
+    "min_minute": "min"
 }
