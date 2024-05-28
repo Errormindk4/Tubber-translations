@@ -1703,5 +1703,10 @@
     "expiration-dates-for-credits": "Utgångsdatum för krediter:",
     "your-credits": "Mina krediter",
     "you-have": "Du har",
-    "credits-available-next-payment": "krediter tillgängliga att använda för din nästa betalning"
+    "credits-available-next-payment": "krediter tillgängliga att använda för din nästa betalning",
+    "min_years": "år",
+    "min_month": "mån",
+    "min_day": "dagar",
+    "min_hour": "tim",
+    "min_minute": "min"
 }
