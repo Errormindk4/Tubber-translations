@@ -1704,5 +1704,10 @@
     "expiration-dates-for-credits": "Udløbsdato for kreditter:",
     "your-credits": "Mine kreditter",
     "credits-available-next-payment": "kreditter tilgængelige til din næste betaling",
-    "you-have": "Du har"
+    "you-have": "Du har",
+    "min_years": "år",
+    "min_day": "dage",
+    "min_month": "mdr",
+    "min_hour": "t",
+    "min_minute": "min"
 }
