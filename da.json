@@ -931,7 +931,7 @@
     "there-is-no-base-informat": "Der er ingen basisoplysninger om denne reservation endnu, bedes du kontakte os, hvis du har brug for oplysninger",
     "base-manager": "Base manager",
     "download-voucher-as-pdf": "Download voucher som PDF",
-    "credits": "Dine kreditter",
+    "credits": "Mine kreditter",
     "you-don-t-have-any-trips": "Du har ikke nogen ture lige nu, men når du gør det, vises de på denne side. Derefter vil du kunne se detaljerne, gennemgå betalingen og indsende en besætningsliste.",
     "your-upcoming-boat-trips": "Dine kommende bådrejser",
     "your-cancelled-boat-trips": "Dine aflyste sejlerferier",
@@ -1702,5 +1702,7 @@
     "top-flotillas-link": "https://www.tubber.com/da/flotillas/",
     "credits-spent": "Brugte kreditter",
     "expiration-dates-for-credits": "Udløbsdato for kreditter:",
-    "your-credits": "Mine kreditter"
+    "your-credits": "Mine kreditter",
+    "credits-available-next-payment": "kreditter tilgængelige til din næste betaling",
+    "you-have": "Du har"
 }
