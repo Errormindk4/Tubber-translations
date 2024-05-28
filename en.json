@@ -1725,5 +1725,6 @@
     "min_hour": "hrs",
     "min_minute": "min",
     "you-have": "You have",
-    "credits-available-next-payment": "credits available to use for the next payment"
+    "credits-available-next-payment": "credits available to use for the next payment",
+    "min_sec": "sec"
 }
