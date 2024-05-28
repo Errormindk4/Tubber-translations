@@ -1753,5 +1753,6 @@
     "min_day": "T",
     "min_month": "Mon",
     "min_hour": "Std",
-    "min_minute": "Min"
+    "min_minute": "Min",
+    "min_sec": "s"
 }
