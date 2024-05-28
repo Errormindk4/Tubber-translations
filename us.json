@@ -931,7 +931,7 @@
     "there-is-no-base-informat": "There is no base information about this booking yet, please contact us if you need any information",
     "base-manager": "Base manager",
     "download-voucher-as-pdf": "Download voucher as PDF",
-    "credits": "Your credits",
+    "credits": "My credits",
     "you-don-t-have-any-trips": "You don't have any trips right now, but once you do, they will appear on this page. Then you will be able to view the details, review the payment, and submit a crewlist.",
     "your-upcoming-boat-trips": "Your upcoming boat trips",
     "your-cancelled-boat-trips": "Your cancelled sailing holidays",
@@ -1704,5 +1704,7 @@
     "top-flotillas-link": "https://www.tubber.com/us/flotillas/",
     "credits-spent": "Credits spent",
     "expiration-dates-for-credits": "Expiry date of credits:",
-    "your-credits": "My credits"
+    "your-credits": "My credits",
+    "you-have": "You have",
+    "credits-available-next-payment": "credits available to use for your next payment"
 }
