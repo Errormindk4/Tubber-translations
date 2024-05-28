@@ -1708,5 +1708,6 @@
     "min_month": "mån",
     "min_day": "dagar",
     "min_hour": "tim",
-    "min_minute": "min"
+    "min_minute": "min",
+    "min_sec": "sek"
 }
