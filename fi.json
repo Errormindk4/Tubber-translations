@@ -931,7 +931,7 @@
     "there-is-no-base-informat": "Tästä varauksesta ei ole vielä perustietoja, ota yhteyttä, jos tarvitset tietoja",
     "base-manager": "Tukikohdan johtaja",
     "download-voucher-as-pdf": "Lataa kuponki PDF-muodossa",
-    "credits": "Sinun kredittisi",
+    "credits": "Minun krediittini",
     "you-don-t-have-any-trips": "Sinulla ei ole tällä hetkellä matkoja, mutta kun sinulla on, ne näkyvät tällä sivulla. Sitten voit tarkastella tietoja, tarkistaa maksun ja lähettää miehistöluettelon.",
     "your-upcoming-boat-trips": "Tulevat venematkasi",
     "your-cancelled-boat-trips": "Peruutetut purjehduslomat",
@@ -1701,5 +1701,7 @@
     "top-flotillas-link": "https://www.tubber.com/fi/flotillas/",
     "credits-spent": "Käytetyt krediitit",
     "expiration-dates-for-credits": "Krediittien vanhentumispäivämäärä:",
-    "your-credits": "Minun krediittini"
+    "your-credits": "Minun krediittini",
+    "you-have": "Sinulla on",
+    "credits-available-next-payment": "käytettävissä olevat krediitit seuraavaa maksua varten"
 }
