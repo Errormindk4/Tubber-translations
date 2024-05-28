@@ -1017,7 +1017,7 @@
     "there-is-no-base-informat": "Er is nog geen base informatie beschikbaar over de boeking, neem contact met ons op indien er vragen zijn",
     "base-manager": "Base manager",
     "download-voucher-as-pdf": "Download voucher als PDF",
-    "credits": "Jouw tegoed",
+    "credits": "Mijn credits",
     "you-don-t-have-any-trips": "Je hebt op het moment nog geen vaarvakantie geboekt. Wanneer wel, dan zullen deze hier worden weergegeven. Dan kun je hier ook de details bekijken en eventueel wijzigen.",
     "your-upcoming-boat-trips": "Je komende zeilvakanties",
     "your-cancelled-boat-trips": "Je geannuleerde zeilvakanties",
@@ -1750,5 +1750,7 @@
     "top-flotillas-link": "https://www.tubber.com/nl/flotillas/",
     "credits-spent": "Credits besteed",
     "expiration-dates-for-credits": "Vervaldatum van credits:",
-    "your-credits": "Mijn credits"
+    "your-credits": "Mijn credits",
+    "you-have": "Je hebt",
+    "credits-available-next-payment": "credits beschikbaar voor je volgende betaling"
 }
