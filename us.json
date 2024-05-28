@@ -1711,5 +1711,6 @@
     "min_day": "day",
     "min_month": "mo",
     "min_hour": "hrs",
-    "min_minute": "min"
+    "min_minute": "min",
+    "min_sec": "sec"
 }
