@@ -1708,5 +1708,6 @@
     "min_day": "pv",
     "min_month": "kk",
     "min_hour": "t",
-    "min_minute": "min"
+    "min_minute": "min",
+    "min_sec": "s"
 }
