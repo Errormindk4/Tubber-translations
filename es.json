@@ -1694,5 +1694,10 @@
     "expiration-dates-for-credits": "Fecha de vencimiento de los créditos:",
     "your-credits": "Mis créditos",
     "you-have": "Tienes",
-    "credits-available-next-payment": "créditos disponibles para usar en tu próximo pago"
+    "credits-available-next-payment": "créditos disponibles para usar en tu próximo pago",
+    "min_years": "años",
+    "min_day": "días",
+    "min_month": "meses",
+    "min_hour": "h",
+    "min_minute": "min"
 }
