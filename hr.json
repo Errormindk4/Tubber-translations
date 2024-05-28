@@ -931,7 +931,7 @@
     "there-is-no-base-informat": "Još nema osnovnih podataka o ovoj rezervaciji, kontaktirajte nas ako trebate bilo kakve informacije",
     "base-manager": "Upravitelj marine",
     "download-voucher-as-pdf": "Preuzmite vaučer kao PDF",
-    "credits": "Vaši krediti",
+    "credits": "Moji krediti",
     "you-don-t-have-any-trips": "Trenutno nemate rezervacija, ali kada budu obavljene biće postavljene ovdje. Tada ćete moći vidjeti sve detalje, provjeriti plaćanje i postaviti popis posade.",
     "your-upcoming-boat-trips": "Vasi nadolazeci najmovi",
     "your-cancelled-boat-trips": "Vaš otkazani odmor na jedrenju",
@@ -1691,5 +1691,7 @@
     "the-boat-not-available2": "Brod nije dostupan na odabrane datume. Odaberite drugi datum.",
     "credits-spent": "Potrošeni krediti",
     "expiration-dates-for-credits": "Datum isteka kredita:",
-    "your-credits": "Moji krediti"
+    "your-credits": "Moji krediti",
+    "you-have": "Imate",
+    "credits-available-next-payment": "krediti dostupni za korištenje pri sljedećem plaćanju"
 }
