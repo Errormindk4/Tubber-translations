@@ -1698,5 +1698,6 @@
     "min_day": "dan",
     "min_month": "mj",
     "min_hour": "h",
-    "min_minute": "min"
+    "min_minute": "min",
+    "min_sec": "sek"
 }
