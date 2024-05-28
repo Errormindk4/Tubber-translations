@@ -1748,5 +1748,10 @@
     "expiration-dates-for-credits": "Ablaufdatum der Credits:",
     "your-credits": "Meine Credits",
     "credits-available-next-payment": "verfügbare Credits für Ihre nächste Zahlung",
-    "you-have": "Sie haben"
+    "you-have": "Sie haben",
+    "min_years": "J",
+    "min_day": "T",
+    "min_month": "Mon",
+    "min_hour": "Std",
+    "min_minute": "Min"
 }
