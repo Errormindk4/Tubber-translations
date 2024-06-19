@@ -1727,5 +1727,6 @@
     "you-have": "You have",
     "credits-available-next-payment": "credits available to use for your next payment",
     "min_sec": "sec",
-    "genoa-type": "Genoa type"
+    "genoa-type": "Genoa type",
+    "invalid_email": "Looks like you email is invalid"
 }
