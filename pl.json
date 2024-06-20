@@ -1709,5 +1709,7 @@
     "min_day": "dni",
     "min_hour": "godz",
     "min_minute": "min",
-    "min_sec": "sek"
+    "min_sec": "sek",
+    "genoa-type": "Fok",
+    "invalid_email": "Wygląda na to, że Twój e-mail jest nieprawidłowy"
 }
