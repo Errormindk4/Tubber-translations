@@ -1713,5 +1713,7 @@
     "min_month": "mois",
     "min_hour": "h",
     "min_minute": "min",
-    "min_sec": "s"
+    "min_sec": "s",
+    "genoa-type": "Foc",
+    "invalid_email": "Il semble que votre e-mail est invalide"
 }
