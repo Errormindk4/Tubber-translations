@@ -1709,5 +1709,7 @@
     "min_month": "mesi",
     "min_hour": "ore",
     "min_minute": "min",
-    "min_sec": "s"
+    "min_sec": "s",
+    "genoa-type": "Fiocco",
+    "invalid_email": "Sembra che la tua email non sia valida"
 }
