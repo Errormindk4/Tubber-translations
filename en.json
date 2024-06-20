@@ -1728,6 +1728,6 @@
     "credits-available-next-payment": "credits available to use for your next payment",
     "min_sec": "sec",
     "genoa-type": "Genoa type",
-    "invalid_email": "Looks like you email is invalid",
+    "invalid_email": "Looks like your email is invalid",
     "invalid_phone": "The phone number is incorrect"
 }
