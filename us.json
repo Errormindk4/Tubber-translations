@@ -1712,5 +1712,7 @@
     "min_month": "mo",
     "min_hour": "hrs",
     "min_minute": "min",
-    "min_sec": "sec"
+    "min_sec": "sec",
+    "genoa-type": "Genoa type",
+    "invalid_email": "Looks like your email is invalid"
 }
