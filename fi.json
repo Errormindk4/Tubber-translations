@@ -1709,5 +1709,7 @@
     "min_month": "kk",
     "min_hour": "t",
     "min_minute": "min",
-    "min_sec": "s"
+    "min_sec": "s",
+    "genoa-type": "Keulapurje",
+    "invalid_email": "Näyttää siltä, että sähköpostiosoitteesi on virheellinen"
 }
