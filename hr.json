@@ -1699,5 +1699,7 @@
     "min_month": "mj",
     "min_hour": "h",
     "min_minute": "min",
-    "min_sec": "sek"
+    "min_sec": "sek",
+    "genoa-type": "Prednje jedro",
+    "invalid_email": "Izgleda da je vaša e-pošta nevažeća"
 }
