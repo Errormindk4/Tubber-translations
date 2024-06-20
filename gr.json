@@ -1698,5 +1698,7 @@
     "min_month": "μν",
     "min_hour": "ώ",
     "min_minute": "λεπ",
-    "min_sec": "δευτ"
+    "min_sec": "δευτ",
+    "genoa-type": "φλόκος (flókos)",
+    "invalid_email": "Φαίνεται ότι το email σας δεν είναι έγκυρο"
 }
