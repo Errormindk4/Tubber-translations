@@ -1710,5 +1710,7 @@
     "min_month": "mdr",
     "min_hour": "t",
     "min_minute": "min",
-    "min_sec": "sek"
+    "min_sec": "sek",
+    "genoa-type": "Forsejl",
+    "invalid_email": "Det ser ud til, at din e-mail er ugyldig"
 }
