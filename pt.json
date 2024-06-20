@@ -1699,5 +1699,7 @@
     "min_day": "dias",
     "min_hour": "h",
     "min_minute": "min",
-    "min_sec": "seg"
+    "min_sec": "seg",
+    "genoa-type": "Vela de proa",
+    "invalid_email": "Parece que seu e-mail é inválido"
 }
