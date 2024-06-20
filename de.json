@@ -1754,5 +1754,7 @@
     "min_month": "Mon",
     "min_hour": "Std",
     "min_minute": "Min",
-    "min_sec": "s"
+    "min_sec": "s",
+    "genoa-type": "Vorsegel",
+    "invalid_email": "Es sieht so aus, als ob Ihre E-Mail ungültig ist"
 }
