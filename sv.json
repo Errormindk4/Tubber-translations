@@ -1709,5 +1709,7 @@
     "min_day": "dagar",
     "min_hour": "tim",
     "min_minute": "min",
-    "min_sec": "sek"
+    "min_sec": "sek",
+    "genoa-type": "Försegel",
+    "invalid_email": "Det verkar som att din e-post är ogiltig"
 }
