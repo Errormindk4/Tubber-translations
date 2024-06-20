@@ -1700,5 +1700,7 @@
     "min_month": "meses",
     "min_hour": "h",
     "min_minute": "min",
-    "min_sec": "seg"
+    "min_sec": "seg",
+    "genoa-type": "Foque",
+    "invalid_email": "Parece que tu correo electrónico no es válido"
 }
