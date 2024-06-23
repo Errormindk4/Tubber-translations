@@ -1711,5 +1711,6 @@
     "min_minute": "min",
     "min_sec": "s",
     "genoa-type": "Fiocco",
-    "invalid_email": "Sembra che la tua email non sia valida"
+    "invalid_email": "Sembra che la tua email non sia valida",
+    "--bnr-link--spring": "https://www.tubber.com/it/search/croazia/?sortBy=%2Bdiscount"
 }
