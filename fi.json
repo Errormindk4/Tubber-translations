@@ -1711,5 +1711,6 @@
     "min_minute": "min",
     "min_sec": "s",
     "genoa-type": "Keulapurje",
-    "invalid_email": "Näyttää siltä, että sähköpostiosoitteesi on virheellinen"
+    "invalid_email": "Näyttää siltä, että sähköpostiosoitteesi on virheellinen",
+    "--bnr-link--spring": "https://www.tubber.com/fi/search/kroatia/?sortBy=%2Bdiscount"
 }
