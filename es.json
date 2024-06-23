@@ -1702,5 +1702,6 @@
     "min_minute": "min",
     "min_sec": "seg",
     "genoa-type": "Foque",
-    "invalid_email": "Parece que tu correo electrónico no es válido"
+    "invalid_email": "Parece que tu correo electrónico no es válido",
+    "--bnr-link--spring": "https://www.tubber.com/es/search/grecia/?sortBy=%2Bdiscount"
 }
