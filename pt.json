@@ -1702,5 +1702,6 @@
     "min_sec": "seg",
     "genoa-type": "Vela de proa",
     "invalid_email": "Parece que seu e-mail é inválido",
-    "--bnr-link--spring": "https://www.tubber.com/pt/search/croatia/?sortBy=%2Bdiscount"
+    "--bnr-link--spring": "https://www.tubber.com/pt/search/croatia/?sortBy=%2Bdiscount",
+    "available-online": "Disponível"
 }
