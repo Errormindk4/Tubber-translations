@@ -1701,5 +1701,6 @@
     "min_minute": "min",
     "min_sec": "sek",
     "genoa-type": "Prednje jedro",
-    "invalid_email": "Izgleda da je vaša e-pošta nevažeća"
+    "invalid_email": "Izgleda da je vaša e-pošta nevažeća",
+    "available-online": "Dostupno"
 }
