@@ -1712,5 +1712,6 @@
     "min_minute": "min",
     "min_sec": "sek",
     "genoa-type": "Forsejl",
-    "invalid_email": "Det ser ud til, at din e-mail er ugyldig"
+    "invalid_email": "Det ser ud til, at din e-mail er ugyldig",
+    "available-online": "Til rådighed"
 }
