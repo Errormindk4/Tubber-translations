@@ -1756,5 +1756,6 @@
     "min_minute": "Min",
     "min_sec": "s",
     "genoa-type": "Vorsegel",
-    "invalid_email": "Es sieht so aus, als ob Ihre E-Mail ungültig ist"
+    "invalid_email": "Es sieht so aus, als ob Ihre E-Mail ungültig ist",
+    "available-online": "Verfügbar"
 }
