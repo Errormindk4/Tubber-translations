@@ -1729,5 +1729,6 @@
     "min_sec": "sec",
     "genoa-type": "Genoa type",
     "invalid_email": "Looks like your email is invalid",
-    "invalid_phone": "The phone number is incorrect"
+    "invalid_phone": "The phone number is incorrect",
+    "available-online": "Available"
 }
