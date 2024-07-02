@@ -1713,5 +1713,6 @@
     "genoa-type": "Fok",
     "invalid_email": "Wygląda na to, że Twój e-mail jest nieprawidłowy",
     "--bnr-link--spring": "https://www.tubber.com/pl/search/chorwacja/?sortBy=%2Bdiscount",
-    "available-online": "Dostępne"
+    "available-online": "Dostępne",
+    "boat-not-available-any-more": "Ta jacht nie jest już dostępna."
 }
