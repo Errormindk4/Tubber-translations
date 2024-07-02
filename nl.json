@@ -1762,5 +1762,7 @@
     "genoa-type": "Type voorzeil",
     "invalid_email": "Het lijkt erop dat je e-mail ongeldig is",
     "available-online": "Beschikbaar",
-    "boat-not-available-any-more": "Het jacht is niet meer beschikbaar"
+    "boat-not-available-any-more": "Het jacht is niet meer beschikbaar",
+    "invalid_phone": "Het telefoonnummer lijkt onjuist te zijn.",
+    "sorry": "Sorry"
 }
