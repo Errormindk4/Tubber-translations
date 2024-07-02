@@ -1714,5 +1714,7 @@
     "invalid_email": "Det verkar som att din e-post är ogiltig",
     "--bnr-link--spring": "https://www.tubber.com/sv/search/grekland/?sortBy=%2Bdiscount",
     "available-online": "Tillgänglig",
-    "boat-not-available-any-more": "Denna yacht är inte längre tillgänglig."
+    "boat-not-available-any-more": "Denna yacht är inte längre tillgänglig.",
+    "invalid_phone": "Telefonnummeret är felaktigt.",
+    "sorry": "Förlåt"
 }
