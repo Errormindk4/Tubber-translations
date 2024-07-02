@@ -356,7 +356,7 @@
     "go-back-to-requests": "Gå tilbage til anmodninger",
     "sort-by": "Sorter efter",
     "price-high-to-low": "Pris høj til lav",
-    "price-low-to-high": "Pris lav til høj",
+    "price-low-to-high": "Laveste pris",
     "length-long-to-short": "Længde lang til kort",
     "length-short-to-long": "Længde kort til lang",
     "year-new-to-old": "År nyt til gammelt",
@@ -1713,5 +1713,6 @@
     "min_sec": "sek",
     "genoa-type": "Forsejl",
     "invalid_email": "Det ser ud til, at din e-mail er ugyldig",
-    "available-online": "Til rådighed"
+    "available-online": "Til rådighed",
+    "boat-not-available-any-more": "Denne yacht er ikke længere tilgængelig."
 }
