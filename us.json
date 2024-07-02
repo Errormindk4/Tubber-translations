@@ -1715,5 +1715,6 @@
     "min_sec": "sec",
     "genoa-type": "Genoa type",
     "invalid_email": "Looks like your email is invalid",
-    "available-online": "Available"
+    "available-online": "Available",
+    "boat-not-available-any-more": "This yacht is not available anymore"
 }
