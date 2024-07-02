@@ -1716,5 +1716,7 @@
     "genoa-type": "Genoa type",
     "invalid_email": "Looks like your email is invalid",
     "available-online": "Available",
-    "boat-not-available-any-more": "This yacht is not available anymore"
+    "boat-not-available-any-more": "This yacht is not available anymore",
+    "invalid_phone": "The phone number is incorrect.",
+    "sorry": "Sorry"
 }
