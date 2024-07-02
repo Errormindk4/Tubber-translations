@@ -4,7 +4,7 @@
     "select-your-currency": "Selecteer je valuta",
     "due-to-the-corona-virus-w": "Last minute deals! Zoek, vind en boek nu, want de beschikbaarheid is beperkt!",
     "home": "Home",
-    "request-a-quote": "Offerte aanvragen",
+    "request-a-quote": "Aanbieding aanvragen",
     "contact": "Contact",
     "flotilla-sailing": "Flottielje zeilen",
     "register": "Registreer",
@@ -1761,5 +1761,6 @@
     "min_sec": "sec",
     "genoa-type": "Type voorzeil",
     "invalid_email": "Het lijkt erop dat je e-mail ongeldig is",
-    "available-online": "Beschikbaar"
+    "available-online": "Beschikbaar",
+    "boat-not-available-any-more": "Het jacht is niet meer beschikbaar"
 }
