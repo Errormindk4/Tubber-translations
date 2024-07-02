@@ -1703,5 +1703,7 @@
     "genoa-type": "Prednje jedro",
     "invalid_email": "Izgleda da je vaša e-pošta nevažeća",
     "available-online": "Dostupno",
-    "boat-not-available-any-more": "Ova jahta više nije dostupna."
+    "boat-not-available-any-more": "Ova jahta više nije dostupna.",
+    "invalid_phone": "Broj telefona je netočan.",
+    "sorry": "Oprostite"
 }
