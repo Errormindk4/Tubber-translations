@@ -1758,5 +1758,7 @@
     "genoa-type": "Vorsegel",
     "invalid_email": "Es sieht so aus, als ob Ihre E-Mail ungültig ist",
     "available-online": "Verfügbar",
-    "boat-not-available-any-more": "Diese Yacht ist nicht mehr verfügbar."
+    "boat-not-available-any-more": "Diese Yacht ist nicht mehr verfügbar.",
+    "invalid_phone": "Die Telefonnummer ist falsch.",
+    "sorry": "Entschuldigung"
 }
