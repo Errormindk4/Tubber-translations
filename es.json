@@ -356,7 +356,7 @@
     "go-back-to-requests": "Volver a las solicitudes",
     "sort-by": "Ordenar por",
     "price-high-to-low": "Precio de mayor a menor",
-    "price-low-to-high": "Precio de menor a mayor",
+    "price-low-to-high": "Precio más bajo",
     "length-long-to-short": "Longitud de larga a corta",
     "length-short-to-long": "Longitud de corta a larga",
     "year-new-to-old": "Año de nuevo a viejo",
@@ -1704,5 +1704,6 @@
     "genoa-type": "Foque",
     "invalid_email": "Parece que tu correo electrónico no es válido",
     "--bnr-link--spring": "https://www.tubber.com/es/search/grecia/?sortBy=%2Bdiscount",
-    "available-online": "Disponible"
+    "available-online": "Disponible",
+    "boat-not-available-any-more": "Este yate ya no está disponible."
 }
