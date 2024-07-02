@@ -356,7 +356,7 @@
     "go-back-to-requests": "Torna alle richieste",
     "sort-by": "Classifica per",
     "price-high-to-low": "Prezzo dal alto al basso",
-    "price-low-to-high": "Prezzo dal basso ad alto",
+    "price-low-to-high": "Prezzo più basso",
     "length-long-to-short": "Lungezza dal lungo al corto",
     "length-short-to-long": "Lungezza dal corto al lungo",
     "year-new-to-old": "Anno nuovo al vecchio",
@@ -1713,5 +1713,6 @@
     "genoa-type": "Fiocco",
     "invalid_email": "Sembra che la tua email non sia valida",
     "--bnr-link--spring": "https://www.tubber.com/it/search/croazia/?sortBy=%2Bdiscount",
-    "available-online": "Disponibile"
+    "available-online": "Disponibile",
+    "boat-not-available-any-more": "Questo yacht non è più disponibile."
 }
