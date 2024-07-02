@@ -1714,5 +1714,7 @@
     "genoa-type": "Forsejl",
     "invalid_email": "Det ser ud til, at din e-mail er ugyldig",
     "available-online": "Til rådighed",
-    "boat-not-available-any-more": "Denne yacht er ikke længere tilgængelig."
+    "boat-not-available-any-more": "Denne yacht er ikke længere tilgængelig.",
+    "invalid_phone": "Telefonnummeret er forkert.",
+    "sorry": "Undskyld"
 }
