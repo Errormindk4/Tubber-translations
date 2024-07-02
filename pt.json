@@ -356,7 +356,7 @@
     "go-back-to-requests": "Volte para pedidos",
     "sort-by": "Ordenar por",
     "price-high-to-low": "Preço alto para baixo",
-    "price-low-to-high": "Preço baixo para alto",
+    "price-low-to-high": "Preço mais baixo",
     "length-long-to-short": "Comprimento longo a curto",
     "length-short-to-long": "Comprimento curto a longo",
     "year-new-to-old": "Ano novo para velho",
@@ -1703,5 +1703,6 @@
     "genoa-type": "Vela de proa",
     "invalid_email": "Parece que seu e-mail é inválido",
     "--bnr-link--spring": "https://www.tubber.com/pt/search/croatia/?sortBy=%2Bdiscount",
-    "available-online": "Disponível"
+    "available-online": "Disponível",
+    "boat-not-available-any-more": "Este iate não está mais disponível."
 }
