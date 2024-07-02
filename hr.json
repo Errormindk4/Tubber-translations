@@ -1702,5 +1702,6 @@
     "min_sec": "sek",
     "genoa-type": "Prednje jedro",
     "invalid_email": "Izgleda da je vaša e-pošta nevažeća",
-    "available-online": "Dostupno"
+    "available-online": "Dostupno",
+    "boat-not-available-any-more": "Ova jahta više nije dostupna."
 }
