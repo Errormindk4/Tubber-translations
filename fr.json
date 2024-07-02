@@ -1716,5 +1716,6 @@
     "min_sec": "s",
     "genoa-type": "Foc",
     "invalid_email": "Il semble que votre e-mail est invalide",
-    "available-online": "Disponible"
+    "available-online": "Disponible",
+    "boat-not-available-any-more": "Ce yacht n'est plus disponible."
 }
