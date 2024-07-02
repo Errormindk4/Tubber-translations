@@ -1717,5 +1717,7 @@
     "genoa-type": "Foc",
     "invalid_email": "Il semble que votre e-mail est invalide",
     "available-online": "Disponible",
-    "boat-not-available-any-more": "Ce yacht n'est plus disponible."
+    "boat-not-available-any-more": "Ce yacht n'est plus disponible.",
+    "invalid_phone": "Le numéro de téléphone est incorrect.",
+    "sorry": "Désolé"
 }
