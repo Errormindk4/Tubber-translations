@@ -1701,5 +1701,6 @@
     "min_sec": "δευτ",
     "genoa-type": "φλόκος (flókos)",
     "invalid_email": "Φαίνεται ότι το email σας δεν είναι έγκυρο",
-    "available-online": "Διαθέσιμο"
+    "available-online": "Διαθέσιμο",
+    "boat-not-available-any-more": "Αυτό το σκάφος δεν είναι πλέον διαθέσιμο."
 }
