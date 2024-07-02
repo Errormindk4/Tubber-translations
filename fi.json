@@ -1714,5 +1714,7 @@
     "invalid_email": "Näyttää siltä, että sähköpostiosoitteesi on virheellinen",
     "--bnr-link--spring": "https://www.tubber.com/fi/search/kroatia/?sortBy=%2Bdiscount",
     "available-online": "Saatavilla",
-    "boat-not-available-any-more": "Tämä jahti ei ole enää saatavilla."
+    "boat-not-available-any-more": "Tämä jahti ei ole enää saatavilla.",
+    "invalid_phone": "Puhelinnumero on virheellinen.",
+    "sorry": "Anteeksi"
 }
