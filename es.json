@@ -1705,5 +1705,7 @@
     "invalid_email": "Parece que tu correo electrónico no es válido",
     "--bnr-link--spring": "https://www.tubber.com/es/search/grecia/?sortBy=%2Bdiscount",
     "available-online": "Disponible",
-    "boat-not-available-any-more": "Este yate ya no está disponible."
+    "boat-not-available-any-more": "Este yate ya no está disponible.",
+    "invalid_phone": "El número de teléfono es incorrecto.",
+    "sorry": "Lo siento"
 }
