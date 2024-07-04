@@ -1732,5 +1732,6 @@
     "invalid_phone": "The phone number is incorrect",
     "available-online": "Available",
     "boat-not-available-any-more": "This yacht is not available anymore",
-    "sorry": "Sorry"
+    "sorry": "Sorry",
+    "skipper-is-already-on-the-list": "Skipper already in the list"
 }
