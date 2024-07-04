@@ -1733,5 +1733,6 @@
     "available-online": "Available",
     "boat-not-available-any-more": "This yacht is not available anymore",
     "sorry": "Sorry",
-    "skipper-is-already-on-the-list": "Skipper already in the list"
+    "skipper-is-already-on-the-list": "Skipper already in the list",
+    "hide-full-extras-list": "Hide full extras list"
 }
