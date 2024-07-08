@@ -1764,5 +1764,13 @@
     "available-online": "Beschikbaar",
     "boat-not-available-any-more": "Het jacht is niet meer beschikbaar",
     "invalid_phone": "Het telefoonnummer lijkt onjuist te zijn.",
-    "sorry": "Sorry"
+    "sorry": "Sorry",
+    "confirmed": "Bevestigd",
+    "your-booking-is-confirmed": "Je boeking is bevestigd",
+    "payment-received-long": "We hebben je betaling ontvangen.",
+    "we-ve-sent-your-confirmation-to": "We hebben een bevestiging gestuurd naar",
+    "view-booking-details": "Bekijk boekingdetails",
+    "amount-paid": "Bedrag betaald",
+    "payed-by": "Betaald via",
+    "hide-full-extras-list": "Verberg extra's lijst"
 }
