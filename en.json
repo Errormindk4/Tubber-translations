@@ -1774,5 +1774,8 @@
     "click-upload-your-cv": "Click to upload your CV",
     "click-upload-your-photo": "Click to upload your photo",
     "photo-uploade": "Photo uploaded",
-    "cv-uploading": "Uploading..."
+    "cv-uploading": "Uploading...",
+    "enter-the-verification-code": "Enter the verification code we sent to",
+    "type-code-here": "Type code here",
+    "didnt-get-the-code": "Didn’t get the code?"
 }
