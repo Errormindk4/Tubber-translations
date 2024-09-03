@@ -1718,5 +1718,6 @@
     "available-online": "Available",
     "boat-not-available-any-more": "This yacht is not available anymore",
     "invalid_phone": "The phone number is incorrect.",
-    "sorry": "Sorry"
+    "sorry": "Sorry",
+    "premium-boat-first": "Premium"
 }
