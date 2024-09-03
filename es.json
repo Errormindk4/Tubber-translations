@@ -1707,5 +1707,6 @@
     "available-online": "Disponible",
     "boat-not-available-any-more": "Este yate ya no está disponible.",
     "invalid_phone": "El número de teléfono es incorrecto.",
-    "sorry": "Lo siento"
+    "sorry": "Lo siento",
+    "premium-boat-first": "Premium"
 }
