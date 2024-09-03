@@ -1716,5 +1716,6 @@
     "available-online": "Saatavilla",
     "boat-not-available-any-more": "Tämä jahti ei ole enää saatavilla.",
     "invalid_phone": "Puhelinnumero on virheellinen.",
-    "sorry": "Anteeksi"
+    "sorry": "Anteeksi",
+    "premium-boat-first": "Premium"
 }
