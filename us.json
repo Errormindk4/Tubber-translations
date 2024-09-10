@@ -1728,5 +1728,6 @@
     "job-description": "Job description",
     "work-experience": "Work experience",
     "salary": "Salary",
-    "type-of-employment": "Type of employment"
+    "type-of-employment": "Type of employment",
+    "other-jobs": "Other jobs"
 }
