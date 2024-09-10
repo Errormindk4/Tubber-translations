@@ -1735,5 +1735,8 @@
     "required-skills": "Conocimientos necesarios",
     "back-to-jobs": "Volver a puestos vacantes",
     "pre-screening-assessment": "Evaluación previa al cribado",
-    "to-ensure-we-understand-your-language-skills": "Para asegurarnos de que comprendemos sus conocimientos de idiomas, le rogamos que califique su dominio del alemán, el inglés y el neerlandés en una escala del 1 al 5, siendo 1 básico y 5 fluido."
+    "to-ensure-we-understand-your-language-skills": "Para asegurarnos de que comprendemos sus conocimientos de idiomas, le rogamos que califique su dominio del alemán, el inglés y el neerlandés en una escala del 1 al 5, siendo 1 básico y 5 fluido.",
+    "languages": "Idiomas",
+    "photo-uploading": "Cargando...",
+    "cv-uploading": "Cargando..."
 }
