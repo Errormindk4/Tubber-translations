@@ -1780,5 +1780,7 @@
     "experience": "Erfahrung in Jahren",
     "salary-expected": "Erwartetes Gehalt",
     "salary-current": "Derzeitiges Gehalt",
-    "social-networks": "Soziales Netzwerk"
+    "social-networks": "Soziales Netzwerk",
+    "work-title": "Berufsbezeichnung",
+    "linkedin": "Linkedin"
 }
