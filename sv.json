@@ -1735,5 +1735,6 @@
     "professional-details": "Professionella detaljer",
     "skills": "Färdigheter",
     "experience": "Erfarenhet i år",
-    "salary-expected": "Förväntad lön"
+    "salary-expected": "Förväntad lön",
+    "salary-current": "Nuvarande lön"
 }
