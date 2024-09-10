@@ -1778,5 +1778,6 @@
     "professional-details": "Berufliche Details",
     "skills": "Fertigkeiten",
     "experience": "Erfahrung in Jahren",
-    "salary-expected": "Erwartetes Gehalt"
+    "salary-expected": "Erwartetes Gehalt",
+    "salary-current": "Derzeitiges Gehalt"
 }
