@@ -1748,5 +1748,8 @@
     "photo-uploading": "Lataaminen...",
     "languages": "Kielet",
     "cv-uploading": "Lataaminen...",
-    "english-language-proficiency": "Englannin kielen taito"
+    "english-language-proficiency": "Englannin kielen taito",
+    "german-language-proficiency": "Saksan kielen taito",
+    "cv-uploaded": "CV ladattu",
+    "photo-uploade": "Kuva ladattu"
 }
