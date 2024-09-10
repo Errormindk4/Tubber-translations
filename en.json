@@ -1781,5 +1781,13 @@
     "premium-boat-first": "Premium",
     "work-title": "Job title",
     "required-skills": "Required skills",
-    "assigned-recruiter": "Assigned recruiter"
+    "assigned-recruiter": "Assigned recruiter",
+    "elementary": "Elementary",
+    "basic": "Basic",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced",
+    "mrs": "Mrs.",
+    "fluent": "Fluent",
+    "mr": "Mr.",
+    "ms": "Ms."
 }
