@@ -1766,5 +1766,6 @@
     "basic": "Basic",
     "elementary": "Elementary",
     "intermediate": "Intermediate",
-    "advanced": "Advanced"
+    "advanced": "Advanced",
+    "fluent": "Fluent"
 }
