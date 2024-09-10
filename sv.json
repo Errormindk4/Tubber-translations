@@ -1726,5 +1726,6 @@
     "job-description": "Arbetsbeskrivning",
     "work-experience": "Arbetslivserfarenhet",
     "salary": "Lön",
-    "type-of-employment": "Typ av anställning"
+    "type-of-employment": "Typ av anställning",
+    "other-jobs": "Andra jobb"
 }
