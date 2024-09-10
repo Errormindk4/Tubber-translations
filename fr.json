@@ -1764,5 +1764,6 @@
     "attachments-information": "Informations sur les pièces jointes",
     "upload-your-cv": "Téléchargez votre CV",
     "enter-the-verification-code": "Saisissez le code de vérification que nous vous avons envoyé",
-    "didnt-get-the-code": "Vous n'avez pas reçu le code ?"
+    "didnt-get-the-code": "Vous n'avez pas reçu le code ?",
+    "basic": "De base"
 }
