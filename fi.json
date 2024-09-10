@@ -1733,5 +1733,7 @@
     "address-info": "Osoitetiedot",
     "professional-details": "Ammatilliset tiedot",
     "skills": "Taidot",
-    "experience": "Kokemus vuosina"
+    "experience": "Kokemus vuosina",
+    "salary-expected": "Odotettu palkka",
+    "salary-current": "Nykyinen palkka"
 }
