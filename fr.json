@@ -1729,5 +1729,6 @@
     "submit-your-cv": "Soumettez votre CV",
     "job-description": "Description de l'emploi",
     "work-experience": "Expérience professionnelle",
-    "salary": "Salaire"
+    "salary": "Salaire",
+    "type-of-employment": "Type d'emploi"
 }
