@@ -1742,5 +1742,8 @@
     "work-title": "Job title",
     "linkedin": "Linkedin",
     "assigned-recruiter": "Assigned recruiter",
-    "facebook": "Facebook"
+    "facebook": "Facebook",
+    "required-skills": "Required skills",
+    "pre-screening-assessment": "Pre-Screening Assessment",
+    "back-to-jobs": "Back to open positions"
 }
