@@ -1730,5 +1730,9 @@
     "social-networks": "Red social",
     "work-title": "Puesto",
     "linkedin": "Linkedin",
-    "facebook": "Facebook"
+    "facebook": "Facebook",
+    "assigned-recruiter": "Reclutador asignado",
+    "required-skills": "Conocimientos necesarios",
+    "back-to-jobs": "Volver a puestos vacantes",
+    "pre-screening-assessment": "Evaluación previa al cribado"
 }
