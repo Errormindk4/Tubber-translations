@@ -1743,5 +1743,7 @@
     "facebook": "Facebook",
     "required-skills": "Nødvendige færdigheder",
     "pre-screening-assessment": "Vurdering før screening",
-    "back-to-jobs": "Tilbage til åbne stillinger"
+    "back-to-jobs": "Tilbage til åbne stillinger",
+    "to-ensure-we-understand-your-language-skills": "For at sikre, at vi forstår dine sprogkundskaber, bedes du vurdere dine færdigheder i tysk, engelsk og hollandsk på en skala fra 1 til 5, hvor 1 er grundlæggende og 5 er flydende.",
+    "photo-uploading": "Uploader..."
 }
