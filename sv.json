@@ -1732,5 +1732,6 @@
     "salutation": "Hälsning",
     "address-info": "Adressuppgifter",
     "postal-code": "Postnummer",
-    "professional-details": "Professionella detaljer"
+    "professional-details": "Professionella detaljer",
+    "skills": "Färdigheter"
 }
