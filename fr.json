@@ -1752,5 +1752,8 @@
     "to-ensure-we-understand-your-language-skills": "Afin de nous assurer que nous comprenons bien vos compétences linguistiques, veuillez évaluer votre maîtrise de l'allemand, de l'anglais et du néerlandais sur une échelle de 1 à 5, 1 correspondant à des connaissances de base et 5 à des connaissances courantes.",
     "languages": "Langues",
     "cv-uploading": "Téléchargement...",
-    "english-language-proficiency": "Compétences en anglais"
+    "english-language-proficiency": "Compétences en anglais",
+    "german-language-proficiency": "Maîtrise de la langue allemande",
+    "cv-uploaded": "CV téléchargé",
+    "photo-uploade": "Photo téléchargée"
 }
