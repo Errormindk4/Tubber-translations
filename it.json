@@ -1741,5 +1741,7 @@
     "experience": "Esperienza in anni",
     "salary-expected": "Stipendio previsto",
     "salary-current": "Salario attuale",
-    "social-networks": "Rete sociale"
+    "social-networks": "Rete sociale",
+    "work-title": "Titolo del lavoro",
+    "linkedin": "Linkedin"
 }
