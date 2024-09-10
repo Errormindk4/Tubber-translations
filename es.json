@@ -1753,5 +1753,6 @@
     "enter-the-verification-code": "Introduzca el código de verificación que le enviamos a",
     "didnt-get-the-code": "¿No has recibido el código?",
     "basic": "Básico",
-    "elementary": "Primaria"
+    "elementary": "Primaria",
+    "intermediate": "Intermedio"
 }
