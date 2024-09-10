@@ -1753,5 +1753,8 @@
     "photo-uploading": "Caricamento...",
     "languages": "Le lingue",
     "cv-uploading": "Caricamento...",
-    "english-language-proficiency": "Conoscenza della lingua inglese"
+    "english-language-proficiency": "Conoscenza della lingua inglese",
+    "german-language-proficiency": "Conoscenza della lingua tedesca",
+    "cv-uploaded": "CV caricato",
+    "photo-uploade": "Foto caricata"
 }
