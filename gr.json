@@ -1722,5 +1722,6 @@
     "professional-details": "Επαγγελματικές λεπτομέρειες",
     "skills": "Σύνολο δεξιοτήτων",
     "experience": "Εμπειρία σε έτη",
-    "salary-expected": "Αναμενόμενος μισθός"
+    "salary-expected": "Αναμενόμενος μισθός",
+    "salary-current": "Τρέχων μισθός"
 }
