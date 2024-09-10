@@ -1740,5 +1740,8 @@
     "work-title": "Tehtävänimike",
     "linkedin": "Linkedin",
     "assigned-recruiter": "Nimetty rekrytoija",
-    "facebook": "Facebook"
+    "facebook": "Facebook",
+    "required-skills": "Vaadittavat taidot",
+    "pre-screening-assessment": "Seulontaa edeltävä arviointi",
+    "back-to-jobs": "Takaisin avoimiin tehtäviin"
 }
