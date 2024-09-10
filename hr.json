@@ -1729,5 +1729,8 @@
     "linkedin": "Linkedin",
     "work-title": "Naziv pozicije",
     "assigned-recruiter": "Dodijeljeni regruter",
-    "facebook": "Facebook"
+    "facebook": "Facebook",
+    "required-skills": "Potrebne vještine",
+    "pre-screening-assessment": "procjena prije selekcije",
+    "back-to-jobs": "Nazad na otvorene pozicije"
 }
