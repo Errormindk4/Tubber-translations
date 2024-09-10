@@ -1740,5 +1740,8 @@
     "work-title": "Jobtitel",
     "linkedin": "Linkedin",
     "assigned-recruiter": "Tildelt rekrutteringsmedarbejder",
-    "facebook": "Facebook"
+    "facebook": "Facebook",
+    "required-skills": "Nødvendige færdigheder",
+    "pre-screening-assessment": "Vurdering før screening",
+    "back-to-jobs": "Tilbage til åbne stillinger"
 }
