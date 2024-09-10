@@ -1759,5 +1759,6 @@
     "additional-info": "Yderligere information",
     "upload-your-cv": "Upload dit CV",
     "attachments-information": "Information om vedhæftede filer",
-    "enter-the-verification-code": "Indtast den bekræftelseskode, vi har sendt til"
+    "enter-the-verification-code": "Indtast den bekræftelseskode, vi har sendt til",
+    "didnt-get-the-code": "Fik du ikke koden?"
 }
