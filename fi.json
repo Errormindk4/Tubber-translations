@@ -1762,5 +1762,6 @@
     "enter-the-verification-code": "Syötä vahvistuskoodi, jonka lähetimme osoitteeseen",
     "didnt-get-the-code": "Etkö saanut koodia?",
     "basic": "Basic",
-    "elementary": "Alkeiskurssi"
+    "elementary": "Alkeiskurssi",
+    "intermediate": "Väliaikainen"
 }
