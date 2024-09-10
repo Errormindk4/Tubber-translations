@@ -1736,5 +1736,7 @@
     "experience": "Kokemus vuosina",
     "salary-expected": "Odotettu palkka",
     "salary-current": "Nykyinen palkka",
-    "social-networks": "Sosiaalinen verkosto"
+    "social-networks": "Sosiaalinen verkosto",
+    "work-title": "Tehtävänimike",
+    "linkedin": "Linkedin"
 }
