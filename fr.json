@@ -1736,5 +1736,6 @@
     "salutation": "Salutation",
     "address-info": "Informations sur l'adresse",
     "professional-details": "Détails professionnels",
-    "skills": "Compétences"
+    "skills": "Compétences",
+    "experience": "Expérience en années"
 }
