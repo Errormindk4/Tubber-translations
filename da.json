@@ -1726,5 +1726,6 @@
     "job-description": "Jobbeskrivelse",
     "work-experience": "Arbejdserfaring",
     "salary": "Løn",
-    "type-of-employment": "Type af ansættelse"
+    "type-of-employment": "Type af ansættelse",
+    "other-jobs": "Andre jobs"
 }
