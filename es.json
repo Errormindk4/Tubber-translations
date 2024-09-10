@@ -1724,5 +1724,7 @@
     "address-info": "Información sobre la dirección",
     "professional-details": "Datos profesionales",
     "skills": "Competencias",
-    "experience": "Experiencia en años"
+    "experience": "Experiencia en años",
+    "salary-current": "Salario actual",
+    "salary-expected": "Salario previsto"
 }
