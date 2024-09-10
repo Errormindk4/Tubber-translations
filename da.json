@@ -1733,5 +1733,7 @@
     "address-info": "Adresseoplysninger",
     "professional-details": "Professionelle detaljer",
     "skills": "Færdighedssæt",
-    "experience": "Erfaring i år"
+    "experience": "Erfaring i år",
+    "salary-expected": "Forventet løn",
+    "salary-current": "Nuværende løn"
 }
