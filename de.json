@@ -1792,5 +1792,8 @@
     "photo-uploading": "Hochladen...",
     "languages": "Sprachen",
     "cv-uploading": "Hochladen...",
-    "english-language-proficiency": "Englische Sprachkenntnisse"
+    "english-language-proficiency": "Englische Sprachkenntnisse",
+    "cv-uploaded": "Lebenslauf hochgeladen",
+    "german-language-proficiency": "Deutsche Sprachkenntnisse",
+    "photo-uploade": "Foto hochgeladen"
 }
