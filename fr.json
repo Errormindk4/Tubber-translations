@@ -1730,5 +1730,6 @@
     "job-description": "Description de l'emploi",
     "work-experience": "Expérience professionnelle",
     "salary": "Salaire",
-    "type-of-employment": "Type d'emploi"
+    "type-of-employment": "Type d'emploi",
+    "other-jobs": "Autres emplois"
 }
