@@ -1717,5 +1717,6 @@
     "job-description": "Descripción del puesto",
     "work-experience": "Experiencia laboral",
     "salary": "Salario",
-    "type-of-employment": "Tipo de empleo"
+    "type-of-employment": "Tipo de empleo",
+    "other-jobs": "Otros empleos"
 }
