@@ -1768,5 +1768,6 @@
     "didnt-get-the-code": "Non avete ricevuto il codice?",
     "basic": "Base",
     "elementary": "Elementare",
-    "intermediate": "Intermedio"
+    "intermediate": "Intermedio",
+    "advanced": "Avanzato"
 }
