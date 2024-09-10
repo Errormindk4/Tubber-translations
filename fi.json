@@ -1759,5 +1759,6 @@
     "upload-your-photo": "Lataa valokuva",
     "attachments-information": "Liitetiedot",
     "upload-your-cv": "Lataa ansioluettelosi",
-    "enter-the-verification-code": "Syötä vahvistuskoodi, jonka lähetimme osoitteeseen"
+    "enter-the-verification-code": "Syötä vahvistuskoodi, jonka lähetimme osoitteeseen",
+    "didnt-get-the-code": "Etkö saanut koodia?"
 }
