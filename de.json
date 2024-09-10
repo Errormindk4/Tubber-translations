@@ -1776,5 +1776,6 @@
     "salutation": "Begrüßung",
     "address-info": "Informationen zur Adresse",
     "professional-details": "Berufliche Details",
-    "skills": "Fertigkeiten"
+    "skills": "Fertigkeiten",
+    "experience": "Erfahrung in Jahren"
 }
