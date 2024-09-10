@@ -1723,5 +1723,6 @@
     "salutation": "Saludo",
     "address-info": "Información sobre la dirección",
     "professional-details": "Datos profesionales",
-    "skills": "Competencias"
+    "skills": "Competencias",
+    "experience": "Experiencia en años"
 }
