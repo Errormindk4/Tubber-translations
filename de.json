@@ -1770,5 +1770,6 @@
     "job-description": "Stellenbeschreibung",
     "work-experience": "Berufserfahrung",
     "salary": "Gehalt",
-    "type-of-employment": "Art der Beschäftigung"
+    "type-of-employment": "Art der Beschäftigung",
+    "other-jobs": "Andere Aufgaben"
 }
