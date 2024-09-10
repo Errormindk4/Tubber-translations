@@ -1764,5 +1764,6 @@
     "enter-the-verification-code": "Enter the verification code we sent to",
     "didnt-get-the-code": "Didn’t get the code?",
     "basic": "Basic",
-    "elementary": "Elementary"
+    "elementary": "Elementary",
+    "intermediate": "Intermediate"
 }
