@@ -1733,5 +1733,7 @@
     "address-info": "Informacje adresowe",
     "professional-details": "Profesjonalne szczegóły",
     "skills": "Zestaw umiejętności",
-    "experience": "Doświadczenie w latach"
+    "experience": "Doświadczenie w latach",
+    "salary-expected": "Oczekiwane wynagrodzenie",
+    "salary-current": "Aktualne wynagrodzenie"
 }
