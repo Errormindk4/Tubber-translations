@@ -1734,5 +1734,7 @@
     "salutation": "Salutation",
     "address-info": "Address information",
     "professional-details": "Professional details",
-    "skills": "Skill set"
+    "skills": "Skill set",
+    "experience": "Experience in years",
+    "salary-expected": "Expected salary"
 }
