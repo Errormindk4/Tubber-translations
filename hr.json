@@ -1726,5 +1726,8 @@
     "salary-expected": "očekivana plaća",
     "salary-current": "trenutna plaća",
     "social-networks": "društvena mreža",
-    "linkedin": "Linkedin"
+    "linkedin": "Linkedin",
+    "work-title": "Naziv pozicije",
+    "assigned-recruiter": "Dodijeljeni regruter",
+    "facebook": "Facebook"
 }
