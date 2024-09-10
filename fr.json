@@ -1747,5 +1747,7 @@
     "facebook": "Facebook",
     "required-skills": "Compétences requises",
     "pre-screening-assessment": "Évaluation préalable",
-    "back-to-jobs": "Retour aux postes à pourvoir"
+    "back-to-jobs": "Retour aux postes à pourvoir",
+    "photo-uploading": "Téléchargement...",
+    "to-ensure-we-understand-your-language-skills": "Afin de nous assurer que nous comprenons bien vos compétences linguistiques, veuillez évaluer votre maîtrise de l'allemand, de l'anglais et du néerlandais sur une échelle de 1 à 5, 1 correspondant à des connaissances de base et 5 à des connaissances courantes."
 }
