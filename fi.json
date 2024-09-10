@@ -1732,5 +1732,6 @@
     "salutation": "Tervehdys",
     "address-info": "Osoitetiedot",
     "professional-details": "Ammatilliset tiedot",
-    "skills": "Taidot"
+    "skills": "Taidot",
+    "experience": "Kokemus vuosina"
 }
