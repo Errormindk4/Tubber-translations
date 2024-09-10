@@ -1758,5 +1758,7 @@
     "click-upload-your-photo": "Click to upload your photo",
     "click-upload-your-cv": "Click to upload your CV",
     "additional-info": "Additional information",
-    "upload-your-photo": "Upload your photo"
+    "upload-your-photo": "Upload your photo",
+    "upload-your-cv": "Upload your CV",
+    "attachments-information": "Attachment Information"
 }
