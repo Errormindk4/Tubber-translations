@@ -1725,5 +1725,6 @@
     "submit-your-cv": "Indsend dit CV",
     "job-description": "Jobbeskrivelse",
     "work-experience": "Arbejdserfaring",
-    "salary": "Løn"
+    "salary": "Løn",
+    "type-of-employment": "Type af ansættelse"
 }
