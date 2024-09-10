@@ -1748,5 +1748,8 @@
     "languages": "Języki",
     "photo-uploading": "Przesyłanie...",
     "cv-uploading": "Przesyłanie...",
-    "english-language-proficiency": "Znajomość języka angielskiego"
+    "english-language-proficiency": "Znajomość języka angielskiego",
+    "german-language-proficiency": "Znajomość języka niemieckiego",
+    "cv-uploaded": "Przesłane CV",
+    "photo-uploade": "Przesłane zdjęcie"
 }
