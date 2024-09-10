@@ -1784,5 +1784,6 @@
     "job-description": "Functieomschrijving",
     "work-experience": "Werkervaring",
     "salary": "Salaris",
-    "type-of-employment": "Type werk"
+    "type-of-employment": "Type werk",
+    "other-jobs": "Andere banen"
 }
