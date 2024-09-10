@@ -1751,5 +1751,8 @@
     "english-language-proficiency": "Englannin kielen taito",
     "german-language-proficiency": "Saksan kielen taito",
     "cv-uploaded": "CV ladattu",
-    "photo-uploade": "Kuva ladattu"
+    "photo-uploade": "Kuva ladattu",
+    "click-upload-your-photo": "Klikkaa ladataksesi valokuvasi",
+    "click-upload-your-cv": "Klikkaa ladataksesi ansioluettelosi",
+    "dutch-language-proficiency": "Hollannin kielen taito"
 }
