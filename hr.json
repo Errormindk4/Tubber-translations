@@ -1715,5 +1715,6 @@
     "job-description": "Opis posla",
     "work-experience": "Radno iskustvo",
     "salary": "Plaća",
-    "type-of-employment": "Vrsta zaposlenja"
+    "type-of-employment": "Vrsta zaposlenja",
+    "other-jobs": "Drugi poslovi"
 }
