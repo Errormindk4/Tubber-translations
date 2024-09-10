@@ -1738,5 +1738,7 @@
     "experience": "Experience in years",
     "salary-expected": "Expected salary",
     "salary-current": "Current salary",
-    "social-networks": "Social Network"
+    "social-networks": "Social Network",
+    "work-title": "Job title",
+    "linkedin": "Linkedin"
 }
