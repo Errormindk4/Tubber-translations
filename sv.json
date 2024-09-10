@@ -1733,5 +1733,6 @@
     "address-info": "Adressuppgifter",
     "postal-code": "Postnummer",
     "professional-details": "Professionella detaljer",
-    "skills": "Färdigheter"
+    "skills": "Färdigheter",
+    "experience": "Erfarenhet i år"
 }
