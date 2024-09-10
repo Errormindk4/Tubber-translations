@@ -1740,5 +1740,9 @@
     "social-networks": "Socialt nätverk",
     "work-title": "Befattning",
     "linkedin": "Linkedin",
-    "facebook": "Facebook"
+    "facebook": "Facebook",
+    "assigned-recruiter": "Tilldelad rekryterare",
+    "required-skills": "Nödvändiga färdigheter",
+    "pre-screening-assessment": "Bedömning före screening",
+    "back-to-jobs": "Tillbaka till lediga tjänster"
 }
