@@ -1760,5 +1760,6 @@
     "mrs": "Senhora.",
     "ms": "Sra.",
     "apply-job": "Candidatar-se",
-    "log-in-tubber-candidates-portal": "Iniciar sessão no portal de candidatos da Tubber"
+    "log-in-tubber-candidates-portal": "Iniciar sessão no portal de candidatos da Tubber",
+    "incorrect-password-or-account-not-found": "Palavra-passe incorrecta ou conta não encontrada"
 }
