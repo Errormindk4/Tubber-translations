@@ -1771,5 +1771,6 @@
     "mrs": "Fru.",
     "ms": "Ms.",
     "apply-job": "Ansök om jobb",
-    "log-in-tubber-candidates-portal": "Logga in på Tubbers kandidatportal"
+    "log-in-tubber-candidates-portal": "Logga in på Tubbers kandidatportal",
+    "incorrect-password-or-account-not-found": "Felaktigt lösenord eller konto hittades inte"
 }
