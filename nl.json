@@ -1828,5 +1828,6 @@
     "mrs": "Mevrouw.",
     "ms": "Mevr.",
     "apply-job": "Solliciteren",
-    "log-in-tubber-candidates-portal": "Inloggen op het kandidatenportaal van Tubber"
+    "log-in-tubber-candidates-portal": "Inloggen op het kandidatenportaal van Tubber",
+    "incorrect-password-or-account-not-found": "Onjuist wachtwoord of account niet gevonden"
 }
