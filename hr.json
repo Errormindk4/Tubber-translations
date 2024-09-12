@@ -1759,5 +1759,6 @@
     "mrs": "gđa",
     "ms": "gđa",
     "apply-job": "Prijavite se sada",
-    "log-in-tubber-candidates-portal": "Prijavite se u Tubber kandidat portal"
+    "log-in-tubber-candidates-portal": "Prijavite se u Tubber kandidat portal",
+    "incorrect-password-or-account-not-found": "Netočna lozinka ili račun nije pronađen"
 }
