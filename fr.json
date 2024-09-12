@@ -1774,5 +1774,6 @@
     "mrs": "Mme.",
     "ms": "Mme.",
     "apply-job": "Postuler un emploi",
-    "log-in-tubber-candidates-portal": "Se connecter au portail Tubber pour les candidats"
+    "log-in-tubber-candidates-portal": "Se connecter au portail Tubber pour les candidats",
+    "incorrect-password-or-account-not-found": "Mot de passe incorrect ou compte introuvable"
 }
