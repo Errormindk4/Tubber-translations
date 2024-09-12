@@ -1770,5 +1770,6 @@
     "mrs": "Pani.",
     "ms": "Pani.",
     "apply-job": "Zastosuj pracę",
-    "log-in-tubber-candidates-portal": "Zaloguj się do portalu dla kandydatów Tubber"
+    "log-in-tubber-candidates-portal": "Zaloguj się do portalu dla kandydatów Tubber",
+    "incorrect-password-or-account-not-found": "Nieprawidłowe hasło lub nie znaleziono konta"
 }
