@@ -1772,5 +1772,6 @@
     "ms": "Ms.",
     "apply-job": "Ansök om jobb",
     "log-in-tubber-candidates-portal": "Logga in på Tubbers kandidatportal",
-    "incorrect-password-or-account-not-found": "Felaktigt lösenord eller konto hittades inte"
+    "incorrect-password-or-account-not-found": "Felaktigt lösenord eller konto hittades inte",
+    "job-submitted": "Tack, vi har mottagit din ansökan"
 }
