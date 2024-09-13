@@ -1762,5 +1762,6 @@
     "ms": "Sra.",
     "apply-job": "Solicitar trabajo",
     "log-in-tubber-candidates-portal": "Acceder al portal de candidatos Tubber",
-    "incorrect-password-or-account-not-found": "Contraseña incorrecta o cuenta no encontrada"
+    "incorrect-password-or-account-not-found": "Contraseña incorrecta o cuenta no encontrada",
+    "job-submitted": "Gracias, hemos recibido su solicitud"
 }
