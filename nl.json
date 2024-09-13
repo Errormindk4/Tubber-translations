@@ -1829,5 +1829,6 @@
     "ms": "Mevr.",
     "apply-job": "Solliciteren",
     "log-in-tubber-candidates-portal": "Inloggen op het kandidatenportaal van Tubber",
-    "incorrect-password-or-account-not-found": "Onjuist wachtwoord of account niet gevonden"
+    "incorrect-password-or-account-not-found": "Onjuist wachtwoord of account niet gevonden",
+    "job-submitted": "Bedankt, we hebben uw aanvraag ontvangen"
 }
