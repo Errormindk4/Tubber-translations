@@ -1792,5 +1792,6 @@
     "ms": "Ms.",
     "apply-job": "Apply job",
     "incorrect-password-or-account-not-found": "Incorrect password or account not found",
-    "log-in-tubber-candidates-portal": "Login into  Tubber candidates portal"
+    "log-in-tubber-candidates-portal": "Login into  Tubber candidates portal",
+    "job-submitted": "Thank you, We received your application"
 }
