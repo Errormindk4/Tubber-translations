@@ -1815,5 +1815,6 @@
     "ms": "Frau",
     "apply-job": "Job bewerben",
     "log-in-tubber-candidates-portal": "Anmeldung im Tubber-Kandidatenportal",
-    "incorrect-password-or-account-not-found": "Falsches Passwort oder Konto nicht gefunden"
+    "incorrect-password-or-account-not-found": "Falsches Passwort oder Konto nicht gefunden",
+    "job-submitted": "Vielen Dank, wir haben Ihre Bewerbung erhalten"
 }
