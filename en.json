@@ -1455,7 +1455,7 @@
     "spring-deals": "EARLY BIRD OFFERS 2025!",
     "save-up-to-{percentage}%": "UP TO 45% OFF",
     "--is-banner--spring": "+",
-    "--bnr-link--spring": "https://www.tubber.com/en/search/greece/?sortBy=%2Bdiscount&start_date=2025-05-10&duration=7",
+    "--bnr-link--spring": "https://www.tubber.com/en/search/greece/?sortBy=%2Bdiscount&start_date=2025-05-10&duration=7&utm_source=website&utm_medium=banner&utm_campaign=earlybird25_uk",
     "save-up-to-percentage": "NOW UP TO 45% OFF",
     "how-to-earn-credits": "How to spend your credits?",
     "add-where-you-live": "Add where you live",
