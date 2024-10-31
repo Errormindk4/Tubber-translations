@@ -1703,7 +1703,7 @@
     "min_sec": "seg",
     "genoa-type": "Foque",
     "invalid_email": "Parece que tu correo electrónico no es válido",
-    "--bnr-link--spring": "https://www.tubber.com/es/search/grecia/?sortBy=%2Bdiscount&start_date=2025-05-10&duration=7&utm_source=website&utm_medium=banner&utm_campaign=earlybird25_es",
+    "--bnr-link--spring": "https://www.tubber.com/es/search/grecia/?start_date=2025-05-10&duration=7&sortBy=%2Bdiscount",
     "available-online": "Disponible",
     "boat-not-available-any-more": "Este yate ya no está disponible.",
     "invalid_phone": "El número de teléfono es incorrecto.",
