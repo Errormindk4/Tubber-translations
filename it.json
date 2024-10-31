@@ -1712,7 +1712,7 @@
     "min_sec": "s",
     "genoa-type": "Fiocco",
     "invalid_email": "Sembra che la tua email non sia valida",
-    "--bnr-link--spring": "https://www.tubber.com/it/search/grecia/?sortBy=%2Bdiscount&start_date=2025-05-10&duration=7&utm_source=website&utm_medium=banner&utm_campaign=earlybird25_it",
+    "--bnr-link--spring": "https://www.tubber.com/it/search/grecia/?start_date=2025-05-10&duration=7&sortBy=%2Bdiscount",
     "available-online": "Disponibile",
     "boat-not-available-any-more": "Questo yacht non è più disponibile.",
     "invalid_phone": "Il numero di telefono è errato.",
