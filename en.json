@@ -1840,5 +1840,11 @@
     "partner": "Partner",
     "premium": "Premium",
     "personalize_your_booking_with_extras": "Personalize your booking with optional extras",
-    "choose_extras": "Choose extras"
+    "choose_extras": "Choose extras",
+    "confirmation-email": "Confirmation email goes to this address",
+    "almost-done": "Almost done",
+    "accommodation-can-rich-you": "So the accommodation can rich you",
+    "main-guest": "I am the main guest",
+    "someone-else": "Booking is for someone else",
+    "book-now-booking": "Book now"
 }
