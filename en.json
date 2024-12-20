@@ -1847,5 +1847,9 @@
     "main-guest": "I am the main guest",
     "someone-else": "Booking is for someone else",
     "book-now-booking": "Book now",
-    "book-now-specification": "Book now"
+    "book-now-specification": "Book now",
+    "enter-your-details": "Enter your details",
+    "login-to-get-discount": "Get 10% or more off this option when you sign in to the Tubber loyalty program!",
+    "we-will-text-you": "We’ll text you a link to download our app",
+    "agree-messaging": "Yes, I’d like free paperless confirmation (recommended)"
 }
