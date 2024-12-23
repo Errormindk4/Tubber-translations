@@ -1294,8 +1294,8 @@
     "length-of-the-yacht": "Lunghezza dello yacht (ft)",
     "share": "Condividere",
     "select-type-of-boat": "Seleziona il tipo di barca",
-    "select-date": "Seleziona la data",
-    "choose-where-you-want-to-go": "Scegli dove vuoi navigare",
+    "select-date": "Qualsiasi data",
+    "choose-where-you-want-to-go": "Dove vuoi andare?",
     "this-bt-from-a-verified-partner": "Questo {boatType} dal nostro partner verificato:",
     "premium-company": "Azienda premium",
     "dates": "Dati",
@@ -1797,5 +1797,11 @@
     "super-sailing-offer": "Fino al 3 dicembre",
     "book-now-banner": "Prenota ora",
     "super-sailing-offer-line": "Super offerte di vela",
-    "christmas-book": "Prenotate entro il 1° gennaio e scegliete tra le migliori imbarcazioni"
+    "christmas-book": "Prenotate entro il 1° gennaio e scegliete tra le migliori imbarcazioni",
+    "including-taxes-and-charges": "Comprese le tasse e gli oneri",
+    "change_search": "Modifica della ricerca",
+    "payment-policies": "Politiche di pagamento",
+    "enter-your-details": "Inserisci i tuoi dati",
+    "best_price_on_the_market": "Miglior prezzo garantito",
+    "basic-info": "Informazioni di base"
 }
