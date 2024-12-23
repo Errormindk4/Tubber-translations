@@ -1359,7 +1359,7 @@
     "length-of-the-yacht": "Length of the yacht (ft)",
     "share": "Share",
     "select-type-of-boat": "Select type of yacht",
-    "select-date": "Select date",
+    "select-date": "Any date",
     "choose-where-you-want-to-go": "Choose where you want to sail",
     "this-bt-from-a-verified-partner": "This {boatType} from our verified partner:",
     "bathroom": "bathroom",
@@ -1795,5 +1795,17 @@
     "book-now-banner": "Book now",
     "super-sailing-offer-line": "Super sailing offers",
     "christmas-book": "Book before the 1st of January and choose from the best yachts",
-    "christmas-deal": "SANTA’S SAILING SPECIALS"
+    "christmas-deal": "SANTA’S SAILING SPECIALS",
+    "best_price_on_the_market": "Best price guarantee",
+    "including-taxes-and-charges": "Including taxes and charges",
+    "change_search": "Change Search",
+    "payment-policies": "Payment policies",
+    "price-includes": "Price includes",
+    "postal-code": "Postal code",
+    "basic-info": "Basic information",
+    "enter-your-details": "Enter your details",
+    "reserve": "Reserve",
+    "premium": "Premium",
+    "partner": "Partner",
+    "personalize_your_booking_with_extras": "Personalize your booking with optional extras"
 }
