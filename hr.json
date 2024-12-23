@@ -1360,7 +1360,7 @@
     "length-of-the-yacht": "Duljina jahte (ft)",
     "share": "Udio",
     "select-type-of-boat": "Odaberite vrstu plovila",
-    "select-date": "Odaberite datum",
+    "select-date": "Bilo koji datum",
     "choose-where-you-want-to-go": "Odaberite gdje želite ploviti",
     "this-bt-from-a-verified-partner": "Ovaj {boatType} našeg provjerenog partnera:",
     "premium-company": "Premium tvrtka",
@@ -1784,5 +1784,9 @@
     "super-sailing-offer-line": "Super ponude za jedrenje",
     "christmas-book": "Rezervirajte prije 1. siječnja i birajte između najboljih jahti",
     "christmas-deal": "SANTA’S SAILING SPECIALS",
-    "unbeatable-savings": "SADA DO 40% POPUSTA"
+    "unbeatable-savings": "SADA DO 40% POPUSTA",
+    "best_price_on_the_market": "Jamstvo najbolje cijene",
+    "including-taxes-and-charges": "Uključujući poreze i naknad",
+    "enter-your-details": "Upišite svoje podatke",
+    "basic-info": "Osnovne informacije"
 }
