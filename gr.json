@@ -1299,8 +1299,8 @@
     "length-of-the-yacht": "Μήκος γιοτ (ft)",
     "share": "Μερίδιο",
     "select-type-of-boat": "Επιλέξτε τύπο σκάφους",
-    "select-date": "Επιλέξτε ημερομηνία",
-    "choose-where-you-want-to-go": "Επιλέξτε πού θέλετε να πλεύσετε",
+    "select-date": "Οποιαδήποτε ημερομηνία",
+    "choose-where-you-want-to-go": "Πού πας;",
     "this-bt-from-a-verified-partner": "Αυτό το {boatType} από τον επαληθευμένο συνεργάτη μας:",
     "premium-company": "Premium εταιρεία",
     "dates": "Ημερομηνίες",
@@ -1783,5 +1783,11 @@
     "super-sailing-offer-line": "Συναρπαστικές προσφορές ιστιοπλοΐας",
     "christmas-book": "Κάντε κράτηση πριν από την 1η Ιανουαρίου και επιλέξτε από τα καλύτερα σκάφη αναψυχής",
     "christmas-deal": "SANTA’S SAILING SPECIALS",
-    "unbeatable-savings": "ΤΏΡΑ ΈΩΣ ΚΑΙ 40% ΈΚΠΤΩΣΗ"
+    "unbeatable-savings": "ΤΏΡΑ ΈΩΣ ΚΑΙ 40% ΈΚΠΤΩΣΗ",
+    "payment-policies": "Πολιτικές πληρωμών",
+    "enter-your-details": "Εισαγωγή στοιχείων",
+    "best_price_on_the_market": "Εγγύηση καλύτερης τιμής",
+    "including-taxes-and-charges": "Συμπεριλαμβανομένων φόρων και τελών",
+    "change_search": "Αλλαγή αναζήτησης",
+    "basic-info": "Βασικές πληροφορίες"
 }
