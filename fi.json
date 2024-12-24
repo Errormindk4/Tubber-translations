@@ -1803,5 +1803,6 @@
     "best_price_on_the_market": "Paras hintatakuu",
     "partner": "Kumppani",
     "premium": "Premium",
-    "basic-info": "Perustiedot"
+    "basic-info": "Perustiedot",
+    "select-date-title": "Valitse päivämäärä"
 }
