@@ -1807,5 +1807,6 @@
     "reserve": "Reserve",
     "premium": "Premium",
     "partner": "Partner",
-    "personalize_your_booking_with_extras": "Personalize your booking with optional extras"
+    "personalize_your_booking_with_extras": "Personalize your booking with optional extras",
+    "select-date-title": "Select date"
 }
