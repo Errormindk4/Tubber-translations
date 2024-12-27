@@ -1809,5 +1809,11 @@
     "best_price_on_the_market": "Garantie du meilleur prix",
     "select-date-title": "Sélectionnez la date",
     "personalize_your_booking_with_extras": "Personnalisez votre réservation avec des options supplémentaires",
-    "choose_extras": "Choisir des extras"
+    "choose_extras": "Choisir des extras",
+    "confirmation-email": "Le courriel de confirmation est envoyé à cette adresse",
+    "accommodation-can-rich-you": "Pour que le propriétaire du bateau et nous-mêmes puissions vous joindre",
+    "book-now-specification": "Réserver",
+    "someone-else": "La réservation est pour quelqu'un d'autre",
+    "book-now-booking": "Réserver",
+    "main-guest": "Je suis le principal locataire du yacht."
 }
