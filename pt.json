@@ -1789,5 +1789,8 @@
     "best_price_on_the_market": "Garantia do melhor preço",
     "enter-your-details": "Insira os seus dados",
     "basic-info": "Informação básica",
-    "select-date-title": "Selecionar data"
+    "select-date-title": "Selecionar data",
+    "change_search": "Alterar pesquisa",
+    "payment-policies": "Condições de pagamento",
+    "price-includes": "O preço inclui"
 }
