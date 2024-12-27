@@ -1807,5 +1807,7 @@
     "enter-your-details": "Saisissez vos coordonnées",
     "basic-info": "Informations de base",
     "best_price_on_the_market": "Garantie du meilleur prix",
-    "select-date-title": "Sélectionnez la date"
+    "select-date-title": "Sélectionnez la date",
+    "personalize_your_booking_with_extras": "Personnalisez votre réservation avec des options supplémentaires",
+    "choose_extras": "Choisir des extras"
 }
