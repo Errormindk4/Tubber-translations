@@ -1810,5 +1810,7 @@
     "basic-info": "Grundlæggende information",
     "select-date-title": "Datoer",
     "main-guest": "Jeg er hovedlejer af yachten.",
-    "someone-else": "Booking er til en anden"
+    "someone-else": "Booking er til en anden",
+    "book-now-specification": "Book nu",
+    "book-now-booking": "Book nu"
 }
