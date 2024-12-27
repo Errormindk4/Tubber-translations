@@ -1844,5 +1844,7 @@
     "select-date-title": "Datum",
     "payment-policies": "Zahlungsbedingungen",
     "price-includes": "Im Preis enthalten",
-    "change_search": "Datum ändern"
+    "change_search": "Datum ändern",
+    "personalize_your_booking_with_extras": "Personalisieren Sie Ihre Buchung mit optionalen Extras",
+    "choose_extras": "Extras auswählen"
 }
