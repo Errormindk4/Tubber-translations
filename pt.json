@@ -1794,5 +1794,9 @@
     "payment-policies": "Condições de pagamento",
     "price-includes": "O preço inclui",
     "personalize_your_booking_with_extras": "Personalize a sua reserva com extras opcionais",
-    "choose_extras": "Escolher extras"
+    "choose_extras": "Escolher extras",
+    "confirmation-email": "O correio eletrónico de confirmação é enviado para este endereço",
+    "someone-else": "A reserva é para outra pessoa",
+    "accommodation-can-rich-you": "Para que nós e o proprietário do iate possamos contactá-lo",
+    "main-guest": "Sou o principal locatário do iate."
 }
