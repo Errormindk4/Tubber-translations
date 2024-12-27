@@ -1862,8 +1862,8 @@
     "change_search": "Datum wijzigen",
     "partner": "Partner",
     "personalize_your_booking_with_extras": "Personaliseer je boeking met optionele extra's",
-    "almost-done": "Bijna klaar",
-    "confirmation-email": "De bevestigingsmail gaat naar dit adres",
+    "almost-done": "Bijna klaar schipper!",
+    "confirmation-email": "De bevestigingsmail gaat naar dit mailadres",
     "best_price_on_the_market": "Beste prijsgarantie",
     "basic-info": "Basisinformatie",
     "postal-code": "Postcode",
@@ -1876,5 +1876,9 @@
     "can_you_rent_boat_without_license": "Kun je een boot huren zonder vaarbewijs?",
     "rent_boat_without_license_conditions": "Ja, het huren van een boot of jacht zonder vaarbewijs is in sommige landen onder bepaalde voorwaarden mogelijk. Als je niet kunt zeilen, maar wel je vakantie op een zeiljacht wilt doorbrengen, kun je een zeiljacht of catamaran huren met een ervaren schipper. Als je ervaring hebt, maar nog geen ICC, neem dan contact met ons op voor de mogelijkheden.",
     "select-date-title": "Selecteer datum",
-    "accommodation-can-rich-you": "Zodat wij en de eigenaar van het jacht je kunnen bereiken"
+    "accommodation-can-rich-you": "Zodat wij en de eigenaar van het jacht je kunnen bereiken",
+    "book-now-specification": "Boek nu",
+    "someone-else": "Reservering is voor iemand anders",
+    "book-now-booking": "Boek nu",
+    "main-guest": "Ik ben de hoofdhuurder van het jacht."
 }
