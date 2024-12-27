@@ -1802,11 +1802,13 @@
     "personalize_your_booking_with_extras": "Gør din booking personlig med ekstraudstyr",
     "choose_extras": "Vælg ekstramateriale",
     "confirmation-email": "Bekræftelsesmailen går til denne adresse",
-    "almost-done": "Næsten færdig",
+    "almost-done": "Næsten klar, skipper!",
     "accommodation-can-rich-you": "Så vi og yachtejeren kan få fat i dig",
     "enter-your-details": "Indtast dine oplysninger",
     "best_price_on_the_market": "Bedste prisgaranti",
     "change_search": "Ændre dato",
     "basic-info": "Grundlæggende information",
-    "select-date-title": "Datoer"
+    "select-date-title": "Datoer",
+    "main-guest": "Jeg er hovedlejer af yachten.",
+    "someone-else": "Booking er til en anden"
 }
