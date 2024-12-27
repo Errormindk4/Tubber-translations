@@ -1798,5 +1798,9 @@
     "premium": "Premium",
     "partner": "Partner",
     "personalize_your_booking_with_extras": "Personalice su reserva con extras opcionales",
-    "choose_extras": "Elige los extras"
+    "choose_extras": "Elige los extras",
+    "confirmation-email": "El correo electrónico de confirmación se envía a esta dirección",
+    "accommodation-can-rich-you": "Para que nosotros y el propietario del yate podamos localizarte",
+    "someone-else": "La reserva es para otra persona",
+    "main-guest": "Soy el principal arrendatario del yate."
 }
