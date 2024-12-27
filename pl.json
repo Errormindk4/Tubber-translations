@@ -1795,12 +1795,18 @@
     "christmas-book": "Zarezerwuj przed 1 stycznia i wybieraj spośród najlepszych jachtów",
     "change_search": "Zmień datę",
     "payment-policies": "Warunki płatności",
-    "enter-your-details": "Wpisz swoje dane",
+    "enter-your-details": "Wprowadź swoje dane",
     "best_price_on_the_market": "Gwarancja najlepszej ceny",
     "including-taxes-and-charges": "W tym podatki i opłaty",
     "basic-info": "Podstawowe informacje",
     "select-date-title": "Wybierz datę",
     "price-includes": "Cena zawiera",
     "personalize_your_booking_with_extras": "Spersonalizuj swoją rezerwację za pomocą opcjonalnych dodatków",
-    "choose_extras": "Wybierz dodatki"
+    "choose_extras": "Wybierz dodatki",
+    "main-guest": "Jestem głównym najemcą jachtu.",
+    "someone-else": "Rezerwacja jest dla kogoś innego",
+    "book-now-specification": "Rezerwuj",
+    "accommodation-can-rich-you": "Abyśmy my i właściciel jachtu mogli się z Tobą skontaktować",
+    "book-now-booking": "Rezerwuj",
+    "confirmation-email": "Wiadomość e-mail z potwierdzeniem zostanie wysłana na ten adres"
 }
