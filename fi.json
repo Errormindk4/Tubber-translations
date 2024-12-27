@@ -1798,11 +1798,17 @@
     "price-includes": "Hintaan sisältyy",
     "reserve": "Varaus",
     "personalize_your_booking_with_extras": "Mukauta varauksesi valinnaisilla lisävarusteilla",
-    "enter-your-details": "Anna omat tietosi",
+    "enter-your-details": "Anna tietosi",
     "payment-policies": "Maksupolitiikka",
     "best_price_on_the_market": "Paras hintatakuu",
     "partner": "Kumppani",
     "premium": "Premium",
     "basic-info": "Perustiedot",
-    "select-date-title": "Valitse päivämäärä"
+    "select-date-title": "Valitse päivämäärä",
+    "confirmation-email": "Vahvistussähköposti lähetetään tähän osoitteeseen",
+    "accommodation-can-rich-you": "Jotta me ja jahdin omistaja voimme tavoittaa sinut...",
+    "book-now-specification": "Varaa nyt",
+    "someone-else": "Varaus on jollekin muulle",
+    "main-guest": "Olen jahdin päävuokraaja.",
+    "book-now-booking": "Varaa nyt"
 }
