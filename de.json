@@ -1846,5 +1846,11 @@
     "price-includes": "Im Preis enthalten",
     "change_search": "Datum ändern",
     "personalize_your_booking_with_extras": "Personalisieren Sie Ihre Buchung mit optionalen Extras",
-    "choose_extras": "Extras auswählen"
+    "choose_extras": "Extras auswählen",
+    "accommodation-can-rich-you": "So können wir und der Yachteigner Sie erreichen",
+    "main-guest": "Ich bin der Hauptmieter der Jacht.",
+    "book-now-specification": "Jetzt (Vor)Reservieren",
+    "someone-else": "Die Buchung ist für jemand anderen",
+    "book-now-booking": "Jetzt (Vor)Reservieren",
+    "confirmation-email": "Die Bestätigungs-E-Mail geht an diese Adresse"
 }
