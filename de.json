@@ -1841,5 +1841,8 @@
     "enter-your-details": "Tragen Sie Ihre Details ein",
     "best_price_on_the_market": "Bestpreisgarantie",
     "basic-info": "Grundlegende Informationen",
-    "select-date-title": "Datum"
+    "select-date-title": "Datum",
+    "payment-policies": "Zahlungsbedingungen",
+    "price-includes": "Im Preis enthalten",
+    "change_search": "Suche ändern"
 }
