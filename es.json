@@ -1788,11 +1788,13 @@
     "unbeatable-savings": "AHORA HASTA UN 40% DE DESCUENTO",
     "including-taxes-and-charges": "Impuestos y tasas incluidos",
     "change_search": "Cambiar búsqueda",
-    "payment-policies": "Política de pagos",
+    "payment-policies": "Condiciones y pagos",
     "price-includes": "El precio incluye",
     "reserve": "Reserva",
     "enter-your-details": "Introduce tus datos",
     "best_price_on_the_market": "Mejor precio garantizado",
     "basic-info": "Información básica",
-    "select-date-title": "Seleccionar fecha"
+    "select-date-title": "Seleccionar fecha",
+    "premium": "Premium",
+    "partner": "Partner"
 }
