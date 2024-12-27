@@ -1804,5 +1804,7 @@
     "personalize_your_booking_with_extras": "Anpassa din bokning med tillvalstjänster",
     "enter-your-details": "Fyll i dina uppgifter",
     "best_price_on_the_market": "Garanti för bästa pris",
-    "select-date-title": "Välj datum"
+    "select-date-title": "Välj datum",
+    "confirmation-email": "Bekräftelsemail skickas till denna adress",
+    "accommodation-can-rich-you": "Så att vi och båtägaren kan nå dig"
 }
