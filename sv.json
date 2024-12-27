@@ -1806,5 +1806,8 @@
     "best_price_on_the_market": "Garanti för bästa pris",
     "select-date-title": "Välj datum",
     "confirmation-email": "Bekräftelsemail skickas till denna adress",
-    "accommodation-can-rich-you": "Så att vi och båtägaren kan nå dig"
+    "accommodation-can-rich-you": "Så att vi och båtägaren kan nå dig",
+    "almost-done": "Nästan klar skeppare!",
+    "someone-else": "Bokningen är för någon annan",
+    "main-guest": "Jag är den huvudsakliga hyresgästen av båten."
 }
