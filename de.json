@@ -1130,7 +1130,7 @@
     "how-do-i-know-if-there-ar": "Was ist ein Transitlog?",
     "on-the-booking-page-you-c": "Ein Transit Log ist eine Standardgebühr, die die Steuern und Lizenzkosten abdeckt, die in der Marina direkt an die Chartergesellschaft zu zahlen sind. Es handelt sich um eine Gebühr, die je nach Yacht, Vercharterer und Land variiert und unabhängig davon, bei welchem Unternehmen Sie buchen, zu entrichten ist.",
     "how-do-i-pay-for-my-booki": "Wie bezahle ich meine Buchung?",
-    "to-pay-for-your-confirmed": "Um Ihre bestätigte Tubber-Buchung zu bezahlen, klicken Sie auf [Zahlung]. Sie können eine sichere Online-Zahlung über Adyen über Ihr bevorzugtes lokales Online-Bankkonto, SOFORT oder Ihre Kreditkarte vornehmen. Wenn Sie Ihre Buchung mehr als 60 Tage im Voraus bestätigen, können Sie in zwei oder mehr Raten zahlen: die erste Rate (30 % des Gesamtbetrags der Buchung) und die letzte Rate 60 Tage vor dem Check-in-Datum.",
+    "to-pay-for-your-confirmed": "Nach Erhalt eines Angebots oder bei der Online-Reservierung einer Yacht können Sie sicher mit Kreditkarte, SOFORT, Klarna oder per IBAN-Überweisung bezahlen. Wenn Sie früh buchen, ist eine Ratenzahlung möglich. Bei einer Last-Minute-Buchung muss der volle Betrag in der Regel auf einmal bezahlt werden. Bei Fragen zu den Zahlungsmöglichkeiten wenden Sie sich bitte an Ihren Tubber-Experten.",
     "why-can-i-not-call-or-ema": "Mit welchen Nebenkosten muss ich rechnen?",
     "to-guarantee-your-safety": "Alle Preise auf Tubber haben keine versteckten Kosten. Alle Yachten beinhalten eine Sealogy Charter Seal Versicherung, 24/7 Support und die obligatorischen lokalen Kosten.  Es sollte erwähnt werden, dass Treibstoff, Marina-Gebühren, Transferkosten (Taxi) und optionale Kosten (Skipper, Flottille, SUP, Wi-Fi, etc.) Gebühren sind nicht im Preis enthalten.",
     "do-you-still-have-questio": "Haben Sie noch Fragen?",
@@ -1863,5 +1863,6 @@
     "extras-compulsory": "Obligatorisch",
     "blue-deal-offer": "Bis zu 50% Rabatt",
     "reserve": "(Vor)Reservieren",
-    "check-out-by": "bis"
+    "check-out-by": "bis",
+    "check-in-from": "von"
 }
