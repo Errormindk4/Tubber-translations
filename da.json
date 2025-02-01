@@ -725,7 +725,7 @@
     "how-do-i-know-if-there-ar": "Hvad er en transitlog?",
     "on-the-booking-page-you-c": "En Transitlog er en standardomkostning, der dækker de skatter og licensomkostninger, der skal betales på marinaen direkte til charterselskabet. Det er et gebyr, der varierer afhængigt af yachten, charterselskabet samt landet, og som skal betales, uanset hvilket selskab du beslutter dig for at booke hos.",
     "how-do-i-pay-for-my-booki": "Hvordan betaler jeg for min booking?",
-    "to-pay-for-your-confirmed": "For at betale for din bekræftede Tubber-reservation skal du klikke på [Betaling]. Du kan foretage en sikker online betaling gennem Adyen med din lokale foretrukne online bankkonto eller kreditkort. Hvis du bekræfter din reservation mere end 60 dage i forvejen, vil du være i stand til at betale i to eller flere rater: første rate 30% af det samlede beløb for reservationen, og sidste rate 60 dage før check-in dato.",
+    "to-pay-for-your-confirmed": "Når du har modtaget et tilbud, eller når du booker en yacht online, kan du betale sikkert med kreditkort. Hvis du booker i god tid, er det muligt at betale i rater. Ved en last-minute-booking skal du som regel betale det fulde beløb på én gang. Har du spørgsmål til betalingsmulighederne, er du velkommen til at kontakte din Tubber-ekspert.",
     "why-can-i-not-call-or-ema": "Hvilke ekstra omkostninger kan jeg forvente?",
     "to-guarantee-your-safety": "Alle priser på Tubber har ikke skjulte omkostninger. Alle yachter inkluderer Sealogy Charter Seal, 24/7 support og forpligtede lokale omkostninger. Det skal nævnes, at gebyrer for brændstof, marinagebyrer, transferomkostninger (taxa) og valgfrie omkostninger (skipper, flotille, SUP, Wi-Fi osv.) ikke er inkluderet i prisen.",
     "the-yachts-are-ready-the": "Yachterne er klar, sejlene er rigget, udstyr kontrolleret, planer og passagerforslag, der venter på at blive brugt. Det eneste der mangler er dig.",
@@ -1820,5 +1820,7 @@
     "to-discover-top-special-offers": "Søg, find og book de bedste yachter på markedet.",
     "first-payment-only": "Kun første betaling",
     "extras-compulsory": "Påkrævet",
-    "blue-deal-offer": "Op til 50% rabat"
+    "blue-deal-offer": "Op til 50% rabat",
+    "check-in-from": "Fra kl.",
+    "check-out-by": "Til kl."
 }
