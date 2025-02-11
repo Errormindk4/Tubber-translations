@@ -1703,7 +1703,7 @@
     "min_sec": "seg",
     "genoa-type": "Foque",
     "invalid_email": "Parece que tu correo electrónico no es válido",
-    "--bnr-link--spring": "https://www.tubber.com/es/registration-form/?intcamp_topbar=credits",
+    "--bnr-link--spring": "https://www.tubber.com/es/registration-form/?utm_source=website&utm_medium=banner&utm_campaign=singupcredits_uk",
     "available-online": "Disponible",
     "boat-not-available-any-more": "Este yate ya no está disponible.",
     "invalid_phone": "El número de teléfono es incorrecto.",
