@@ -1717,7 +1717,7 @@
     "boat-not-available-any-more": "Denne yacht er ikke længere tilgængelig.",
     "invalid_phone": "Telefonnummeret er forkert.",
     "sorry": "Undskyld",
-    "premium-boat-first": "Premium",
+    "premium-boat-first": "Vores favoritter",
     "explore-open-positions": "Se alle job",
     "freelance": "Freelance",
     "careers-new": "Sæt sejl på dit næste eventyr, bliv en del af Tubber-teamet!",
@@ -1739,7 +1739,7 @@
     "social-networks": "Socialt netværk",
     "work-title": "Jobtitel",
     "linkedin": "Linkedin",
-    "assigned-recruiter": "Tildelt rekrutteringsmedarbejder",
+    "assigned-recruiter": "Udpeget rekrutteringsmedarbejder",
     "facebook": "Facebook",
     "required-skills": "Nødvendige færdigheder",
     "pre-screening-assessment": "Vurdering før screening",
@@ -1826,5 +1826,9 @@
     "rated-companies": "Premium & Elite",
     "elite-partner": "Elite-partner",
     "premium-partner": "Premium-partner",
-    "flash-deal": "Kun online-tilbud"
+    "flash-deal": "Kun online-tilbud",
+    "elite-company-popup": "Alle Premium-fordele plus eksklusive frynsegoder som mere fleksible afbestillingsbetingelser, gratis påhængsmotor, prioriteret boarding og tidlig check-in, når det er muligt.",
+    "premium-company-popup": "De bedst bedømte yachter (4+ stjerner) med fremragende service og bedre betalingsbetingelser.",
+    "company-status": "Virksomhedens status",
+    "elite": "Elite"
 }
