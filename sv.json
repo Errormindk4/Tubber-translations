@@ -1717,7 +1717,7 @@
     "boat-not-available-any-more": "Denna yacht är inte längre tillgänglig.",
     "invalid_phone": "Telefonnummeret är felaktigt.",
     "sorry": "Förlåt",
-    "premium-boat-first": "Premium",
+    "premium-boat-first": "Våra Toppval",
     "explore-open-positions": "Se alla jobb",
     "freelance": "Frilansare",
     "careers-new": "Sätt segel på ditt nästa äventyr, gå med i Tubber-teamet!",
@@ -1823,5 +1823,9 @@
     "rated-companies": "Premium & Elite",
     "elite-partner": "Elitpartner",
     "premium-partner": "Premium-partner",
-    "flash-deal": "Erbjudande endast online"
+    "flash-deal": "Erbjudande endast online",
+    "company-status": "Företagets status",
+    "elite": "Elit",
+    "premium-company-popup": "De bäst rankade båtarna (4+ stjärnor) med utmärkt service och bättre betalningsvillkor.",
+    "elite-company-popup": "Alla Premium-förmåner, plus exklusiva förmåner som flexiblare avbokningsvillkor, gratis utombordare, prioriterad ombordstigning och tidig incheckning när det är möjligt."
 }
