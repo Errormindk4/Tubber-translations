@@ -1708,7 +1708,7 @@
     "boat-not-available-any-more": "Este yate ya no está disponible.",
     "invalid_phone": "El número de teléfono es incorrecto.",
     "sorry": "Lo siento",
-    "premium-boat-first": "Premium",
+    "premium-boat-first": "Nuestros destacados",
     "explore-open-positions": "Ver todos los empleos",
     "freelance": "Autónomo",
     "careers-new": "Embárcate en tu próxima aventura, ¡únete al equipo Tubber!",
@@ -1817,5 +1817,9 @@
     "rated-companies": "Premium & Elite",
     "elite-partner": "Socio de élite",
     "premium-partner": "Socio Premium",
-    "flash-deal": "Oferta en línea"
+    "flash-deal": "Oferta en línea",
+    "elite-company-popup": "Todas las ventajas Premium, además de beneficios exclusivos como condiciones de cancelación más flexibles, embarque prioritario y check-in anticipado cuando sea posible.",
+    "premium-company-popup": "Los yates mejor valorados (4+ estrellas) con un servicio excelente y mejores condiciones de pago.",
+    "company-status": "Situación de la empresa",
+    "elite": "Elite"
 }
