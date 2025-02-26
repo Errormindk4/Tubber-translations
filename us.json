@@ -1719,7 +1719,7 @@
     "boat-not-available-any-more": "This yacht is not available anymore",
     "invalid_phone": "The phone number is incorrect.",
     "sorry": "Sorry",
-    "premium-boat-first": "Premium",
+    "premium-boat-first": "Our top picks",
     "explore-open-positions": "See all Jobs",
     "freelance": "Freelance",
     "careers-new": "Set sail on your next adventure, join the Tubber team!",
@@ -1828,5 +1828,9 @@
     "rated-companies": "Premium & Elite",
     "elite-partner": "Elite partner",
     "premium-partner": "Premium partner",
-    "flash-deal": "Online-only offer"
+    "flash-deal": "Online-only offer",
+    "elite-company-popup": "All Premium benefits, plus exclusive perks like more flexible cancellation terms, free outboard, priority boarding and early check-in when possible.",
+    "premium-company-popup": "The best-rated yachts (4+ stars) with excellent service and better payment terms.",
+    "company-status": "Company status",
+    "elite": "Elite"
 }
