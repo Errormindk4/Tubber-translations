@@ -1721,7 +1721,7 @@
     "invalid_phone": "Le numéro de téléphone est incorrect.",
     "sorry": "Désolé",
     "payed-by": "Payé par",
-    "premium-boat-first": "Premium",
+    "premium-boat-first": "Nos préférés",
     "explore-open-positions": "Voir tous les emplois",
     "freelance": "Freelance",
     "careers-new": "Embarquez pour votre prochaine aventure, rejoignez l'équipe Tubber !",
@@ -1828,5 +1828,10 @@
     "rated-companies": "Premium & Elite",
     "elite-partner": "Partenaire d'élite",
     "premium-partner": "Partenaire Premium",
-    "flash-deal": "Offre en ligne"
+    "flash-deal": "Offre en ligne",
+    "elite-company-popup": "Tous les avantages Premium, plus des avantages exclusifs tels que des conditions d'annulation plus souples, la gratuité du hors-bord, l'embarquement prioritaire et l'enregistrement anticipé lorsque c'est possible.",
+    "premium-company-popup": "Les yachts les mieux notés (4+ étoiles) avec un excellent service et de meilleures conditions de paiement.",
+    "check-in-from": "de",
+    "company-status": "Statut de l'entreprise",
+    "elite": "Elite"
 }
