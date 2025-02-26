@@ -1717,7 +1717,7 @@
     "boat-not-available-any-more": "Ta jacht nie jest już dostępna.",
     "invalid_phone": "Numer telefonu jest nieprawidłowy.",
     "sorry": "Przepraszam",
-    "premium-boat-first": "Premium",
+    "premium-boat-first": "Wybrane przez nas",
     "explore-open-positions": "Zobacz wszystkie oferty pracy",
     "freelance": "Wolny strzelec",
     "careers-new": "Wyrusz na kolejną przygodę, dołącz do zespołu Tubber!",
@@ -1822,5 +1822,9 @@
     "rated-companies": "Premium & Elite",
     "elite-partner": "Elitarny partner",
     "premium-partner": "Partner premium",
-    "flash-deal": "Oferta tylko online"
+    "flash-deal": "Oferta tylko online",
+    "premium-company-popup": "Najlepiej oceniane jachty (4+ gwiazdki) z doskonałą obsługą i lepszymi warunkami płatności.",
+    "company-status": "Status firmy",
+    "elite": "Elita",
+    "elite-company-popup": "Wszystkie korzyści Premium, a także ekskluzywne przywileje, takie jak bardziej elastyczne warunki anulowania rezerwacji, bezpłatne wejście na pokład, pierwszeństwo wejścia na pokład i wcześniejsze zameldowanie, jeśli to możliwe."
 }
