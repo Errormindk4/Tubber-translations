@@ -1707,7 +1707,7 @@
     "boat-not-available-any-more": "Este iate não está mais disponível.",
     "invalid_phone": "O número de telefone está incorreto.",
     "sorry": "Desculpe",
-    "premium-boat-first": "Premium",
+    "premium-boat-first": "As nossas principais escolhas",
     "explore-open-positions": "Ver todos os empregos",
     "freelance": "Freelance",
     "careers-new": "Parta para a sua próxima aventura, junte-se à equipa Tubber!",
@@ -1814,5 +1814,8 @@
     "rated-companies": "Premium & Elite",
     "elite-partner": "Parceiro de elite",
     "premium-partner": "Parceiro Premium",
-    "flash-deal": "Oferta apenas em linha"
+    "flash-deal": "Oferta apenas em linha",
+    "premium-company-popup": "Os iates mais bem classificados (4+ estrelas) com um excelente serviço e melhores condições de pagamento.",
+    "elite-company-popup": "Todas as vantagens Premium, para além de vantagens exclusivas, como condições de cancelamento mais flexíveis, saída de bordo gratuita, embarque prioritário e check-in antecipado, quando possível.",
+    "elite": "Elite"
 }
