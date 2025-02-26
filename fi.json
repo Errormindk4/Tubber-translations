@@ -1717,7 +1717,7 @@
     "boat-not-available-any-more": "Tämä jahti ei ole enää saatavilla.",
     "invalid_phone": "Puhelinnumero on virheellinen.",
     "sorry": "Anteeksi",
-    "premium-boat-first": "Premium",
+    "premium-boat-first": "Suosikkimme",
     "explore-open-positions": "Katso kaikki työpaikat",
     "freelance": "Freelance",
     "careers-new": "Lähde seuraavaan seikkailuun, liity Tubber-tiimiin!",
@@ -1822,6 +1822,10 @@
     "blue-deal-offer": "Jopa 50% pois",
     "rated-companies": "Premium & Elite",
     "elite-partner": "Elite-kumppani",
-    "premium-partner": "Premium-kumppani",
-    "flash-deal": "Vain verkossa oleva tarjous"
+    "premium-partner": "Premium partner",
+    "flash-deal": "Vain verkossa oleva tarjous",
+    "elite-company-popup": "Kaikki Premium-edut sekä eksklusiiviset etuudet, kuten joustavammat peruutusehdot, ilmainen perämatka, etuoikeus lennolle ja aikainen sisäänkirjautuminen mahdollisuuksien mukaan.",
+    "premium-company-popup": "Parhaiten luokitellut jahdit (4+ tähteä), joilla on erinomainen palvelu ja paremmat maksuehdot.",
+    "company-status": "Yrityksen asema",
+    "elite": "Elite"
 }
