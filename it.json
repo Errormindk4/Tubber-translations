@@ -1717,7 +1717,7 @@
     "boat-not-available-any-more": "Questo yacht non è più disponibile.",
     "invalid_phone": "Il numero di telefono è errato.",
     "sorry": "Mi dispiace",
-    "premium-boat-first": "Premium",
+    "premium-boat-first": "Le nostre scelte top",
     "confirmed": "confermato",
     "your-booking-is-confirmed": "la prenotazione è confermata",
     "sign-in-save-money": "Accedi e proteggi le tue prestazioni",
@@ -1827,5 +1827,9 @@
     "rated-companies": "Premium & Elite",
     "elite-partner": "Partner d'élite",
     "premium-partner": "Partner Premium",
-    "flash-deal": "Offerta solo online"
+    "flash-deal": "Offerta solo online",
+    "premium-company-popup": "Gli yacht meglio classificati (4+ stelle) con un servizio eccellente e migliori condizioni di pagamento.",
+    "elite-company-popup": "Tutti i vantaggi Premium, oltre a vantaggi esclusivi come termini di cancellazione più flessibili, imbarco gratuito, imbarco prioritario e check-in anticipato quando possibile.",
+    "elite": "Elite",
+    "company-status": "Stato dell'azienda"
 }
