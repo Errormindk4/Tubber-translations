@@ -1889,7 +1889,7 @@
     "search-blogs": "Zoek op onderwerp",
     "the-best-yachts-of-the": "De beste jachten in",
     "to-discover-top-special-offers": "Zoek, vind en boek de beste beschikbare jachten.",
-    "first-payment-only": "Alleen eerste betaling",
+    "first-payment-only": "Aanbetaling slechts",
     "extras-compulsory": "Verplicht",
     "blue-deal-offer": "Tot wel 50% korting",
     "check-in-from": "vanaf",
@@ -1909,5 +1909,7 @@
     "get-your-personal-quote": "Ontvang je persoonlijke offerte",
     "sailing-with-skipper": "Zeilen met schipper",
     "sailing-holidays": "Zeilvakanties",
-    "SHOW_STICKY_BAR_ON_BOAT_PAGE_DESKTOP": "on"
+    "SHOW_STICKY_BAR_ON_BOAT_PAGE_DESKTOP": "on",
+    "no-refund-booking": "Niet-terugbetaalbaar",
+    "pay-online": "Alleen online"
 }
