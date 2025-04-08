@@ -1839,5 +1839,7 @@
     "get-your-personal-quote": "Pyydä henkilökohtainen tarjouksesi",
     "sailing-holidays": "Purjehdus Lomat",
     "sailing-with-skipper": "Purjehdus kipparin kanssa",
-    "SHOW_STICKY_BAR_ON_BOAT_PAGE_DESKTOP": "on"
+    "SHOW_STICKY_BAR_ON_BOAT_PAGE_DESKTOP": "on",
+    "no-refund-booking": "Maksua ei palauteta",
+    "pay-online": "Vain verkossa"
 }
