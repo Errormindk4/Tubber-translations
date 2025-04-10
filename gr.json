@@ -1832,5 +1832,7 @@
     "SHOW_STICKY_BAR_ON_BOAT_PAGE_DESKTOP": "on",
     "no-refund-booking": "Μη επιστρέψιμη τιμή",
     "pay-online": "Μόνο online",
-    "full-payment-only": "Πλήρης πληρωμή"
+    "full-payment-only": "Πλήρης πληρωμή",
+    "book-a-transfer": "Κάντε κράτηση μεταφοράς",
+    "book-your-transfer-text": "Κάντε κράτηση για τη μεταφορά σας από και προς το αεροδρόμιο ή το λιμάνι με λίγα μόνο βήματα!"
 }
