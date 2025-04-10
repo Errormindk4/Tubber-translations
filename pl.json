@@ -1841,5 +1841,7 @@
     "SHOW_STICKY_BAR_ON_BOAT_PAGE_DESKTOP": "on",
     "no-refund-booking": "Oferta bezzwrotna",
     "pay-online": "Tylko online",
-    "full-payment-only": "Pełna płatność"
+    "full-payment-only": "Pełna płatność",
+    "book-a-transfer": "Zarezerwuj taksówkę lotniskową",
+    "book-your-transfer-text": "Zarezerwuj przejazd z i na lotnisko lub do portu w zaledwie kilku krokach!"
 }
