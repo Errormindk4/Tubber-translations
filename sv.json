@@ -1883,5 +1883,8 @@
     "pay-online": "Endast online",
     "full-payment-only": "Full betalning",
     "book-a-transfer": "Boka flygtaxi",
-    "book-your-transfer-text": "Boka din resa till och från flygplatsen eller hamnen på bara några steg!"
+    "book-your-transfer-text": "Boka din resa till och från flygplatsen eller hamnen på bara några steg!",
+    "SHOW_STICKY_BAR_ON_BOAT_PAGE_DESKTOP": "på",
+    "book-your-transfer": "Boka din hamn- och flygplatstransfer",
+    "rent-best-rated-bareboats": "Hyr bareboat med bästa betyg"
 }
