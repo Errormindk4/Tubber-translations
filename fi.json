@@ -1842,5 +1842,7 @@
     "SHOW_STICKY_BAR_ON_BOAT_PAGE_DESKTOP": "on",
     "no-refund-booking": "Maksua ei palauteta",
     "pay-online": "Vain verkossa",
-    "full-payment-only": "Täysi maksu"
+    "full-payment-only": "Täysi maksu",
+    "book-a-transfer": "Varaa lentokenttätaksi",
+    "book-your-transfer-text": "Varaa kyyti lentokentälle tai satamaan ja takaisin vain muutamalla askeleella!"
 }
