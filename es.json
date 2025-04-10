@@ -1836,5 +1836,7 @@
     "SHOW_STICKY_BAR_ON_BOAT_PAGE_DESKTOP": "on",
     "no-refund-booking": "No reembolsable",
     "pay-online": "Sólo en línea",
-    "full-payment-only": "Pago completo"
+    "full-payment-only": "Pago completo",
+    "book-a-transfer": "Reserva un taxi desde o al aeropuerto",
+    "book-your-transfer-text": "Reserve su transporte desde y hacia el aeropuerto o el puerto en unos pocos pasos."
 }
