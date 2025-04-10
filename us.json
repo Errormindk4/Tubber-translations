@@ -1847,5 +1847,7 @@
     "SHOW_STICKY_BAR_ON_BOAT_PAGE_DESKTOP": "on",
     "no-refund-booking": "Non-refundable",
     "pay-online": "Online only",
-    "full-payment-only": "Full payment"
+    "full-payment-only": "Full payment",
+    "book-a-transfer": "Book a transfer",
+    "book-your-transfer-text": "Book your ride to and from the airport or port in just a few steps!"
 }
