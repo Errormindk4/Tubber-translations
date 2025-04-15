@@ -1891,5 +1891,6 @@
     "pay-online": "Online only",
     "book-a-transfer": "Book a transfer",
     "book-your-transfer": "Book your port & airport transfer",
-    "book-your-transfer-text": "Book your ride to and from the airport or port in just a few steps!"
+    "book-your-transfer-text": "Book your ride to and from the airport or port in just a few steps!",
+    "search-input-selected": "Already chosen"
 }
