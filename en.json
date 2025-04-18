@@ -1892,5 +1892,9 @@
     "book-a-transfer": "Book a transfer",
     "book-your-transfer": "Book your port & airport transfer",
     "book-your-transfer-text": "Book your ride to and from the airport or port in just a few steps!",
-    "search-input-selected": "Already chosen"
+    "search-input-selected": "Already chosen",
+    "upload-your-photos": "Add photos to your review",
+    "upload-your-photos-explanation": "Your photos contribute to helping others make the right decisions for their sailing holidays. Add maximum 10 photos",
+    "add-boat-photos": "Add boat photos",
+    "drag-and-drop-your-photos-here": "Drag and drop your photos here"
 }
