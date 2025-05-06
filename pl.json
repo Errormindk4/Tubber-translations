@@ -1886,5 +1886,11 @@
     "boat_rental_cost_factors_budget_flexibility": "Jeśli chodzi o budżet, koszt wynajmu łodzi z przyjaciółmi i rodziną może być tak elastyczny, jak tylko chcesz. Średnio ceny wahają się od 300 do 1200 euro za osobę za tydzień, ale liczby te mogą się znacznie różnić w zależności od czynników, takich jak rodzaj łodzi, daty rejsu i wybrane miejsce docelowe. Wybór poza szczytem sezonu, na przykład poza lipcem i sierpniem, może prowadzić do znacznych oszczędności. ",
     "cost_hiring_professional_skipper_additional": "Należy pamiętać, że koszt wynajęcia profesjonalnego skipera jest zwykle dodatkowy, więc warto porozmawiać bezpośrednio z właścicielem, aby to potwierdzić. Należy również zauważyć, że łodzie są zwykle wynajmowane na tydzień, a ceny mogą się różnić w zależności od sezonu.",
     "rent_sailing_yacht_catamaran_with_without_skipper": "Wynajem jachtu żaglowego lub katamaranu ze skipperem lub bez, motorówki lub innego rodzaju łodzi",
-    "rent-best-rated-bareboats": "Wynajem najlepiej ocenianych łodzi bez załogi"
+    "rent-best-rated-bareboats": "Wynajem najlepiej ocenianych łodzi bez załogi",
+    "search-input-selected": "Już wybrany",
+    "add-boat-photos": "Dodaj zdjęcia łodzi",
+    "drag-and-drop-your-photos-here": "Przeciągnij i upuść zdjęcia tutaj",
+    "upload-your-photos": "Dodaj zdjęcia do recenzji",
+    "search-input-can-select-only-{count}-locations": "Można wybrać tylko {count} miejsc docelowych",
+    "upload-your-photos-explanation": "Twoje zdjęcia pomagają innym w podejmowaniu właściwych decyzji dotyczących wakacji pod żaglami. Dodaj maksymalnie 10 zdjęć"
 }
