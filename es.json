@@ -1886,5 +1886,11 @@
     "boat_rental_cost_factors_budget_flexibility": "Cuando se trata de presupuestos, el coste de alquilar un barco con amigos y familiares puede ser tan flexible como se desee. Por término medio, los precios suelen oscilar entre 300 y 1200 € por persona y semana, pero estas cifras pueden variar considerablemente en función de factores como el tipo de barco, las fechas de navegación y el destino elegido. Optar por temporadas bajas, como fuera de julio y agosto, puede suponer un ahorro considerable. ",
     "cost_hiring_professional_skipper_additional": "Tenga en cuenta que el coste de contratar los servicios de un patrón profesional suele ser adicional, por lo que merece la pena hablar directamente con el propietario para confirmarlo. También hay que tener en cuenta que los barcos suelen alquilarse por semanas y los precios también pueden variar en función de la temporada.",
     "rent_sailing_yacht_catamaran_with_without_skipper": "Alquilar un velero o catamarán con o sin patrón, lancha motora u otro tipo de embarcación",
-    "rent-best-rated-bareboats": "Alquilar los barcos sin tripulación mejor valorados"
+    "rent-best-rated-bareboats": "Alquilar los barcos sin tripulación mejor valorados",
+    "upload-your-photos-explanation": "Tus fotos contribuyen a ayudar a otros a tomar las decisiones correctas para sus vacaciones en velero. Añadir un máximo de 10 fotos",
+    "add-boat-photos": "Añadir fotos de barcos",
+    "drag-and-drop-your-photos-here": "Arrastre y suelte sus fotos aquí",
+    "search-input-can-select-only-{count}-locations": "Sólo puede seleccionar {count} destinos",
+    "upload-your-photos": "Añada fotos a su comentario",
+    "search-input-selected": "Ya elegido"
 }
