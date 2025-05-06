@@ -1886,5 +1886,11 @@
     "can_you_rent_boat_without_license": "Kan man leje en båd uden licens?",
     "boat_rental_suit_every_budget": "Bådudlejning til ethvert budget",
     "rent_sailing_yacht_catamaran_with_without_skipper": "Lej en sejlbåd eller katamaran med eller uden skipper, motorbåd eller en anden bådtype",
-    "rent-best-rated-bareboats": "Lej de bedste bareboats"
+    "rent-best-rated-bareboats": "Lej de bedste bareboats",
+    "upload-your-photos-explanation": "Dine fotos bidrager til at hjælpe andre med at træffe de rigtige beslutninger for deres sejlerferie. Tilføj maksimalt 10 fotos",
+    "add-boat-photos": "Tilføj billeder af båden",
+    "drag-and-drop-your-photos-here": "Træk og slip dine fotos her",
+    "search-input-can-select-only-{count}-locations": "Du kan kun vælge {count} destinationer",
+    "search-input-selected": "Allerede valgt",
+    "upload-your-photos": "Tilføj fotos til din anmeldelse"
 }
