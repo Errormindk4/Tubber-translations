@@ -1886,5 +1886,11 @@
     "can_you_rent_boat_without_license": "Si può noleggiare una barca senza patente?",
     "boat_rental_suit_every_budget": "Noleggio barche per tutte le tasche",
     "rent_sailing_yacht_catamaran_with_without_skipper": "Noleggiare una barca a vela o un catamarano con o senza skipper, un motoscafo o un altro tipo di imbarcazione",
-    "rent-best-rated-bareboats": "Noleggio delle migliori barche a scafo nudo"
+    "rent-best-rated-bareboats": "Noleggio delle migliori barche a scafo nudo",
+    "search-input-selected": "Già scelto",
+    "add-boat-photos": "Aggiungi foto della barca",
+    "drag-and-drop-your-photos-here": "Trascinate qui le vostre foto",
+    "upload-your-photos": "Aggiungi foto alla tua recensione",
+    "search-input-can-select-only-{count}-locations": "È possibile selezionare solo {count} destinazioni",
+    "upload-your-photos-explanation": "Le vostre foto contribuiscono ad aiutare gli altri a prendere le decisioni giuste per le loro vacanze in barca a vela. Aggiungi un massimo di 10 foto"
 }
