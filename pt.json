@@ -1887,5 +1887,11 @@
     "cost_hiring_professional_skipper_additional": "Tenha em conta que o custo da contratação dos serviços de um skipper profissional é geralmente adicional, pelo que vale a pena falar diretamente com o proprietário para confirmar. É também de salientar que os barcos são normalmente alugados à semana e os preços podem também variar consoante a época.",
     "rent_sailing_yacht_catamaran_with_without_skipper": "Alugar um iate à vela ou um catamarã com ou sem skipper, um barco a motor ou outro tipo de barco",
     "rent-best-rated-bareboats": "Aluguer de bareboats com a melhor classificação",
-    "company-status": "Estatuto da empresa"
+    "company-status": "Estatuto da empresa",
+    "search-input-selected": "Já escolhido",
+    "upload-your-photos-explanation": "As suas fotografias contribuem para ajudar os outros a tomar as decisões certas para as suas férias à vela. Adicionar no máximo 10 fotos",
+    "add-boat-photos": "Adicionar fotografias do barco",
+    "drag-and-drop-your-photos-here": "Arraste e largue as suas fotografias aqui",
+    "upload-your-photos": "Adicionar fotografias à sua avaliação",
+    "search-input-can-select-only-{count}-locations": "Só é possível selecionar {count} destinos"
 }
