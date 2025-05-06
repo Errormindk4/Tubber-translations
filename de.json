@@ -1927,5 +1927,11 @@
     "boat_rental_cost_factors_budget_flexibility": "Was das Budget angeht, so können die Kosten für das Mieten eines Bootes mit Freunden und Familie so flexibel sein, wie Sie es wünschen. Im Durchschnitt liegen die Preise zwischen 300 und 1200 € pro Person und Woche, aber diese Zahlen können je nach Bootstyp, Fahrdaten und gewähltem Reiseziel erheblich variieren. Wenn Sie sich für die Nebensaison entscheiden, z. B. außerhalb der Monate Juli und August, können Sie erhebliche Einsparungen erzielen. ",
     "cost_hiring_professional_skipper_additional": "Beachten Sie, dass die Kosten für die Anmietung eines professionellen Skippers in der Regel zusätzlich anfallen. Es lohnt sich also, direkt mit dem Eigentümer zu sprechen, um dies zu bestätigen. Es sollte auch beachtet werden, dass die Boote in der Regel wochenweise vermietet werden und die Preise je nach Saison variieren können.",
     "rent_sailing_yacht_catamaran_with_without_skipper": "Mieten Sie eine Segelyacht oder einen Katamaran mit oder ohne Skipper, ein Motorboot oder einen anderen Bootstyp.",
-    "rent-best-rated-bareboats": "Mieten Sie die am besten bewerteten Bareboats"
+    "rent-best-rated-bareboats": "Mieten Sie die am besten bewerteten Bareboats",
+    "upload-your-photos-explanation": "Ihre Fotos tragen dazu bei, anderen zu helfen, die richtigen Entscheidungen für ihren Segelurlaub zu treffen. Maximal 10 Fotos hinzufügen",
+    "add-boat-photos": "Bootsfotos hinzufügen",
+    "drag-and-drop-your-photos-here": "Ziehen Sie Ihre Fotos hierher und legen Sie sie ab",
+    "upload-your-photos": "Fotos zu Ihrer Bewertung hinzufügen",
+    "search-input-can-select-only-{count}-locations": "Sie können nur {count} Ziele auswählen",
+    "search-input-selected": "Bereits ausgewählt"
 }
