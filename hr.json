@@ -1826,5 +1826,7 @@
     "SHOW_STICKY_BAR_ON_BOAT_PAGE_DESKTOP": "on",
     "no-refund-booking": "Bez povrata novca",
     "book-a-transfer": "Rezervirajte svoj transfer",
-    "digital-flotilla": "Digital Flotilla"
+    "digital-flotilla": "Digital Flotilla",
+    "search-input-selected": "Već odabrano",
+    "search-input-can-select-only-{count}-locations": "Možete odabrati samo {count} odredišta"
 }
