@@ -1886,5 +1886,11 @@
     "book-your-transfer-text": "Boka din resa till och från flygplatsen eller hamnen på bara några steg!",
     "SHOW_STICKY_BAR_ON_BOAT_PAGE_DESKTOP": "på",
     "book-your-transfer": "Boka din hamn- och flygplatstransfer",
-    "rent-best-rated-bareboats": "Hyr bareboat med bästa betyg"
+    "rent-best-rated-bareboats": "Hyr bareboat med bästa betyg",
+    "search-input-selected": "Redan valt",
+    "add-boat-photos": "Lägg till båtfoton",
+    "drag-and-drop-your-photos-here": "Dra och släpp dina foton här",
+    "search-input-can-select-only-{count}-locations": "Du kan bara välja {count} destinationer",
+    "upload-your-photos": "Lägg till foton i din recension",
+    "upload-your-photos-explanation": "Dina bilder bidrar till att hjälpa andra att fatta rätt beslut för sin segelsemester. Lägg till max 10 foton"
 }
