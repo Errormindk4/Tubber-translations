@@ -1844,5 +1844,11 @@
     "pay-online": "Vain verkossa",
     "full-payment-only": "Täysi maksu",
     "book-a-transfer": "Varaa lentokenttätaksi",
-    "book-your-transfer-text": "Varaa kyyti lentokentälle tai satamaan ja takaisin vain muutamalla askeleella!"
+    "book-your-transfer-text": "Varaa kyyti lentokentälle tai satamaan ja takaisin vain muutamalla askeleella!",
+    "add-boat-photos": "Lisää venekuvia",
+    "search-input-can-select-only-{count}-locations": "Voit valita vain {count} kohteita",
+    "drag-and-drop-your-photos-here": "Vedä ja pudota valokuvasi tänne",
+    "upload-your-photos": "Lisää kuvia arvosteluun",
+    "search-input-selected": "Jo valittu",
+    "upload-your-photos-explanation": "Valokuvasi auttavat muita tekemään oikeita päätöksiä purjehduslomiaan varten. Lisää enintään 10 valokuvaa"
 }
