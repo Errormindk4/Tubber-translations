@@ -1886,5 +1886,11 @@
     "boat_rental_suit_every_budget": "Location de bateaux pour tous les budgets",
     "rent_boat_without_license_conditions": "Oui, la location d'un bateau ou d'un yacht sans permis bateau est possible dans certains pays sous certaines conditions. Si vous ne pouvez pas naviguer vous-même, mais souhaitez passer vos vacances sur un yacht, vous pouvez louer un voilier ou un catamaran avec un skipper expérimenté.",
     "rent_sailing_yacht_catamaran_with_without_skipper": "Location d'un voilier ou d'un catamaran avec ou sans skipper, d'un bateau à moteur ou d'un autre type de bateau",
-    "rent-best-rated-bareboats": "Louer les meilleurs bateaux sans équipage"
+    "rent-best-rated-bareboats": "Louer les meilleurs bateaux sans équipage",
+    "upload-your-photos-explanation": "Vos photos contribuent à aider d'autres personnes à prendre les bonnes décisions pour leurs vacances en mer. Ajouter 10 photos maximum",
+    "add-boat-photos": "Ajouter des photos du bateau",
+    "search-input-can-select-only-{count}-locations": "Vous ne pouvez sélectionner que {count} destinations",
+    "upload-your-photos": "Ajouter des photos à votre avis",
+    "drag-and-drop-your-photos-here": "Glissez-déposez vos photos ici",
+    "search-input-selected": "Déjà choisi"
 }
