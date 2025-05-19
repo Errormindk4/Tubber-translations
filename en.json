@@ -1897,5 +1897,13 @@
     "upload-your-photos-explanation": "Your photos contribute to helping others make the right decisions for their sailing holidays. Add maximum 10 photos",
     "add-boat-photos": "Add boat photos",
     "drag-and-drop-your-photos-here": "Drag and drop your photos here",
-    "search-input-can-select-only-{count}-locations": "You can select only {count} destinations"
+    "search-input-can-select-only-{count}-locations": "You can select only {count} destinations",
+    "no-refund": "Non-refundable",
+    "if-cancelled-before-{percentage}": "The cancellation fee is {percentage}% from the total price if you cancel your reservation before",
+    "entertaiment": "Entertainment and Electronics",
+    "saloon": "Saloon and cabins",
+    "safety": "Navigation and safety",
+    "if-cancelled-after": "The cancellation fee is 100% after",
+    "people-also-interested": "people are also interested",
+    "information-about-marina": "Information about the marina"
 }
