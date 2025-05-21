@@ -1892,5 +1892,14 @@
     "drag-and-drop-your-photos-here": "Przeciągnij i upuść zdjęcia tutaj",
     "upload-your-photos": "Dodaj zdjęcia do recenzji",
     "search-input-can-select-only-{count}-locations": "Można wybrać tylko {count} miejsc docelowych",
-    "upload-your-photos-explanation": "Twoje zdjęcia pomagają innym w podejmowaniu właściwych decyzji dotyczących wakacji pod żaglami. Dodaj maksymalnie 10 zdjęć"
+    "upload-your-photos-explanation": "Twoje zdjęcia pomagają innym w podejmowaniu właściwych decyzji dotyczących wakacji pod żaglami. Dodaj maksymalnie 10 zdjęć",
+    "if-cancelled-before-{percentage}": "A taxa de cancelamento é de {percentage}% do valor total se cancelares a tua reserva antes",
+    "saloon": "Salon i kabiny",
+    "safety": "Nawigacja i bezpieczeństwo",
+    "entertaiment": "Rozrywka i elektronika",
+    "if-cancelled-after": "Opłata za anulowanie wynosi 100% po",
+    "yacht-pickup": "Odbiór jachtu",
+    "people-also-interested": "ludzie są również zainteresowani",
+    "no-refund": "Oferta bezzwrotna",
+    "information-about-marina": "Informacje o przystani"
 }
