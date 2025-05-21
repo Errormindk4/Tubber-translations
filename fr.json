@@ -1892,5 +1892,14 @@
     "search-input-can-select-only-{count}-locations": "Vous ne pouvez sélectionner que {count} destinations",
     "upload-your-photos": "Ajouter des photos à votre avis",
     "drag-and-drop-your-photos-here": "Glissez-déposez vos photos ici",
-    "search-input-selected": "Déjà choisi"
+    "search-input-selected": "Déjà choisi",
+    "no-refund": "Non remboursable",
+    "saloon": "Salon et cabines",
+    "if-cancelled-after": "Les frais d'annulation sont de 100 % après",
+    "information-about-marina": "Informations sur le port de plaisance",
+    "yacht-pickup": "Prise en charge du bateau",
+    "safety": "Navigation et sécurité",
+    "if-cancelled-before-{percentage}": "Les frais d’annulation s’élèvent à {percentage}% du prix total si vous annulez votre réservation avant",
+    "people-also-interested": "Les gens sont également intéressés",
+    "entertaiment": "Divertissement et électronique"
 }
