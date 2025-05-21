@@ -1893,5 +1893,14 @@
     "add-boat-photos": "Adicionar fotografias do barco",
     "drag-and-drop-your-photos-here": "Arraste e largue as suas fotografias aqui",
     "upload-your-photos": "Adicionar fotografias à sua avaliação",
-    "search-input-can-select-only-{count}-locations": "Só é possível selecionar {count} destinos"
+    "search-input-can-select-only-{count}-locations": "Só é possível selecionar {count} destinos",
+    "no-refund": "Não reembolsável",
+    "if-cancelled-before-{percentage}": "A taxa de cancelamento é de {percentage}% do valor total se cancelares a tua reserva antes",
+    "safety": "Navegação e segurança",
+    "entertaiment": "Entretenimento e eletrónica",
+    "people-also-interested": "as pessoas também estão interessadas",
+    "information-about-marina": "Informações sobre a marina",
+    "yacht-pickup": "Recolha do iate",
+    "saloon": "Salão e camarotes",
+    "if-cancelled-after": "A taxa de cancelamento é de 100% após"
 }
