@@ -1933,5 +1933,14 @@
     "drag-and-drop-your-photos-here": "Ziehen Sie Ihre Fotos hierher und legen Sie sie ab",
     "upload-your-photos": "Fotos zu Ihrer Bewertung hinzufügen",
     "search-input-can-select-only-{count}-locations": "Sie können nur {count} Ziele auswählen",
-    "search-input-selected": "Bereits ausgewählt"
+    "search-input-selected": "Bereits ausgewählt",
+    "saloon": "Salon und Kabinen",
+    "safety": "Navigation und Sicherheit",
+    "if-cancelled-after": "Die Stornogebühr ist 100% nach",
+    "yacht-pickup": "Check-in der Jacht",
+    "people-also-interested": "Menschen sind auch interessiert",
+    "entertaiment": "Unterhaltung und Elektronik",
+    "if-cancelled-before-{percentage}": "Die Stornogebühr beträgt {percentage}% des Gesamtpreises, wenn Sie Ihre Buchung vorher stornieren",
+    "information-about-marina": "Informationen über den Jachthafen",
+    "no-refund": "Nicht kostenlos stornierbar"
 }
