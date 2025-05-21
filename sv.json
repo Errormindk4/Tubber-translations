@@ -1901,5 +1901,6 @@
     "yacht-pickup": "Upphämtning av båt",
     "no-refund": "Inte återbetalningsbar",
     "if-cancelled-before-{percentage}": "Avbokningsavgiften är {percentage}% av det totala priset om du avbokar din bokning i förväg",
-    "if-cancelled-after": "Avbokningsavgiften är 100% efter"
+    "if-cancelled-after": "Avbokningsavgiften är 100% efter",
+    "most-popular-facilities": "Båtens mest populära utrustning"
 }
