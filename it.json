@@ -1901,5 +1901,6 @@
     "information-about-marina": "Informazioni sul porto turistico",
     "if-cancelled-after": "La tassa di cancellazione è del 100% dopo",
     "yacht-pickup": "Ritiro dello yacht",
-    "if-cancelled-before-{percentage}": "La penale di cancellazione è pari al {percentage}% del prezzo totale se cancelli la prenotazione prima"
+    "if-cancelled-before-{percentage}": "La penale di cancellazione è pari al {percentage}% del prezzo totale se cancelli la prenotazione prima",
+    "most-popular-facilities": "L'equipaggiamento più popolare dello yacht"
 }
