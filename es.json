@@ -1892,5 +1892,14 @@
     "drag-and-drop-your-photos-here": "Arrastre y suelte sus fotos aquí",
     "search-input-can-select-only-{count}-locations": "Sólo puede seleccionar {count} destinos",
     "upload-your-photos": "Añada fotos a su comentario",
-    "search-input-selected": "Ya elegido"
+    "search-input-selected": "Ya elegido",
+    "no-refund": "No reembolsable",
+    "if-cancelled-before-{percentage}": "La tarifa de cancelación es del {percentage}% del precio total si cancelas tu reserva antes",
+    "saloon": "Salón y camarotes",
+    "safety": "Navegación y seguridad",
+    "entertaiment": "Entretenimiento y electrónica",
+    "information-about-marina": "Información sobre el puerto deportivo",
+    "yacht-pickup": "Recogida de yates",
+    "people-also-interested": "la gente también está interesada",
+    "if-cancelled-after": "Los gastos de anulación son del 100% después de"
 }
