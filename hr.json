@@ -1838,5 +1838,6 @@
     "if-cancelled-before-{percentage}": "Naknada za otkazivanje iznosi {percentage}% ukupne cijene ako otkažete rezervaciju prije toga",
     "yacht-pickup": "Preuzimanje jahte",
     "information-about-marina": "Informacije o marini",
-    "most-popular-facilities": "Najpopularnija oprema jahte"
+    "most-popular-facilities": "Najpopularnija oprema jahte",
+    "cancellation-state": "Uvjeti otkazivanja"
 }
