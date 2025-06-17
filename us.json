@@ -1865,5 +1865,6 @@
     "if-cancelled-before-{percentage}": "The cancellation fee is {percentage}% from the total price if you cancel your reservation before",
     "entertaiment": "Entertainment and Electronics",
     "yacht-pickup": "Yacht pick-up",
-    "most-popular-facilities": "Most popular equipment of the yacht"
+    "most-popular-facilities": "Most popular equipment of the yacht",
+    "cancellation-state": "Cancellation conditions"
 }
