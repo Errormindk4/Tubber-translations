@@ -1943,5 +1943,6 @@
     "if-cancelled-before-{percentage}": "Die Stornogebühr beträgt {percentage}% des Gesamtpreises, wenn Sie Ihre Buchung vorher stornieren",
     "information-about-marina": "Informationen über den Jachthafen",
     "no-refund": "Nicht kostenlos stornierbar",
-    "most-popular-facilities": "Beliebteste Ausstattung der Yacht"
+    "most-popular-facilities": "Beliebteste Ausstattung der Yacht",
+    "cancellation-state": "Annullierungsbedingungen"
 }
