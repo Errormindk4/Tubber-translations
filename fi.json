@@ -1860,5 +1860,6 @@
     "if-cancelled-before-{percentage}": "Peruutusmaksu on {percentage}% kokonaishinnasta, jos peruutat varauksen ennen",
     "entertaiment": "Viihde ja elektroniikka",
     "information-about-marina": "Tietoa venesatamasta",
-    "most-popular-facilities": "Jahdin suosituimmat varusteet"
+    "most-popular-facilities": "Jahdin suosituimmat varusteet",
+    "cancellation-state": "Peruutusehdot"
 }
