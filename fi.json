@@ -1861,5 +1861,6 @@
     "entertaiment": "Viihde ja elektroniikka",
     "information-about-marina": "Tietoa venesatamasta",
     "most-popular-facilities": "Jahdin suosituimmat varusteet",
-    "cancellation-state": "Peruutusehdot"
+    "cancellation-state": "Peruutusehdot",
+    "schema-audience": "Perheet,Pariskunnat,Seikkailumatkustajat, Purjehduksen harrastajat"
 }
