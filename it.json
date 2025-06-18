@@ -1903,5 +1903,6 @@
     "yacht-pickup": "Ritiro dello yacht",
     "if-cancelled-before-{percentage}": "La penale di cancellazione è pari al {percentage}% del prezzo totale se cancelli la prenotazione prima",
     "most-popular-facilities": "L'equipaggiamento più popolare dello yacht",
-    "cancellation-state": "Condizioni di cancellazione"
+    "cancellation-state": "Condizioni di cancellazione",
+    "schema-audience": "Famiglie, coppie, viaggiatori avventurosi, appassionati di vela"
 }
