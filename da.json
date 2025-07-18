@@ -1907,5 +1907,9 @@
     "if-cancelled-before-{percentage}": "Aflysningsgebyret er {percentage}% af den samlede pris, hvis du annullerer din reservation før",
     "most-popular-facilities": "Yachtens mest populære udstyr",
     "cancellation-state": "Betingelser for afbestilling",
-    "schema-audience": "Familier, par, eventyrrejsende, sejlsportsentusiaster"
+    "schema-audience": "Familier, par, eventyrrejsende, sejlsportsentusiaster",
+    "reviews-text-head": "Din oplevelse betyder alt. Se hvad andre sejlere siger og oplev hvordan Tubber hele tiden bliver bedre.",
+    "reviews-text-page": "Kun gæster der rent faktisk har sejlet med Tubber kan skrive en anmeldelse. Det betyder at alle tilbagemeldinger er ægte, fra fantastiske sejlture til ærlige bemærkninger. Nogle både får lavere bedømmelser og dem viser vi også. Vi tror på gennemsigtighed så du altid ved hvad du kan forvente før du går ombord.",
+    "tubber-scores": "Anmeldelse på Tubber",
+    "reviews-on-tubber": "Anmeldelser på Tubber"
 }
