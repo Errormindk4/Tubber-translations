@@ -1904,5 +1904,9 @@
     "if-cancelled-after": "Avbokningsavgiften är 100% efter",
     "most-popular-facilities": "Båtens mest populära utrustning",
     "cancellation-state": "Villkor för avbokning",
-    "schema-audience": "Familjer,Par,Äventyrsresenärer,Seglingsentusiaster"
+    "schema-audience": "Familjer,Par,Äventyrsresenärer,Seglingsentusiaster",
+    "reviews-on-tubber": "Recensioner på Tubber",
+    "reviews-text-head": "Din upplevelse är viktig. Se vad andra seglare säger och hur Tubber ständigt blir bättre.",
+    "reviews-text-page": "Endast gäster som faktiskt har seglat med Tubber kan lämna en recension. Det betyder att all feedback är äkta, från oförglömliga upplevelser till ärliga kommentarer. Vissa båtar får lägre betyg och vi visar även dem. Vi tror på öppenhet så att du alltid vet vad du kan förvänta dig innan du går ombord.",
+    "tubber-scores": "Recension på Tubber"
 }
