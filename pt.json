@@ -1905,5 +1905,9 @@
     "if-cancelled-after": "A taxa de cancelamento é de 100% após",
     "most-popular-facilities": "Equipamento mais popular do iate",
     "cancellation-state": "Condições de anulação",
-    "schema-audience": "Famílias, casais, viajantes de aventura, entusiastas da vela"
+    "schema-audience": "Famílias, casais, viajantes de aventura, entusiastas da vela",
+    "reviews-text-head": "A sua experiência é importante. Veja o que outros navegadores dizem e como a Tubber está sempre a melhorar.",
+    "reviews-text-page": "Apenas os hóspedes que realmente navegaram com a Tubber podem deixar uma avaliação. Isso significa que todos os comentários são autênticos, desde experiências inesquecíveis até observações sinceras. Alguns barcos recebem avaliações mais baixas e também as mostramos. Acreditamos na transparência para que você saiba exatamente o que esperar antes de embarcar.",
+    "tubber-scores": "Avaliação no Tubber",
+    "reviews-on-tubber": "Avaliações no Tubber"
 }
