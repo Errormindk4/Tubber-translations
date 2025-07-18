@@ -1862,5 +1862,9 @@
     "information-about-marina": "Tietoa venesatamasta",
     "most-popular-facilities": "Jahdin suosituimmat varusteet",
     "cancellation-state": "Peruutusehdot",
-    "schema-audience": "Perheet,Pariskunnat,Seikkailumatkustajat, Purjehduksen harrastajat"
+    "schema-audience": "Perheet,Pariskunnat,Seikkailumatkustajat, Purjehduksen harrastajat",
+    "reviews-on-tubber": "Arvostelut Tubber",
+    "reviews-text-page": "Vain asiakkaat, jotka ovat oikeasti purjehtineet Tubberin kautta, voivat jättää arvostelun. Tämä tarkoittaa, että kaikki palautteet ovat aitoja, unohtumattomista elämyksistä rehellisiin huomioihin. Jotkut veneet saavat matalampia arvioita ja näytämme nekin. Meille avoimuus on tärkeää, jotta tiedät tarkalleen mitä odottaa ennen kuin astut veneeseen.",
+    "tubber-scores": "Arvostelu Tubber",
+    "reviews-text-head": "Kokemuksesi on tärkeä. Katso mitä muut purjehtijat sanovat ja miten Tubber kehittyy jatkuvasti."
 }
