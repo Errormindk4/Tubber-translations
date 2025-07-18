@@ -1904,5 +1904,9 @@
     "entertaiment": "Divertissement et électronique",
     "most-popular-facilities": "Les équipements les plus populaires du yacht",
     "cancellation-state": "Conditions d'annulation",
-    "schema-audience": "Familles, couples, voyageurs d'aventure, passionnés de voile"
+    "schema-audience": "Familles, couples, voyageurs d'aventure, passionnés de voile",
+    "reviews-text-page": "Seuls les voyageurs ayant réellement navigué avec Tubber peuvent laisser un avis. Cela signifie que tous les retours sont authentiques, des expériences inoubliables aux remarques honnêtes. Certains bateaux reçoivent des évaluations plus basses et nous les affichons aussi. Nous croyons en la transparence pour que vous sachiez exactement à quoi vous attendre avant d’embarquer.",
+    "reviews-on-tubber": "Avis sur Tubber",
+    "reviews-text-head": "Votre expérience compte. Découvrez ce que disent les autres marins et comment Tubber s’améliore chaque jour.",
+    "tubber-scores": "Avis sur Tubber"
 }
