@@ -49,10 +49,10 @@
     "your-prices-couldn-t-be-s": "Twoje ceny nie mogły zostać zapisane.",
     "your-prices-have-been-del": "Twoje ceny zostały usunięte.",
     "your-prices-have-been-cop": "Twoje ceny zostały skopiowane.",
-    "your-boat-has-been-added-": "Twoja łódź została dodana.",
-    "your-boat-couldn-t-be-add": "Twoja łódź nie mogła zostać dodana.",
-    "your-boat-has-been-cloned": "Twoja łódź została sklonowana.",
-    "your-boat-couldn-t-be-clo": "Twoja łódź nie mogła zostać sklonowana.",
+    "your-boat-has-been-added-": "Twój jacht został dodany.",
+    "your-boat-couldn-t-be-add": "Twój jacht nie mógł zostać dodany.",
+    "your-boat-has-been-cloned": "Twój jacht został sklonowany.",
+    "your-boat-couldn-t-be-clo": "Twój jacht nie mógł zostać sklonowany.",
     "your-booking-has-been-con": "Twoja rezerwacja została potwierdzona.",
     "your-booking-couldn-t-be": "Twoja rezerwacja nie mogła zostać potwierdzona.",
     "your-insurance-has-been-r": "Twoja prośba o ubezpieczenie została wysłana.",
@@ -1913,5 +1913,11 @@
     "almost-ready-to-book": "Gotowy do rezerwacji",
     "ready-to-confirm-booking": "Gotowy do potwierdzenia rezerwacji",
     "exploring-options": "Badanie możliwości",
-    "planing-stage": "Mój etap planowania"
+    "planing-stage": "Mój etap planowania",
+    "still-interested-in-properties": "Nadal jesteś zainteresowany tymi jachtami?",
+    "offers-homepage-header": "Oferty",
+    "you-are-subscribed": "Zostałeś pomyślnie zasubskrybowany",
+    "no-metter-what-kind": "Bez względu na to, jaki rodzaj łodzi masz na myśli, tutaj znajdziesz idealne dopasowanie",
+    "offers-homepage-subtitle": "Promocje, okazje i oferty specjalne dla Ciebie",
+    "explore-a-wide-range": "Odkryj jachty, które możesz zarezerwować bez obaw, w najlepszych żeglarskich destynacjach na świecie."
 }
