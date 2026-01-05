@@ -1856,7 +1856,7 @@
     "boat_rental_suit_every_budget": "Båtuthyrning som passar alla budgetar",
     "rent_sailing_yacht_catamaran_with_without_skipper": "Hyr en segelbåt eller katamaran med eller utan skeppare, motorbåt eller annan typ av båt",
     "your-booking-is-confirmed": "din bokning är bekräftad",
-    "now-you-can-tell": "Nu kan du börja berätta för alla att du kommer att segla i {värde} som en riktig pirat!",
+    "now-you-can-tell": "Nu kan du börja berätta för alla att du kommer att segla i {value} som en riktig pirat!",
     "hide-full-extras-list": "Dölj fullständig lista över extramaterial",
     "cost_hiring_professional_skipper_additional": "Tänk på att kostnaden för att anlita en professionell skeppare vanligtvis tillkommer, så det är värt att tala direkt med ägaren för att bekräfta detta. Det bör också noteras att båtar vanligtvis hyrs ut per vecka och att priserna också kan variera beroende på säsong.",
     "early_booking_discounts_boat_rental_benefits": "Om du bokar din båt och flyg i god tid får du dessutom ofta rabatter på tidig bokning. Båtuthyrning utgör ett konkurrenskraftigt alternativ för din nästa semester, vilket eliminerar kostnader för hotell och restauranger samtidigt som det ger möjlighet att utforska olika kustlinjer och öar.",
@@ -1913,5 +1913,11 @@
     "ready-to-confirm-booking": "Redo att bekräfta bokningen",
     "exploring-options": "Utforska olika alternativ",
     "black-friday-up-to": "UPP TILL",
-    "planing-stage": "Min planeringsfas"
+    "planing-stage": "Min planeringsfas",
+    "still-interested-in-properties": "Är du fortfarande intresserad av dessa båtar?",
+    "offers-homepage-header": "Erbjudanden",
+    "offers-homepage-subtitle": "Kampanjer, erbjudanden och specialerbjudanden för dig",
+    "explore-a-wide-range": "Upptäck båtar som du kan boka med tillförsikt, på världens bästa seglingsdestinationer.",
+    "you-are-subscribed": "Du är framgångsrikt prenumerant",
+    "no-metter-what-kind": "Oavsett vilken typ av båt du har i åtanke finns den perfekta matchningen här"
 }
