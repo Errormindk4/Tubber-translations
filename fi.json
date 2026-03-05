@@ -1920,5 +1920,6 @@
     "boat_rental_cost_factors_budget_flexibility": "Budjetin osalta veneen vuokraaminen ystävien ja perheen kanssa voi olla niin joustavaa kuin haluat. Keskimääräiset hinnat vaihtelevat yleensä 250-1000 euron välillä henkeä kohti viikossa, mutta nämä luvut voivat vaihdella huomattavasti esimerkiksi venetyypin, purjehduspäivämäärien ja valitun matkakohteen mukaan. Valitsemalla ruuhkahuippujen ulkopuoliset sesongit, kuten heinä- ja elokuun ulkopuolella, voi saada huomattavia säästöjä. ",
     "we-will-text-you": "Lähetämme sinulle tekstiviestillä linkin sovelluksemme lataamiseen.",
     "now-you-can-tell": "Nyt voit alkaa kertoa kaikille, että lähdet purjehtimaan {value} oikeana merirosvona!",
-    "free-cancellation-link-book": "https://www.tubber.com/fi/how-it-works/"
+    "free-cancellation-link-book": "https://www.tubber.com/fi/how-it-works/",
+    "insurance-pricing": "Takuu-paketti"
 }
