@@ -7,7 +7,7 @@
     "information": "Tiedot",
     "how-it-works": "Miten se toimii",
     "rent-out-your-boat": "Vuokraa veneesi",
-    "insurance": "Vakuutus",
+    "insurance": "Takuu",
     "destinations": "matkakohteet",
     "all-countries-and-cities": "Kaikki maat ja kaupungit",
     "terms": "ehdot",
@@ -1928,5 +1928,6 @@
     "per-booking": "per varaus",
     "immediate-payment": "maksa nyt",
     "guarantee-program": "Tubber-takuu",
-    "before": "ennen"
+    "before": "ennen",
+    "get-insurance": "Hanki takuu"
 }
