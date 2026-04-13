@@ -7,7 +7,7 @@
     "information": "Informacija",
     "how-it-works": "Kako to funkcionira",
     "rent-out-your-boat": "Iznajmi svoj brod",
-    "insurance": "Osiguranje",
+    "insurance": "Jamstvo",
     "destinations": "Odredišta",
     "all-countries-and-cities": "Sve zemlje i gradovi",
     "terms": "odredbe",
@@ -1928,5 +1928,6 @@
     "per-booking": "po rezervaciji",
     "immediate-payment": "Plaćanje sada",
     "guarantee-program": "Tubber jamstvo",
-    "before": "prije"
+    "before": "prije",
+    "get-insurance": "Dobijte jamstvo"
 }
