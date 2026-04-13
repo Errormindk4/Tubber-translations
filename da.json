@@ -7,7 +7,7 @@
     "information": "Information",
     "how-it-works": "Hvordan det virker",
     "rent-out-your-boat": "Lej dine både ud",
-    "insurance": "Forsikring",
+    "insurance": "Garanti",
     "destinations": "destinationer",
     "all-countries-and-cities": "Alle lande og byer",
     "terms": "betingelser",
@@ -1931,5 +1931,6 @@
     "per-booking": "pr. booking",
     "immediate-payment": "Betal nu",
     "guarantee-program": "Tubber-garanti",
-    "before": "før"
+    "before": "før",
+    "get-insurance": "Få garanti"
 }
