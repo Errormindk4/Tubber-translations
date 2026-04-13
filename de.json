@@ -23,7 +23,7 @@
     "information": "Information",
     "how-it-works": "Wie es funktioniert",
     "rent-out-your-boat": "Vermieten Sie Ihre Jacht",
-    "insurance": "Versicherung",
+    "insurance": "Garantie",
     "destinations": "Reiseziele",
     "all-countries-and-cities": "Alle Länder und Städte",
     "terms": "Raten",
@@ -1969,5 +1969,6 @@
     "per-booking": "pro Buchung",
     "immediate-payment": "jetzt bezahlen",
     "guarantee-program": "Tubber Garantie",
-    "before": "vor"
+    "before": "vor",
+    "get-insurance": "Garantie erhalten"
 }
