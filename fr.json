@@ -7,7 +7,7 @@
     "information": "Informations",
     "how-it-works": "Comment ça marche",
     "rent-out-your-boat": "Louez vos bateaux",
-    "insurance": "Assurance",
+    "insurance": "Garantie",
     "destinations": "Destinations",
     "all-countries-and-cities": "Tous les pays et villes",
     "terms": "termes",
@@ -1928,5 +1928,6 @@
     "per-booking": "par réservation",
     "immediate-payment": "payer maintenant",
     "guarantee-program": "Garantie du Tubber",
-    "before": "avant"
+    "before": "avant",
+    "get-insurance": "Obtenir une garantie"
 }
